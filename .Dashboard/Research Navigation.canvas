@@ -1,0 +1,19 @@
+{
+	"name":"Research Navigation",
+	"nodes":[
+		{"id":"1","type":"file","file":"Dashboard/Dashboard.md","x":-400,"y":0,"width":300,"height":200},
+		{"id":"2","type":"text","text":"# 🔬 Research Domain\n\nEngineering • Mathematics • Physics","x":0,"y":0,"width":280,"height":150},
+		{"id":"3","type":"file","file":"2-Research/Engineering","x":320,"y":-150,"width":220,"height":120},
+		{"id":"4","type":"file","file":"2-Research/Mathematics","x":320,"y":-10,"width":220,"height":120},
+		{"id":"5","type":"file","file":"2-Research/Physics","x":320,"y":130,"width":220,"height":120},
+		{"id":"6","type":"text","text":"## Focus Areas\n\n- Literature Reviews\n- Concept Development\n- Active Projects\n- Technical Notes","x":600,"y":0,"width":200,"height":180}
+	],
+	"connections":[
+		{"fromNode":"2","toNode":"3"},
+		{"fromNode":"2","toNode":"4"},
+		{"fromNode":"2","toNode":"5"},
+		{"fromNode":"3","toNode":"6"},
+		{"fromNode":"4","toNode":"6"},
+		{"fromNode":"5","toNode":"6"}
+	]
+}
