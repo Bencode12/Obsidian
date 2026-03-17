@@ -13,7 +13,7 @@
 - [[Units/Geography|Geography]]
 - [[Units/History|History]]
 - [[Units/Integrated|Integrated]]
-- [[Units/Lietuviu/Mitologija/Illiada|Lietuvių / Mitologija / Illiada]]
+- [[Units/Lietuviu/|Lietuvių]]
 - [[Units/Mathematics|Mathematics]]
 - [[Units/Sciences/Physics|Physics]]
 - [[Units/Sciences/Biology|Biology]]

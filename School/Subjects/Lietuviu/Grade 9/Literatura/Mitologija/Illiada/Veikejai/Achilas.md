@@ -1,4 +1,3 @@
-# Achilas
 
 Tipas: veikėjas
 

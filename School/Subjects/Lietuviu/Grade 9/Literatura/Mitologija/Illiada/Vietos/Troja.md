@@ -1,4 +1,3 @@
-# Troja
 
 Senovinis miestas Mažojoje Azijoje, [[Trojos karas|Trojos karo] centras ir pagrindinė karo vieta.
 
