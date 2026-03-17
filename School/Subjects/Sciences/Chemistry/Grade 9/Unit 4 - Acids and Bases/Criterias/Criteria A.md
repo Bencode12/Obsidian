@@ -1,55 +1,104 @@
 
 ---
-## 🧪 Indicators
 
-Indicators are substances that **change colour** depending on the pH of a solution.
+## 📌 What is Criterion A?
 
-|Indicator|In Acid|In Neutral|In Alkali|
+> [!info] Criterion A — Knowing and Understanding Criterion A tests whether you can **recall, explain, and apply** scientific knowledge about acids and bases — both in familiar situations you have practised and in new, unfamiliar contexts. **Maximum: 8 marks**
+
+The three things you are assessed on:
+
+|Strand|What you must do at 7–8|
+|---|---|
+|**i**|**Explain** scientific knowledge|
+|**ii**|**Apply** scientific knowledge to solve problems in **familiar and unfamiliar** situations|
+|**iii**|**Analyse and evaluate** information to make scientifically supported judgements|
+
+---
+
+## 📊 Scoring Rubric
+
+|Band|Level Descriptor|
+|---|---|
+|**0**|Does not reach any standard below|
+|**1–2**|States scientific knowledge; suggests solutions to familiar problems; interprets information to make judgements|
+|**3–4**|Outlines scientific knowledge; solves problems in familiar situations; interprets information to make scientifically supported judgements|
+|**5–6**|Describes scientific knowledge; solves familiar problems and suggests solutions to unfamiliar ones; analyses information to make scientifically supported judgements|
+|**7–8**|**Explains** scientific knowledge; solves problems in **familiar and unfamiliar** situations; **analyses and evaluates** information to make scientifically supported judgements|
+
+> [!tip] Verb ladder state → outline → describe → **explain** interpret → interpret with science → analyse → **analyse and evaluate**
+
+---
+
+## Topic 1 — Classifying Substances
+
+### Must know
+
+All substances in this unit fall into one of four classes:
+
+|Class|Definition|Examples|
+|---|---|---|
+|**Acids**|Release $\text{H}^+$ ions in water|$\text{HCl}$, $\text{H}_2\text{SO}_4$, $\text{HNO}_3$, $\text{H}_3\text{PO}_4$|
+|**Bases / hydroxides**|Release $\text{OH}^-$ ions in water|$\text{NaOH}$, $\text{Ca(OH)}_2$, $\text{Cu(OH)}_2$|
+|**Salts**|Metal ion + acid anion|$\text{NaCl}$, $\text{CuSO}_4$, $\text{Na}_2\text{CO}_3$|
+|**Oxides**|Two elements, one is O|$\text{SO}_2$ (acidic), $\text{CaO}$ (basic)|
+
+### Hydroacids vs Oxoacids
+
+|Type|Rule|Examples|
+|---|---|---|
+|**Hydroacid** (no oxygen)|$\text{H}$ + non-metal|$\text{HCl}$, $\text{H}_2\text{S}$, $\text{HF}$, $\text{HBr}$|
+|**Oxoacid** (contains oxygen)|Acidic oxide + $\text{H}_2\text{O}$|$\text{H}_2\text{SO}_4$, $\text{HNO}_3$, $\text{H}_3\text{PO}_4$, $\text{H}_2\text{CO}_3$|
+
+### Named acids and their uses
+
+|Formula|Name|Key Uses|
+|---|---|---|
+|$\text{HCl}$|Hydrochloric acid|Stomach acid, metal cleaning, PVC|
+|$\text{H}_2\text{SO}_4$|Sulphuric acid|Car batteries, fertilisers, industry|
+|$\text{HNO}_3$|Nitric acid|Fertilisers, explosives, dyes|
+|$\text{H}_3\text{PO}_4$|Phosphoric acid|Fertilisers, food/drinks, rust removal|
+|$\text{H}_2\text{CO}_3$|Carbonic acid|Carbonated drinks|
+|$\text{H}_2\text{S}$|Hydrosulphuric acid|Analytical chemistry|
+|$\text{HF}$|Hydrofluoric acid|Glass etching, semiconductors|
+|$\text{CH}_3\text{COOH}$|Ethanoic (acetic) acid|Vinegar, solvent|
+
+---
+
+## Topic 2 — Indicators and pH
+
+### Indicators
+
+|Indicator|In Acid|Neutral|In Alkali|
 |---|---|---|---|
-|Litmus|🔴 Red|Purple|🔵 Blue|
-|Universal Ind.|Red/Orange|Green|Blue/Purple|
-|Phenolphthalein|Colourless|Colourless|Pink/Magenta|
-|Methyl Orange|Red|Orange|Yellow|
+|Litmus|🔴 Red|Violet|🔵 Blue|
+|Phenolphthalein|Colourless|Colourless|💜 Pink|
+|Methyl orange|🔴 Red|Orange|🟡 Yellow|
+|Universal indicator|Red|Green|Blue/Purple|
 
-> [!tip] pH Scale
-> 
-> - **pH < 7** → Acidic
-> - **pH = 7** → Neutral
-> - **pH > 7** → Alkaline/Basic
+### pH formula
+
+$$\text{pH} = -\log, c(\text{H}^+)$$
+
+|$c(\text{H}^+)$ mol/L|pH|Classification|
+|---|---|---|
+|$10^{-1}$|1|Strongly acidic|
+|$10^{-4}$|4|Weakly acidic|
+|$10^{-7}$|7|Neutral|
+|$10^{-11}$|11|Alkaline|
+
+> [!warning] Every 1 unit of pH = 10× change in $[\text{H}^+]$
+
+### Water autoionisation
+
+$$\text{H}_2\text{O}_{(l)} \rightleftharpoons \text{H}^+_{(aq)} + \text{OH}^-_{(aq)}$$
+
+At 25°C: $c(\text{H}^+) = c(\text{OH}^-) = 10^{-7}$ mol/L → pH = 7
 
 ---
 
-## 🧫 Names & Fields of Application
+## Topic 3 — Obtaining Acids
 
-### Acids Without Oxygen (Hydroacids)
-
-|Formula|Name|Common Uses / Fields|
-|---|---|---|
-|$\text{HCl}$|Hydrochloric acid|Digestion (stomach acid), metal cleaning, PVC production|
-|$\text{H}_2\text{S}$|Hydrosulphuric acid|Analytical chemistry, production of sulphur compounds|
-|$\text{HF}$|Hydrofluoric acid|Glass etching, semiconductor manufacture|
-|$\text{HBr}$|Hydrobromic acid|Pharmaceutical synthesis, flame retardants|
-|$\text{HI}$|Hydroiodic acid|Organic synthesis, reducing agent|
-|$\text{HCN}$|Hydrocyanic acid|Electroplating, chemical synthesis (highly toxic)|
-
-### Acids With Oxygen (Oxoacids)
-
-|Formula|Name|Common Uses / Fields|
-|---|---|---|
-|$\text{H}_2\text{SO}_4$|Sulphuric acid|Car batteries, fertilisers, chemical industry|
-|$\text{HNO}_3$|Nitric acid|Fertilisers (ammonium nitrate), explosives, dyes|
-|$\text{H}_3\text{PO}_4$|Phosphoric acid|Fertilisers, food additive (cola drinks), rust removal|
-|$\text{H}_2\text{CO}_3$|Carbonic acid|Carbonated drinks, mild acidifier|
-|$\text{H}_2\text{SO}_3$|Sulphurous acid|Food preservative, bleaching agent|
-|$\text{CH}_3\text{COOH}$|Ethanoic (acetic) acid|Vinegar, solvent, chemical synthesis|
-
----
-
-## 🔬 Obtaining Acids — Synthesis Reactions
-
-### Rule: Acids Without Oxygen
-
-> [!rule] How to obtain hydroacids (no oxygen) Combine **hydrogen** directly with a **non-metal**, or dissolve the resulting gas in water.
+### Hydroacids — H₂ + non-metal
 
 $$\text{H}_2 + \text{Cl}_2 \rightarrow 2\text{HCl}$$
 
@@ -57,13 +106,7 @@ $$\text{H}_2 + \text{S} \rightarrow \text{H}_2\text{S}$$
 
 $$\text{H}_2 + \text{Br}_2 \rightarrow 2\text{HBr}$$
 
-$$\text{H}_2 + \text{F}_2 \rightarrow 2\text{HF}$$
-
-### Rule: Acids With Oxygen
-
-> [!rule] How to obtain oxoacids React a **non-metal oxide** (acidic oxide) with **water**.
-
-$$\text{CO}_2 + \text{H}_2\text{O} \rightarrow \text{H}_2\text{CO}_3$$
+### Oxoacids — acidic oxide + H₂O
 
 $$\text{SO}_2 + \text{H}_2\text{O} \rightarrow \text{H}_2\text{SO}_3$$
 
@@ -71,148 +114,205 @@ $$\text{SO}_3 + \text{H}_2\text{O} \rightarrow \text{H}_2\text{SO}_4$$
 
 $$\text{N}_2\text{O}_5 + \text{H}_2\text{O} \rightarrow 2\text{HNO}_3$$
 
-$$\text{P}_2\text{O}_5 + 3\text{H}_2\text{O} \rightarrow 2\text{H}_3\text{PO}_4$$
+$$\text{CO}_2 + \text{H}_2\text{O} \rightarrow \text{H}_2\text{CO}_3$$
 
-> [!note] Note on $\text{P}_2\text{O}_5$ Your notes show $\text{P}_2\text{O}_3$, but the common form used to make phosphoric acid is **$\text{P}_2\text{O}_5$** (phosphorus pentoxide). $\text{P}_2\text{O}_3$ gives $\text{H}_3\text{PO}_3$ (phosphorous acid) instead.
+$$\text{P}_2\text{O}_5 + 3\text{H}_2\text{O} \rightarrow 2\text{H}_3\text{PO}_4$$
 
 ---
 
-## ⚡ Strong vs Weak Acids
-
-### Key Differences
+## Topic 4 — Strong and Weak Acids
 
 |Property|Strong Acid|Weak Acid|
 |---|---|---|
-|Ionisation|**Complete** — fully dissociates|**Partial** — equilibrium exists|
-|pH (same concentration)|Lower (e.g. 0–2)|Higher (e.g. 3–6)|
-|Reactivity|More vigorous|Slower, milder|
+|Ionisation|Complete (100%)|Partial — equilibrium|
+|Arrow used|$\rightarrow$|$\rightleftharpoons$|
+|pH (same concentration)|Lower|Higher|
 |Conductivity|Higher|Lower|
-|Equation arrow|$\rightarrow$ (one way)|$\rightleftharpoons$ (reversible)|
+|Reactivity|More vigorous|Milder|
 
-### Strong Acids (memorise these)
+**Strong acids:** $\text{HCl}$, $\text{H}_2\text{SO}_4$, $\text{HNO}_3$, $\text{HBr}$, $\text{HI}$, $\text{HClO}_4$
 
-$$\text{HCl}, \quad \text{H}_2\text{SO}_4, \quad \text{HNO}_3, \quad \text{HBr}, \quad \text{HI}, \quad \text{HClO}_4$$
+**Weak acids:** $\text{H}_2\text{CO}_3$, $\text{CH}_3\text{COOH}$, $\text{H}_2\text{S}$, $\text{H}_3\text{PO}_4$, $\text{HF}$
 
-### Weak Acids (examples)
-
-$$\text{H}_2\text{CO}_3, \quad \text{CH}_3\text{COOH}, \quad \text{H}_2\text{S}, \quad \text{H}_3\text{PO}_4, \quad \text{HF}$$
-
-> [!warning] HF is weak despite being highly dangerous! Hydrofluoric acid is a _weak_ acid (partial ionisation) but is extremely hazardous due to its ability to penetrate tissue and bind calcium ions.
+> [!warning] HF is a weak acid but extremely dangerous — weakness ≠ safe
 
 ---
 
-## ⚗️ Dissociation Equations
+## Topic 5 — Dissociation Equations
 
-### Strong Acid — Complete Ionisation (use $\rightarrow$)
+### Strong acid — one-way arrow
 
-$$\text{HCl}_{\text{(aq)}} \rightarrow \text{H}^+_{\text{(aq)}} + \text{Cl}^-_{\text{(aq)}}$$
+$$\text{HCl}_{(aq)} \rightarrow \text{H}^+_{(aq)} + \text{Cl}^-_{(aq)}$$
 
-$$\text{HNO}_3 \rightarrow \text{H}^+ + \text{NO}_3^-$$
+$$\text{HNO}_{3(aq)} \rightarrow \text{H}^+_{(aq)} + \text{NO}^-_{3(aq)}$$
 
-### Diprotic Acid — Two-Stage Ionisation
+### H₂SO₄ — two stages
 
-Sulphuric acid ($\text{H}_2\text{SO}_4$) donates protons in **two steps**:
+$$\text{H}_2\text{SO}_{4(aq)} \rightarrow \text{H}^+_{(aq)} + \text{HSO}^-_{4(aq)} \quad \text{(complete)}$$
 
-$$\text{H}_2\text{SO}_{4\text{(aq)}} \rightarrow \text{H}^+_{\text{(aq)}} + \text{HSO}^-_{4\text{(aq)}} \quad \text{(Stage 1 — strong, complete)}$$
+$$\text{HSO}^-_{4(aq)} \rightleftharpoons \text{H}^+_{(aq)} + \text{SO}^{2-}_{4(aq)} \quad \text{(partial)}$$
 
-$$\text{HSO}^-_{4\text{(aq)}} \rightleftharpoons \text{H}^+_{\text{(aq)}} + \text{SO}^{2-}_{4\text{(aq)}} \quad \text{(Stage 2 — weak, partial)}$$
+### Weak acid — equilibrium arrow
 
-### Weak Acid — Partial Ionisation (use $\rightleftharpoons$)
+$$\text{H}_2\text{CO}_{3(aq)} \rightleftharpoons \text{H}^+_{(aq)} + \text{HCO}^-_{3(aq)}$$
 
-$$\text{H}_2\text{CO}_{3\text{(aq)}} \rightleftharpoons \text{H}^+_{\text{(aq)}} + \text{HCO}^-_{3\text{(aq)}}$$
-
-$$\text{HCO}^-_{3\text{(aq)}} \rightleftharpoons \text{H}^+_{\text{(aq)}} + \text{CO}^{2-}_{3\text{(aq)}}$$
-
-$$\text{CH}_3\text{COOH}_{\text{(aq)}} \rightleftharpoons \text{H}^+_{\text{(aq)}} + \text{CH}_3\text{COO}^-_{\text{(aq)}}$$
-
-> [!info] What does ionisation mean? When an acid dissolves in water, it releases $\text{H}^+$ (proton / hydrogen ion). It's this $\text{H}^+$ that makes a solution acidic and drives all acid reactions.
+$$\text{CH}_3\text{COOH}_{(aq)} \rightleftharpoons \text{H}^+_{(aq)} + \text{CH}_3\text{COO}^-_{(aq)}$$
 
 ---
 
-## 🔁 Neutralisation Reactions
+## Topic 6 — Bases and Alkalis
 
-> [!rule] General equation $$\text{Acid} + \text{Base} \rightarrow \text{Salt} + \text{Water}$$
+> [!info] Definition A **base** increases $[\text{OH}^-]$ in solution. A **soluble** base is called an **alkali**.
 
-### Examples
+### Obtaining alkalis
 
-$$\text{HCl} + \text{NaOH} \rightarrow \text{NaCl} + \text{H}_2\text{O}$$
+**Group I/II metals + water:** $$2\text{Na} + 2\text{H}_2\text{O} \rightarrow 2\text{NaOH} + \text{H}_2 \uparrow$$ $$\text{Ca} + 2\text{H}_2\text{O} \rightarrow \text{Ca(OH)}_2 + \text{H}_2 \uparrow$$
 
-$$\text{H}_2\text{SO}_4 + 2\text{KOH} \rightarrow \text{K}_2\text{SO}_4 + 2\text{H}_2\text{O}$$
+**Metal oxides + water:** $$\text{Na}_2\text{O} + \text{H}_2\text{O} \rightarrow 2\text{NaOH}$$ $$\text{CaO} + \text{H}_2\text{O} \rightarrow \text{Ca(OH)}_2$$
 
-$$\text{HNO}_3 + \text{NaOH} \rightarrow \text{NaNO}_3 + \text{H}_2\text{O}$$
+### Strong vs weak bases
 
-$$2\text{HCl} + \text{Ca(OH)}_2 \rightarrow \text{CaCl}_2 + 2\text{H}_2\text{O}$$
+|Strong bases|Weak bases|
+|---|---|
+|$\text{NaOH}$, $\text{KOH}$, $\text{Ca(OH)}_2$, $\text{Ba(OH)}_2$|$\text{NH}_3$, $\text{Mg(OH)}_2$, all insoluble hydroxides|
 
-### Acid + Metal Oxide (Base with no OH⁻)
+**Ammonia — weak base:** $$\text{NH}_{3(aq)} + \text{H}_2\text{O} \rightleftharpoons \text{NH}^+_{4(aq)} + \text{OH}^-_{(aq)}$$
 
-$$\text{H}_2\text{SO}_4 + \text{CuO} \rightarrow \text{CuSO}_4 + \text{H}_2\text{O}$$
+### Insoluble hydroxide decomposition (on heating)
 
-$$2\text{HCl} + \text{MgO} \rightarrow \text{MgCl}_2 + \text{H}_2\text{O}$$
+$$\text{Cu(OH)}_{2(s)} \xrightarrow{\Delta} \text{CuO}_{(s)} + \text{H}_2\text{O}_{(g)}$$
 
-> [!tip] How to name the salt Salt name = **metal name** + **acid anion name**
+$$\text{Fe(OH)}_{3(s)} \xrightarrow{\Delta} \text{Fe}_2\text{O}_{3(s)} + \text{H}_2\text{O}_{(g)}$$
+
+---
+
+## Topic 7 — Neutralisation Reactions
+
+> [!rule] All neutralisation patterns
 > 
-> - HCl → chloride → NaCl = _sodium chloride_
-> - H₂SO₄ → sulphate → CuSO₄ = _copper(II) sulphate_
-> - HNO₃ → nitrate → NaNO₃ = _sodium nitrate_
+> - Acid + metal hydroxide → salt + water
+> - Acid + metal oxide → salt + water
+> - Acid + metal carbonate → salt + $\text{CO}_2$ + water
 
----
+### Molecular and net ionic equations
 
-## 🧂 Reactions of Acids with Salts
+**Acid + hydroxide:** $$\text{HCl} + \text{NaOH} \rightarrow \text{NaCl} + \text{H}_2\text{O}$$ $$\text{Al(OH)}_3 + 3\text{HCl} \rightarrow \text{AlCl}_3 + 3\text{H}_2\text{O}$$ $$\text{Ba(OH)}_2 + \text{H}_2\text{SO}_4 \rightarrow \text{BaSO}_4 \downarrow + 2\text{H}_2\text{O}$$
 
-> [!rule] Condition A reaction occurs if the product is an **insoluble precipitate**, a **gas**, or **water** — something that removes ions from solution.
+**Acid + metal oxide:** $$\text{MgO} + 2\text{HCl} \rightarrow \text{MgCl}_2 + \text{H}_2\text{O}$$ $$\text{Fe}_2\text{O}_3 + 6\text{HNO}_3 \rightarrow 2\text{Fe(NO}_3)_3 + 3\text{H}_2\text{O}$$
 
-$$\text{Acid} + \text{Salt} \rightarrow \text{New acid} + \text{New salt}$$
+**Acid + carbonate:** $$2\text{HCl} + \text{Na}_2\text{CO}_3 \rightarrow 2\text{NaCl} + \text{H}_2\text{O} + \text{CO}_2 \uparrow$$ $$\text{H}_2\text{SO}_4 + \text{MgCO}_3 \rightarrow \text{MgSO}_4 + \text{H}_2\text{O} + \text{CO}_2 \uparrow$$
 
-### Examples
+**Base + acidic oxide:** $$\text{NaOH} + \text{SO}_2 \rightarrow \text{Na}_2\text{SO}_3 + \text{H}_2\text{O}$$ $$\text{Ca(OH)}_2 + \text{N}_2\text{O}_5 \rightarrow \text{Ca(NO}_3)_2 + \text{H}_2\text{O}$$
 
-**Producing a precipitate:** $$\text{H}_2\text{SO}_4 + \text{BaCl}_2 \rightarrow \text{BaSO}_4 \downarrow + 2\text{HCl}$$
+### pH of neutralisation products
 
-**Producing a gas (CO₂):** $$2\text{HCl} + \text{Na}_2\text{CO}_3 \rightarrow 2\text{NaCl} + \text{H}_2\text{O} + \text{CO}_2 \uparrow$$
+|Combination|Product pH|
+|---|---|
+|Strong acid + Strong base|7|
+|Strong acid + Weak base|< 7|
+|Weak acid + Strong base|> 7|
 
-$$\text{H}_2\text{SO}_4 + \text{Na}_2\text{CO}_3 \rightarrow \text{Na}_2\text{SO}_4 + \text{H}_2\text{O} + \text{CO}_2 \uparrow$$
+### Naming salts
 
-**Displacing a weaker acid:** $$2\text{HCl} + \text{Na}_2\text{S} \rightarrow 2\text{NaCl} + \text{H}_2\text{S} \uparrow$$
+Salt = **metal name** + **anion from acid**
 
-> [!note] Why does this work? A **stronger acid** displaces a **weaker acid** from its salt. For example, HCl (strong) displaces H₂S (weak) from sodium sulphide.
-
----
-
-## ⚙️ Reactions of Acids with Metals
-
-> [!rule] General equation $$\text{Acid} + \text{Metal} \rightarrow \text{Salt} + \text{H}_2 \uparrow$$
-
-### Reactivity Series (most → least reactive)
-
-$$\text{K} > \text{Na} > \text{Ca} > \text{Mg} > \text{Al} > \text{Zn} > \text{Fe} > \text{Pb} > [\text{H}] > \text{Cu} > \text{Ag} > \text{Au}$$
-
-> [!warning] Important condition Only metals **above hydrogen** in the reactivity series react with dilute acids to produce $\text{H}_2$ gas.
-
-### Examples
-
-$$\text{Zn} + 2\text{HCl} \rightarrow \text{ZnCl}_2 + \text{H}_2 \uparrow$$
-
-$$\text{Mg} + \text{H}_2\text{SO}_4 \rightarrow \text{MgSO}_4 + \text{H}_2 \uparrow$$
-
-$$\text{Fe} + 2\text{HCl} \rightarrow \text{FeCl}_2 + \text{H}_2 \uparrow$$
-
-$$2\text{Al} + 3\text{H}_2\text{SO}_4 \rightarrow \text{Al}_2(\text{SO}_4)_3 + 3\text{H}_2 \uparrow$$
-
-> [!caution] Exceptions
-> 
-> - **Copper, silver, gold** — do NOT react with dilute HCl or H₂SO₄
-> - **Concentrated H₂SO₄** reacts differently (oxidation, not displacement)
-> - **HNO₃** reacts with most metals but produces $\text{NO}$ or $\text{NO}_2$ gas, **not** $\text{H}_2$
-
----
-
-## 📋 Summary Table
-
-|Reaction Type|General Equation|Key Product(s)|
+|Acid|Anion name|Example salt|
 |---|---|---|
-|Synthesis (hydroacid)|$\text{H}_2 + \text{non-metal} \rightarrow \text{acid}$|Hydroacid|
-|Synthesis (oxoacid)|$\text{acid oxide} + \text{H}_2\text{O} \rightarrow \text{acid}$|Oxoacid|
-|Neutralisation|$\text{acid} + \text{base} \rightarrow \text{salt} + \text{H}_2\text{O}$|Salt + Water|
-|Acid + salt|$\text{acid} + \text{salt} \rightarrow \text{new salt} + \text{gas/ppt}$|Gas ↑ or ppt ↓|
-|Acid + metal|$\text{acid} + \text{metal} \rightarrow \text{salt} + \text{H}_2$|Salt + Hydrogen gas ↑|
+|$\text{HCl}$|chloride|$\text{NaCl}$ — sodium chloride|
+|$\text{H}_2\text{SO}_4$|sulphate|$\text{CuSO}_4$ — copper(II) sulphate|
+|$\text{HNO}_3$|nitrate|$\text{KNO}_3$ — potassium nitrate|
+|$\text{H}_3\text{PO}_4$|phosphate|$\text{Na}_3\text{PO}_4$ — sodium phosphate|
+|$\text{H}_2\text{CO}_3$|carbonate|$\text{CaCO}_3$ — calcium carbonate|
+
+---
+
+## Topic 8 — Reactions of Acids with Metals
+
+$$\text{Metal} + \text{Acid} \rightarrow \text{Salt} + \text{H}_2 \uparrow$$
+
+**Reactivity series:** $$\text{K} > \text{Na} > \text{Ca} > \text{Mg} > \text{Al} > \text{Cr} > \text{Zn} > \text{Fe} > [\text{H}] > \text{Cu} > \text{Ag} > \text{Au}$$
+
+Only metals **above H** react with dilute acids. Cu, Ag, Au do not react.
+
+**Molecular, ionic, and net ionic — worked examples:**
+
+$$\text{Fe} + 2\text{HCl} \rightarrow \text{FeCl}_2 + \text{H}_2 \uparrow$$ $$\text{Fe} + 2\text{H}^+ \rightarrow \text{Fe}^{2+} + \text{H}_2 \uparrow \quad \text{(net ionic)}$$
+
+$$2\text{Al} + 3\text{H}_2\text{SO}_4 \rightarrow \text{Al}_2(\text{SO}_4)_3 + 3\text{H}_2 \uparrow$$ $$2\text{Al} + 6\text{H}^+ \rightarrow 2\text{Al}^{3+} + 3\text{H}_2 \uparrow \quad \text{(net ionic)}$$
+
+> [!caution] Exception: HNO₃ and concentrated H₂SO₄ do NOT produce H₂ — they act as oxidising agents instead
+
+---
+
+## Topic 9 — Reactions of Acids with Salts
+
+> [!rule] Condition for reaction A reaction occurs only if a **precipitate** ($\downarrow$), **gas** ($\uparrow$), or **weak acid** is formed.
+
+$$\text{H}_2\text{SO}_4 + \text{BaCl}_2 \rightarrow \text{BaSO}_4 \downarrow + 2\text{HCl}$$ Net ionic: $\text{Ba}^{2+} + \text{SO}_4^{2-} \rightarrow \text{BaSO}_4 \downarrow$
+
+$$2\text{HCl} + \text{Na}_2\text{CO}_3 \rightarrow 2\text{NaCl} + \text{H}_2\text{O} + \text{CO}_2 \uparrow$$
+
+$$2\text{HCl} + \text{Na}_2\text{S} \rightarrow 2\text{NaCl} + \text{H}_2\text{S} \uparrow$$
+
+$$\text{HCl} + \text{AgNO}_3 \rightarrow \text{AgCl} \downarrow + \text{HNO}_3$$
+
+A **stronger acid** displaces a **weaker acid** from its salt.
+
+---
+
+## Topic 10 — Titration
+
+> [!info] Titration A volumetric technique to determine the **unknown concentration** of an acid or base using a **standard solution** (known concentration) and an indicator to detect the **equivalence point**.
+
+**Key formula:** $$n = c \times V \quad \Rightarrow \quad c = \frac{n}{V}$$
+
+**Worked example — find $c(\text{H}_2\text{SO}_4)$:**
+
+Given: 25 mL of $\text{H}_2\text{SO}_4$, titrated with 20.55 mL of 0.5 mol/L $\text{NaOH}$
+
+$$\text{H}_2\text{SO}_4 + 2\text{NaOH} \rightarrow \text{Na}_2\text{SO}_4 + 2\text{H}_2\text{O}$$
+
+$$n(\text{NaOH}) = 0.5 \times 0.02055 = 0.01028 \text{ mol}$$
+
+$$n(\text{H}_2\text{SO}_4) = \frac{0.01028}{2} = 0.00514 \text{ mol}$$
+
+$$c(\text{H}_2\text{SO}_4) = \frac{0.00514}{0.025} = \boxed{0.206 \text{ mol/L}}$$
+
+**Indicator choice:**
+
+|Titration|Indicator|
+|---|---|
+|Strong acid + strong base|Methyl orange or phenolphthalein|
+|Weak acid + strong base|Phenolphthalein only|
+|Strong acid + weak base|Methyl orange only|
+
+---
+
+## 📝 Exam-Style Questions by Band
+
+### Band 1–2 (State / Outline)
+
+1. State two properties of strong acids.
+2. Name the salt produced when $\text{HCl}$ reacts with $\text{NaOH}$.
+3. Give the colour of litmus in an acidic solution.
+
+### Band 3–4 (Outline / Solve familiar)
+
+4. Write a balanced equation for the reaction of magnesium with sulphuric acid.
+5. Outline the difference between a strong acid and a weak acid.
+6. Calculate the pH if $c(\text{H}^+) = 10^{-3}$ mol/L.
+
+### Band 5–6 (Describe / Solve unfamiliar)
+
+7. Describe what happens when $\text{HCl}$ is added to $\text{Na}_2\text{CO}_3$ solution. Write a balanced equation and identify the type of reaction.
+8. A solution has pH = 2. Another has pH = 5. How many times more acidic is the first? Explain.
+9. Explain why $\text{Ba(OH)}_2 + \text{H}_2\text{SO}_4$ produces a precipitate. Write the net ionic equation.
+
+### Band 7–8 (Explain / Analyse and evaluate)
+
+10. Explain why $\text{HF}$ has a higher pH than $\text{HCl}$ at the same concentration, despite both being hydrogen halide acids.
+11. A student claims that all acids with a pH below 2 are strong acids. Analyse this claim and evaluate whether it is always correct. Use examples.
+12. Predict what products form when copper is added to dilute $\text{HCl}$. Justify your prediction using the reactivity series. Then predict what would happen if concentrated $\text{HNO}_3$ was used instead, and explain why the outcome differs.
+13. A 25 mL sample of $\text{HCl}$ is titrated against 0.2 mol/L $\text{NaOH}$. The endpoint is reached after 18.4 mL. Calculate the concentration of the $\text{HCl}$. Then evaluate whether using phenolphthalein as the indicator was appropriate for this titration, and justify your answer.
 
 ---
