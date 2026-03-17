@@ -1,6 +1,6 @@
 # Andromachė
 
-[[Hektoras|Hektoro] žmona, karo aukų ir šeimos netekčių simbolis Iliadoje.
+[[Hektoras]] žmona, karo aukų ir šeimos netekčių simbolis Iliadoje.
 
 ## Mitologinis kontekstas
 

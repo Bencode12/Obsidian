@@ -1,6 +1,6 @@
 # Patroklas
 
-[[Achilas|Achilo] artimiausias draugas, kurio mirtis tampa epo posūkio tašku.
+[[Achilas]] artimiausias draugas, kurio mirtis tampa epo posūkio tašku.
 
 ## Mitologinis kontekstas
 

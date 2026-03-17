@@ -1,5 +1,5 @@
 
-Senovinis miestas Mažojoje Azijoje, [[Trojos karas|Trojos karo] centras ir pagrindinė karo vieta.
+Senovinis miestas Mažojoje Azijoje, [[Trojos karas]] centras ir pagrindinė karo vieta.
 
 ## Istorinis kontekstas
 

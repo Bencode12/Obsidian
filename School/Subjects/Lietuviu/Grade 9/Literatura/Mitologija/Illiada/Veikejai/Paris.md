@@ -1,6 +1,6 @@
 # Paris
 
-Trojos princas, kurio pagrobtas [[Helena]] tapo [[Trojos karas|Trojos karo] priežastimi.
+Trojos princas, kurio pagrobtas [[Helena]] tapo [[Trojos karas]] priežastimi.
 
 ## Mitologinis kontekstas
 

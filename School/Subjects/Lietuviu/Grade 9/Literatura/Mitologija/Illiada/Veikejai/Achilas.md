@@ -1,7 +1,7 @@
 
 Tipas: veikėjas
 
-Pagrindinis [[Iliada|Iliados] veikėjas, kurio pyktis (mēnis) varo visą epo veiksmą.
+Pagrindinis [[Iliada]] veikėjas, kurio pyktis (mēnis) varo visą epo veiksmą.
 
 ## Mitologinis kontekstas
 
@@ -74,7 +74,7 @@ Achilas yra **kompleksiškas veikėjas**:
 
 #### Hektoro mirtis (XXII giesmė)
 
-- Nužudo [[Hektoras|Hektorą]]
+- Nužudo [[Hektoras]]
 - Išniekina kūną, tempiodamas aplink laidotuvių laužą
 - Radikalus kerštas, peržengiantis normas
 

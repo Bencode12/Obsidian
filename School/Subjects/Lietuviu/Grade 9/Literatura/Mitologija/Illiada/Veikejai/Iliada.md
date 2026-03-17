@@ -4,7 +4,7 @@ Autorius: [[../Kontekstas/Homeras]]
 
 ## Aprašymas
 
-[[Iliada]] yra epinis pasakojimas apie paskutinius [[../Ivykiai/Trojos karas]] metus, sutelkęs dėmesį į [[Achilo pyktis|Achilo pyktį] ir jo pasekmes graikų kariuomenei. Epos pavadinimas kilęs nuo Trojos pavadinimo graikiškai – *Ilios* („Iliadas" = „Trojos dainas").
+[[Iliada]] yra epinis pasakojimas apie paskutinius [[../Ivykiai/Trojos karas]] metus, sutelkęs dėmesį į [[Achilo pyktis]] ir jo pasekmes graikų kariuomenei. Epos pavadinimas kilęs nuo Trojos pavadinimo graikiškai – *Ilios* („Iliadas" = „Trojos dainas").
 
 ## Struktūra
 

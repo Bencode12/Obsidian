@@ -1,6 +1,6 @@
 # Giesmė 1
 
-Pirmoji [[Iliada|Iliados] giesmė, pradedanti epą Achilo pykčiu (mēnis) – centrine epos tema.
+Pirmoji [[Iliada]] giesmė, pradedanti epą Achilo pykčiu (mēnis) – centrine epos tema.
 
 ## Siužeto santrauka
 

@@ -1,6 +1,6 @@
 # Odisėjas
 
-Graikų herojus, žinomas dėl gudrumo, diplomatijos ir išminties, [[Trojos karas|Trojos karo] dalyvis ir pagrindinis Odisėjos veikėjas.
+Graikų herojus, žinomas dėl gudrumo, diplomatijos ir išminties, [[Trojos karas]] dalyvis ir pagrindinis Odisėjos veikėjas.
 
 ## Mitologinis kontekstas
 
