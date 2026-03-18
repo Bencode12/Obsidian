@@ -1,133 +1,103 @@
 
 ---
 
-## 🔵 What is Circular Motion?
+## 🔭 Johannes Kepler — Background
 
-> [!info] Definition **Circular motion** is a type of curvilinear motion in which a body moves along a circular path. Even if the speed (magnitude of velocity) is constant, the direction of velocity changes continuously — so circular motion always involves acceleration.
+**Johannes Kepler (1571–1630)** was a German mathematician and astronomer from a poor Protestant family. He studied at the University of Tübingen, where he encountered the work of Copernicus. He was deeply influenced by the Pythagorean idea that **numbers and mathematics underlie the structure of the cosmos**.
 
-The velocity vector is always **tangent** to the circle — it points in the direction the object is instantaneously moving, perpendicular to the radius at that point.
+Kepler's central questions were:
+
+- Why are there only a certain number of planets?
+- Why do they orbit at the specific distances they do from the Sun?
+
+Using the precise astronomical observations of **Tycho Brahe**, Kepler derived three laws that mathematically described planetary motion — without yet knowing _why_ they held (Newton would explain the _why_ with gravity decades later).
 
 ---
 
-## ⏱️ Period
+## 🥚 Kepler's First Law — Law of Ellipses
 
-> [!info] Period — $T$ The **period** is the time taken to complete **one full revolution**. $$\boxed{T = \frac{t}{n}}$$
+> [!info] First Law **The orbit of every planet around the Sun is an ellipse, with the Sun at one of the two foci.**
+
+$$\text{Orbit shape} = \text{ellipse} \quad \text{Sun} = \text{one focus}$$
+
+Key points:
+
+- An ellipse has **two foci** — the Sun sits at one, and nothing sits at the other
+- A **perfect circle** is a special case of an ellipse where both foci are at the same point
+- Earth's orbit is nearly circular, which is why the Sun appears to stay roughly centred — but it is slightly elliptical
+- This challenged the ancient Greek belief that orbits must be **perfect circles**
+
+> [!tip] Consequence Because the orbit is elliptical (not circular), the **distance between a planet and the Sun changes** throughout the year. This variation in distance drives the Second Law.
+
+---
+
+## ⚖️ Kepler's Second Law — Law of Equal Areas
+
+> [!info] Second Law **A line drawn from the Sun to a planet sweeps out equal areas in equal intervals of time.**
+
+This means planets do **not** move at constant speed:
+
+- When a planet is **closer** to the Sun (at **perihelion**), it moves **faster**
+- When a planet is **farther** from the Sun (at **aphelion**), it moves **slower**
+
+```
+     Aphelion (far, slow)
+          *
+         / \  ← large arc, small area
+        /   \
+ Sun ◉       *
+        \   /
+         \ /  ← small arc, large area per distance
+          *
+     Perihelion (close, fast)
+```
+
+> [!example] Real-world consequence Earth moves fastest in early January (closest to Sun, ~147 million km) and slowest in early July (farthest, ~152 million km). This is why astronomical seasons are not exactly equal in length.
+
+---
+
+## 🎵 Kepler's Third Law — Law of Harmonies
+
+> [!info] Third Law **The square of the orbital period of a planet is proportional to the cube of its average distance from the Sun.**
+
+$$\boxed{\frac{T_1^2}{T_2^2} = \frac{r_1^3}{r_2^3}} \qquad \Rightarrow \qquad \frac{T^2}{r^3} = \text{constant}$$
 
 |Symbol|Quantity|Unit|
 |---|---|---|
-|$T$|Period|$[\text{s}]$|
-|$t$|Total time|$[\text{s}]$|
-|$n$|Number of revolutions|—|
+|$T$|Orbital period|$[\text{years}]$ or $[\text{s}]$|
+|$r$|Average distance from Sun|$[\text{AU}]$ or $[\text{m}]$|
 
-> [!example] Worked example An athlete completes 60 revolutions in 15 s. $$T = \frac{15}{60} = \mathbf{0.25\ \text{s}}$$
+> [!tip] Practical use If you know the orbital period of a planet, you can calculate its distance from the Sun — and vice versa.
 
----
-
-## 🔁 Frequency
-
-> [!info] Frequency — $f$ The **frequency** is the number of complete revolutions per second. $$\boxed{f = \frac{n}{t}}$$
-
-|Symbol|Quantity|Unit|
-|---|---|---|
-|$f$|Frequency|$[\text{Hz}]$ (hertz = revolutions per second)|
-|$n$|Number of revolutions|—|
-|$t$|Total time|$[\text{s}]$|
-
-> [!example] Worked example An athlete completes 60 revolutions in 15 s. $$f = \frac{60}{15} = \mathbf{4\ \text{Hz}}$$
-
----
-
-## 🔗 Period and Frequency Relationship
-
-Period and frequency are **reciprocals** of each other:
-
-$$\boxed{T = \frac{1}{f}} \qquad \boxed{f = \frac{1}{T}}$$
-
-> [!tip] Quick check If $T = 0.25\ \text{s}$, then $f = \frac{1}{0.25} = 4\ \text{Hz}$ ✓
-
----
-
-## ➡️ Linear Speed
-
-> [!info] Linear speed — $v$ The **linear speed** (also called tangential speed) is the distance travelled along the circumference per unit time. $$\boxed{v = \frac{2\pi r}{T} = 2\pi r f}$$
-
-|Symbol|Quantity|Unit|
-|---|---|---|
-|$v$|Linear speed|$[\text{m/s}]$|
-|$r$|Radius of circular path|$[\text{m}]$|
-|$T$|Period|$[\text{s}]$|
-|$f$|Frequency|$[\text{Hz}]$|
-
-> [!warning] Key insight — distance from centre matters The further a point is from the centre of rotation, the **greater** its linear speed — even if the angular speed is the same. Points closer to the centre travel a shorter path in the same time.
-
-> [!example] Worked example — wind turbine A wind turbine blade rotates with period $T = 6\ \text{s}$. The blade is 36 m long.
+> [!example] Worked example Earth: $T_E = 1\ \text{year}$, $r_E = 1\ \text{AU}$ Mars: $T_M = 1.88\ \text{years}$. Find Mars's orbital radius.
 > 
-> **Speed at tip (A):** $r = 36\ \text{m}$ $$v_A = \frac{2\pi \times 36}{6} = \frac{226.2}{6} \approx \mathbf{37.7\ \text{m/s}}$$
-> 
-> **Speed at midpoint (B):** $r = 18\ \text{m}$ $$v_B = \frac{2\pi \times 18}{6} = \frac{113.1}{6} \approx \mathbf{18.8\ \text{m/s}}$$
+> $$\frac{T_M^2}{T_E^2} = \frac{r_M^3}{r_E^3}$$ $$\frac{1.88^2}{1^2} = \frac{r_M^3}{1^3}$$ $$r_M^3 = 3.534 \quad \Rightarrow \quad r_M = \sqrt[3]{3.534} \approx \mathbf{1.52\ \text{AU}}$$
 
 ---
 
-## 🌀 Angular Velocity
+## 📋 Summary Table
 
-> [!info] Angular velocity — $\omega$ **Angular velocity** (angular frequency) describes how fast the angle swept changes per unit time. $$\boxed{\omega = \frac{2\pi}{T} = 2\pi f}$$
-
-|Symbol|Quantity|Unit|
-|---|---|---|
-|$\omega$|Angular velocity|$[\text{rad/s}]$|
-|$T$|Period|$[\text{s}]$|
-|$f$|Frequency|$[\text{Hz}]$|
-
-Connection to linear speed: $$v = \omega \cdot r$$
-
-> [!note] Unlike linear speed, angular velocity is the **same** for every point on a rotating rigid body — regardless of distance from the centre. Only linear speed changes with radius.
-
----
-
-## ⬅️ Centripetal Acceleration
-
-> [!info] Centripetal acceleration — $a_c$ Even at constant speed, a body in circular motion is **accelerating** because its direction continuously changes. This acceleration always points **toward the centre** of the circle. $$\boxed{a_c = \frac{v^2}{r} = \omega^2 r}$$
-
-|Symbol|Quantity|Unit|
-|---|---|---|
-|$a_c$|Centripetal acceleration|$[\text{m/s}^2]$|
-|$v$|Linear speed|$[\text{m/s}]$|
-|$r$|Radius|$[\text{m}]$|
-|$\omega$|Angular velocity|$[\text{rad/s}]$|
-
-> [!warning] Common misconception Centripetal acceleration does **not** speed the object up — it changes the **direction** of velocity, not its magnitude.
-
----
-
-## 📊 Summary of Formulas
-
-|Quantity|Symbol|Formula|Unit|
+|Law|Name|Statement|Key consequence|
 |---|---|---|---|
-|Period|$T$|$T = \dfrac{t}{n} = \dfrac{1}{f}$|$\text{s}$|
-|Frequency|$f$|$f = \dfrac{n}{t} = \dfrac{1}{T}$|$\text{Hz}$|
-|Linear speed|$v$|$v = \dfrac{2\pi r}{T} = 2\pi r f = \omega r$|$\text{m/s}$|
-|Angular velocity|$\omega$|$\omega = \dfrac{2\pi}{T} = 2\pi f$|$\text{rad/s}$|
-|Centripetal acceleration|$a_c$|$a_c = \dfrac{v^2}{r} = \omega^2 r$|$\text{m/s}^2$|
+|**1st**|Law of Ellipses|Orbits are ellipses; Sun at one focus|Distance from Sun varies during orbit|
+|**2nd**|Law of Equal Areas|Equal areas swept in equal times|Planets move faster near Sun, slower far away|
+|**3rd**|Law of Harmonies|$T^2 \propto r^3$|Distant planets have much longer years|
 
 ---
 
 ## 📝 Practice Problems
 
-1. A washing machine drum completes 800 revolutions per minute. Find the period and frequency.
+1. State all three of Kepler's laws in your own words.
     
-2. A satellite orbits the Earth in 90 minutes at an orbital radius of $6.8 \times 10^6\ \text{m}$. Find:
+2. Jupiter's orbital period is approximately 11.86 Earth years. Use Kepler's Third Law to calculate Jupiter's average distance from the Sun in AU.
     
-    - The period in seconds
-    - The linear speed of the satellite
-    - The centripetal acceleration
-3. A wheel of radius 0.5 m rotates with an angular velocity of $12\ \text{rad/s}$. Find:
+3. A planet is discovered with an orbital period of 8 Earth years. Calculate its average orbital radius in AU.
     
-    - The linear speed of a point on the rim
-    - The centripetal acceleration of a point on the rim
-    - The period of rotation
-4. A child sits 2 m from the centre of a roundabout that completes one revolution every 4 s. Find the child's linear speed and centripetal acceleration.
+4. Explain why Kepler's Second Law means that a comet moves much faster when it passes close to the Sun than when it is in the outer solar system.
     
-5. Two points, A (at radius 0.3 m) and B (at radius 0.6 m), are on the same rotating disc with $T = 2\ \text{s}$. Compare their angular velocities and linear speeds. Explain the difference.
+5. Earth is slightly closer to the Sun in January than in July. Using Kepler's Second Law, explain in which month Earth is moving faster and why.
+    
+6. Before Kepler, scientists believed planetary orbits were perfect circles. What evidence did Kepler use to show they are ellipses, and why did this matter scientifically?
     
 
 ---
