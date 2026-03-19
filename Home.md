@@ -49,9 +49,9 @@ LIMIT 6
     
 - ➗ [[School/Subjects/Mathematics/Mathematics MOC|Mathematics]]
     
-- 🔬 [[School/Subjects/Sciences/Physics/Physics MOC|Physics]] | [[School/Subjects/Sciences/Chemistry/Chemistry MOC|Chemistry]] | [[School/Subjects/Sciences/Biology/Biology MOC|Biology]]
+- 🔬 [[School/Sciences/Physics/Physics MOC|Physics]] | [[School/Subjects/Sciences/Chemistry/Chemistry MOC|Chemistry]] | [[School/Subjects/Sciences/Biology/Biology MOC|Biology]]
     
-- 🇪🇸 [[School/Subjects/Spanish/Spanish MOC|Spanish]]
+- 🇪🇸 [[School/Spanish/Spanish MOC|Spanish]]
     
 - 🇱🇹 [[School/Subjects/Lietuviu/Lietuviu MOC|Lietuvių Kalba]]
     
@@ -135,13 +135,13 @@ LIMIT 5
 ## 🔗 Quick Connections
 
 ### 📊 Recent Learning
-- [[School/Subjects/Sciences/Physics/Grade 9/Unit 2 - Motion/Lessons/Mech 1|Motion Basics]] - Physics Grade 9
-- [[School/Subjects/History/Grade 9/Unit 3/Lessons/Comparative analysis|Russian Empire vs USA]] - History
-- [[School/Subjects/Sciences/Physics/Grade 9/Unit 1 - Thermodynamics/Lessons/1.1 Thermal Molecular Movement|Thermal Energy]] - Physics
+- [[School/Sciences/Physics/Grade 9/Unit 2 - Motion/Lessons/Mech 1|Motion Basics]] - Physics Grade 9
+- [[School/History/Grade 9/Unit 3/Lessons/Comparative analysis|Russian Empire vs USA]] - History
+- [[School/Sciences/Physics/Grade 9/Unit 1 - Thermodynamics/Lessons/1.1 Thermal Molecular Movement|Thermal Energy]] - Physics
 
 ### 🎯 Assessment Criteria
-- [[School/Subjects/Sciences/Physics/Grade 9/Unit 2 - Motion/Criterias/Criteria A|Physics Criteria A]] - Motion Unit
-- [[School/Subjects/Sciences/Physics/Grade 9/Unit 2 - Motion/Criterias/Criteria D|Physics Criteria D]] - Environmental Analysis
+- [[School/Sciences/Physics/Grade 9/Unit 2 - Motion/Criterias/Criteria A|Physics Criteria A]] - Motion Unit
+- [[School/Sciences/Physics/Grade 9/Unit 2 - Motion/Criterias/Criteria D|Physics Criteria D]] - Environmental Analysis
 
 ---
 

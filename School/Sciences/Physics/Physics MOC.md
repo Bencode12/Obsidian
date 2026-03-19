@@ -11,11 +11,11 @@
 **Energy, Heat, and Temperature**
 
 **Key Concepts**:
-- [[1.1 Thermal Molecular Movement|Thermal Molecular Movement]] - Particle theory and internal energy
-- [[1.2 Change in Internal Energy by Work Done|Work and Energy Change]] - Thermodynamic processes
-- [[1.3 Heat Conduction|Heat Transfer Methods]] - Conduction, convection, radiation
-- [[1.6 Heat Calculations|Heat Calculations]] - Specific heat capacity, latent heat
-- [[3. Heat Engines|Heat Engines]] - Applications and efficiency
+- [[Grade 9/Unit 1 - Thermodynamics/Lessons/1.1 Thermal Molecular Movement|Thermal Molecular Movement]] - Particle theory and internal energy
+- [[Grade 9/Unit 1 - Thermodynamics/Lessons/1.2 Change in Internal Energy by Work Done|Work and Energy Change]] - Thermodynamic processes
+- [[Grade 9/Unit 1 - Thermodynamics/Lessons/1.3 Heat Conduction|Heat Transfer Methods]] - Conduction, convection, radiation
+- [[Grade 9/Unit 1 - Thermodynamics/Lessons/1.6 Heat Calculations|Heat Calculations]] - Specific heat capacity, latent heat
+- [[Grade 9/Unit 1 - Thermodynamics/Lessons/3. Heat Engines|Heat Engines]] - Applications and efficiency
 
 **Assessment Criteria**:
 - [[../Unit 1 - Thermodynamics/Criterias/Criteria A|Criteria A]] - Knowledge and understanding
@@ -29,9 +29,9 @@
 **Kinematics and Dynamics**
 
 **Key Concepts**:
-- [[Mech 1|Motion Basics]] - Distance, displacement, velocity, acceleration
-- [[Mech 2|Types of Motion]] - Linear, circular, projectile motion
-- [[Mech 3|Uniformly Accelerated Motion]] - Equations of motion
+- [[Grade 9/Unit 2 - Motion/Lessons/Mech 1|Motion Basics]] - Distance, displacement, velocity, acceleration
+- [[Grade 9/Unit 2 - Motion/Lessons/Mech 2|Types of Motion]] - Linear, circular, projectile motion
+- [[Grade 9/Unit 2 - Motion/Lessons/Mech 3|Uniformly Accelerated Motion]] - Equations of motion
 - [[Mech 4|Circular Motion]] - Centripetal force and acceleration
 - [[Circular Motion Homework|Circular Motion Practice]]
 
@@ -52,7 +52,7 @@
 **Newton's Laws and Applications**
 
 **Key Concepts**:
-- [[7. Pressure in liquids and gasses|Pressure in Fluids]]
+- [[Grade 9/Unit 3 - Forces/Lessons/7. Pressure in liquids and gasses|Pressure in Fluids]]
 - Newton's Laws of Motion
 - Elastic force and Hooke's Law
 - Friction forces
@@ -68,9 +68,9 @@
 ## 🔬 Key Physics Concepts
 
 ### Energy
-- [[1.1 Thermal Molecular Movement|Internal Energy]]
-- [[1.2 Change in Internal Energy by Work Done|Work-Energy Theorem]]
-- [[Mech 1|Mechanical Energy]]
+- [[Grade 9/Unit 1 - Thermodynamics/Lessons/1.1 Thermal Molecular Movement|Internal Energy]]
+- [[Grade 9/Unit 1 - Thermodynamics/Lessons/1.2 Change in Internal Energy by Work Done|Work-Energy Theorem]]
+- [[Grade 9/Unit 2 - Motion/Lessons/Mech 1|Mechanical Energy]]
 - **Conservation Laws** - Energy cannot be created or destroyed
 
 ### Matter
@@ -80,7 +80,7 @@
 
 ### Forces and Motion
 - Newton's Three Laws
-- [[Mech 1|Kinematics]]
+- [[Grade 9/Unit 2 - Motion/Lessons/Mech 1|Kinematics]]
 - [[Circular Motion Homework|Dynamics]]
 
 ---
@@ -149,8 +149,8 @@
 ## 🎯 Learning Pathways
 
 ### For Review
-1. Start with [[Mech 1|Motion Basics]] if kinematics is weak
-2. Review [[1.1 Thermal Molecular Movement|Particle Theory]] for thermodynamics
+1. Start with [[Grade 9/Unit 2 - Motion/Lessons/Mech 1|Motion Basics]] if kinematics is weak
+2. Review [[Grade 9/Unit 1 - Thermodynamics/Lessons/1.1 Thermal Molecular Movement|Particle Theory]] for thermodynamics
 3. Practice with [[Circular Motion Homework|Homework Problems]]
 
 ### For Extension

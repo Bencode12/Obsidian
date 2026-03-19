@@ -81,12 +81,12 @@ Following the Sciencia approach, MOCs provide structured navigation:
 | MOC | Subject |
 |-----|---------|
 | [[School/Subjects/Mathematics/Mathematics MOC]] | Mathematics |
-| [[School/Subjects/Sciences/Physics/Physics MOC]] | Physics |
+| [[School/Sciences/Physics/Physics MOC]] | Physics |
 | [[School/Subjects/Sciences/Chemistry/Chemistry MOC]] | Chemistry |
 | [[School/Subjects/Sciences/Biology/Biology MOC]] | Biology |
 | [[School/Subjects/History/History MOC]] | History |
 | [[School/Subjects/English/English MOC]] | English |
-| [[School/Subjects/Spanish/Spanish MOC]] | Spanish |
+| [[School/Spanish/Spanish MOC]] | Spanish |
 | [[School/Subjects/Lietuviu/Lietuviu MOC]] | Lietuvių Kalba |
 | [[School/Units/Lietuviu/Grade 9/Mitologija/Illiada/Illiada MOC]] | Illiada Study |
 
