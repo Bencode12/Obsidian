@@ -2,6 +2,8 @@
 
 A structured Obsidian vault for managing School and Research domains, inspired by the [Sciencia Vault](https://github.com/clairechabot/Sciencia_Vault).
 
+**Quick Navigation**: [[Home|🏠 Home]] | [[MOC Index|🗺️ MOC Index]] | [[Research Index|🔬 Research Index]]
+
 ## 📁 Folder Structure
 
 ```
@@ -55,8 +57,10 @@ Academia/
 ## 🚀 Quick Start
 
 1. **Open Home**: Start at [[Home]]
-2. **Navigate via MOCs**: Use Map of Content files
+2. **Navigate via MOCs**: Use Map of Content files - [[MOC Index|Complete MOC Index]]
 3. **Create Notes**: Use templates from `.Templates/`
+4. **Follow Links**: Use bidirectional links to discover connections
+5. **View Graph**: Open Graph View to see knowledge network
 
 ---
 
@@ -71,12 +75,19 @@ Following the Sciencia approach, MOCs provide structured navigation:
 | [[Research/Research MOC]] | Research domains & resources |
 | [[Research/Literature Hub]] | Literature review pipeline |
 | [[Research/Projects Hub]] | Project tracking |
+| [[MOC Index]] | Complete index of all MOCs |
 
 ### Subject MOCs
 | MOC | Subject |
 |-----|---------|
 | [[School/Subjects/Mathematics/Mathematics MOC]] | Mathematics |
 | [[School/Subjects/Sciences/Physics/Physics MOC]] | Physics |
+| [[School/Subjects/Sciences/Chemistry/Chemistry MOC]] | Chemistry |
+| [[School/Subjects/Sciences/Biology/Biology MOC]] | Biology |
+| [[School/Subjects/History/History MOC]] | History |
+| [[School/Subjects/English/English MOC]] | English |
+| [[School/Subjects/Spanish/Spanish MOC]] | Spanish |
+| [[School/Subjects/Lietuviu/Lietuviu MOC]] | Lietuvių Kalba |
 | [[School/Units/Lietuviu/Grade 9/Mitologija/Illiada/Illiada MOC]] | Illiada Study |
 
 ### Grade MOCs

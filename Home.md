@@ -39,17 +39,21 @@ LIMIT 6
 
 ## 🎓 School
 
-- 📖 [[School/English/English MOC|English]]
+📍 **Navigate via**: [[School/School MOC|School MOC]] | [[MOC Index#School MOCs|School MOCs]]
+
+- 📖 [[School/Subjects/English/English MOC|English]]
     
-- 🌍 [[School/Geography/Geography MOC|Geography]]
+- 🌍 [[School/Subjects/Geography/Geography MOC|Geography]]
     
-- 🏛️ [[School/History/History MOC|History]]
+- 🏛️ [[School/Subjects/History/History MOC|History]]
     
-- ➗ [[School/Mathematics/Mathematics MOC|Mathematics]]
+- ➗ [[School/Subjects/Mathematics/Mathematics MOC|Mathematics]]
     
-- 🔬 [[School/Sciences/Sciences MOC|Sciences]]
+- 🔬 [[School/Subjects/Sciences/Physics/Physics MOC|Physics]] | [[School/Subjects/Sciences/Chemistry/Chemistry MOC|Chemistry]] | [[School/Subjects/Sciences/Biology/Biology MOC|Biology]]
     
-- 🇪🇸 [[School/Spanish/Spanish MOC|Spanish]]
+- 🇪🇸 [[School/Subjects/Spanish/Spanish MOC|Spanish]]
+    
+- 🇱🇹 [[School/Subjects/Lietuviu/Lietuviu MOC|Lietuvių Kalba]]
     
 
 📋 **Homework**
@@ -66,11 +70,13 @@ LIMIT 6
 
 ## 🔬 Research
 
-- ⚙️ [[Research/Engineering/Projects|Engineering]]
+📍 **Navigate via**: [[Research/Research MOC|Research MOC]] | [[Research Index|Research Index]]
+
+- ⚙️ [[Research/Engineering/Engineering MOC|Engineering]]
     
-- ➕ [[Research/Mathematics/Projects|Mathematics]]
+- ➕ [[Research/Mathematics/Mathematics MOC|Mathematics]]
     
-- ⚛️ [[Research/Physics/Projects|Physics]]
+- ⚛️ [[Research/Physics/Physics MOC|Physics]]
     
 
 ```dataview
@@ -86,11 +92,13 @@ SORT due ASC
 
 - 🧠 [[Concepts MOC]]
     
-- 📄 [[Literature Hub]]
+- 📄 [[Research/Literature Hub|Literature Hub]]
     
 - 📖 [[Reading List]]
     
 - 📑 [[Glossary]]
+    
+- 🗺️ [[MOC Index|MOC Index]] - Complete map of all content areas
     
 
 ```dataview
@@ -121,6 +129,19 @@ FROM ""
 WHERE length(file.inlinks) = 0 AND file.name != "Home"
 LIMIT 5
 ```
+
+---
+
+## 🔗 Quick Connections
+
+### 📊 Recent Learning
+- [[School/Subjects/Sciences/Physics/Grade 9/Unit 2 - Motion/Lessons/Mech 1|Motion Basics]] - Physics Grade 9
+- [[School/Subjects/History/Grade 9/Unit 3/Lessons/Comparative analysis|Russian Empire vs USA]] - History
+- [[School/Subjects/Sciences/Physics/Grade 9/Unit 1 - Thermodynamics/Lessons/1.1 Thermal Molecular Movement|Thermal Energy]] - Physics
+
+### 🎯 Assessment Criteria
+- [[School/Subjects/Sciences/Physics/Grade 9/Unit 2 - Motion/Criterias/Criteria A|Physics Criteria A]] - Motion Unit
+- [[School/Subjects/Sciences/Physics/Grade 9/Unit 2 - Motion/Criterias/Criteria D|Physics Criteria D]] - Environmental Analysis
 
 ---
 

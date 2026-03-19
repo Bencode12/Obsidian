@@ -1,5 +1,11 @@
 # 🗺️ MOC Index (Map of Content Index)
 
+**Purpose**: This index provides a comprehensive navigation system for the entire vault. Each MOC serves as a hub connecting to related content.
+
+📍 **See also**: [[Home|← Back to Home]] | [[School/School MOC|School Overview]] | [[Research/Research MOC|Research Overview]]
+
+---
+
 ## Main Navigation MOCs
 
 | MOC | Description |
@@ -7,6 +13,10 @@
 | [[Home]] | Vault entry point |
 | [[School/School MOC]] | School navigation hub |
 | [[Research/Research MOC]] | Research domains overview |
+| [[Research/Literature Hub]] | Literature review pipeline |
+| [[Research/Projects Hub]] | Project tracking |
+
+**Related**: [[Research Index]] - Detailed research structure
 
 ---
 
@@ -17,7 +27,16 @@
 |-----|---------|
 | [[School/Subjects/Mathematics/Mathematics MOC]] | Mathematics |
 | [[School/Subjects/Sciences/Physics/Physics MOC]] | Physics |
-| [[School/Units/Lietuviu/Mitologija/Illiada/Illiada MOC]] | Illiada Study |
+| [[School/Subjects/Sciences/Chemistry/Chemistry MOC]] | Chemistry |
+| [[School/Subjects/Sciences/Biology/Biology MOC]] | Biology |
+| [[School/Subjects/History/History MOC]] | History |
+| [[School/Subjects/Geography/Geography MOC]] | Geography |
+| [[School/Subjects/English/English MOC]] | English |
+| [[School/Subjects/Spanish/Spanish MOC]] | Spanish |
+| [[School/Subjects/Lietuviu/Lietuviu MOC]] | Lietuvių Kalba |
+| [[School/Units/Lietuviu/Grade 9/Mitologija/Illiada/Illiada MOC]] | Illiada Study |
+
+**Connections**: These subjects connect to research domains in [[Research/Research MOC|Research MOC]]
 
 ### Grade MOCs
 | MOC | Level |
@@ -40,6 +59,8 @@
 | [[Research/Engineering/Engineering MOC]] | Engineering |
 | [[Research/Mathematics/Mathematics MOC]] | Mathematics |
 | [[Research/Physics/Physics MOC]] | Physics |
+
+**School Connections**: See corresponding subjects in [[#Subject MOCs|School Subjects]]
 
 ---
 
@@ -87,4 +108,30 @@ SORT file.mtime DESC
 
 ---
 
+---
+
+## 🔗 Creating Cross-References
+
+When linking notes, follow these patterns:
+
+### Upward Links (to parent MOCs)
+```markdown
+📍 Part of: [[Physics MOC]] | [[Grade 9 Curriculum]]
+```
+
+### Lateral Links (to related topics)
+```markdown
+**Related**: [[Thermodynamics]] | [[Energy Conservation]]
+```
+
+### Downward Links (to subtopics)
+```markdown
+## Subtopics
+- [[Specific Topic 1]]
+- [[Specific Topic 2]]
+```
+
+---
+
 *Your knowledge map - navigate by topics, not folders*
+*See also*: [[Home]] | [[Research Index]] | [[School/School MOC]]
