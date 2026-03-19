@@ -41,8 +41,8 @@
 - Free fall: $h = \frac{1}{2}gt^2$
 
 **Assessment Criteria**:
-- [[Criterias/Criteria A|Criteria A]] - Scientific knowledge and problem-solving
-- [[Criterias/Criteria D|Criteria D]] - Environmental analysis of energy sources
+- [[Grade 9/Unit 3 - Forces/Criterias/Criteria A|Criteria A]] - Scientific knowledge and problem-solving
+- [[Grade 9/Unit 3 - Forces/Criterias/Criteria D|Criteria D]] - Environmental analysis of energy sources
 
 **Mathematical Connections**: [[School/Subjects/Mathematics/Mathematics MOC|Vectors, Calculus basics]]
 
@@ -58,10 +58,10 @@
 - Friction forces
 
 **Assessment Criteria**:
-- [[Criterias/Criteria A|Criteria A]] - Force analysis
-- [[Criterias/Criteria B|Criteria B]] - Experimental design
-- [[Criterias/Criteria C|Criteria C]] - Data processing
-- [[Criterias/Criteria D|Criteria D]] - Real-world applications
+- [[Grade 9/Unit 3 - Forces/Criterias/Criteria A|Criteria A]] - Force analysis
+- [[Grade 9/Unit 3 - Forces/Criterias/Criteria B|Criteria B]] - Experimental design
+- [[Grade 9/Unit 3 - Forces/Criterias/Criteria C|Criteria C]] - Data processing
+- [[Grade 9/Unit 3 - Forces/Criterias/Criteria D|Criteria D]] - Real-world applications
 
 ---
 
