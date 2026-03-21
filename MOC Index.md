@@ -26,13 +26,13 @@
 | MOC | Subject |
 |-----|---------|
 | [[School/Subjects/Mathematics/Mathematics MOC]] | Mathematics |
-| [[School/Sciences/Physics/Physics MOC]] | Physics |
+| [[Academia/School/Sciences/Physics/Physics MOC]] | Physics |
 | [[School/Subjects/Sciences/Chemistry/Chemistry MOC]] | Chemistry |
 | [[School/Subjects/Sciences/Biology/Biology MOC]] | Biology |
 | [[School/Subjects/History/History MOC]] | History |
 | [[School/Subjects/Geography/Geography MOC]] | Geography |
 | [[School/Subjects/English/English MOC]] | English |
-| [[School/Spanish/Spanish MOC]] | Spanish |
+| [[Academia/School/Spanish/Spanish MOC]] | Spanish |
 | [[School/Subjects/Lietuviu/Lietuviu MOC]] | Lietuvių Kalba |
 | [[School/Units/Lietuviu/Grade 9/Mitologija/Illiada/Illiada MOC]] | Illiada Study |
 
