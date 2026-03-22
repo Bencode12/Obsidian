@@ -135,5 +135,7 @@ A good metaphor appears at the **opening**, and then again — transformed — a
 - [ ] Conclusion returns to the opening image or metaphor
 - [ ] Speech ends with encouragement or a call to action
 - [ ] Timing is within 3–4 minutes
+
+
 Speech
-Have you ever seen the slums of Brazil? Have you seen 
+Have you ever seen the slums of Brazil? Have you seen  
