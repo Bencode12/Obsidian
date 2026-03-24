@@ -1,4 +1,4 @@
 1.  Problemos kurias galiu priskirti gali būti 
-    a)
+    a) 
     b)
     c)
