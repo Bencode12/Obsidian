@@ -5,13 +5,13 @@
 
 > [!info] Framework This document uses the **PARTS** framework to compare two major world powers across five key categories.
 
-|Step|Category|Focus Area|
-|---|---|---|
-|Step 1|**Political Systems**|Government structure, ideologies, leadership roles|
-|Step 2|**Economic Systems**|Industries, trade, policies|
-|Step 3|**Social Systems**|Social classes, religion, social movements|
-|Step 4|**Foreign Policy**|Alliances, international relationships, conflicts, cooperation|
-|Step 5|**Identity**|National values, perceptions and stereotypes|
+| Step   | Category              | Focus Area                                                     |
+| ------ | --------------------- | -------------------------------------------------------------- |
+| Step 1 | **Political Systems** | Government structure, ideologies, leadership roles             |
+| Step 2 | **Economic Systems**  | Industries, trade, policies                                    |
+| Step 3 | **Social Systems**    | Social classes, religion, social movements                     |
+| Step 4 | **Foreign Policy**    | Alliances, international relationships, conflicts, cooperation |
+| Step 5 | **Identity**          | National values, perceptions and stereotypes                   |
 
 ---
 
