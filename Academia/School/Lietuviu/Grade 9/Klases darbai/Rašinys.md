@@ -1,0 +1,104 @@
+Matau lietuvių kalbos užduotis apie rašinio rašymą. Atliksiu jas pagal pateiktą medžiagą.
+
+---
+
+## 1 užduotis: Kiekvienam tekstui 2–3 galimos temos / problemos
+
+|Tekstas|Galimos temos / problemos|
+|---|---|
+|Mitas apie Sizifą|Absurdo problema; kančios ir ištvermės tema; žmogaus kovos su likimu problema|
+|Mitas apie Prometėją|Laisvės tema; aukos ir altruizmo problema; žmogaus ir valdžios konfliktas|
+|Mitas apie Dedalą ir Ikarą|Ambicijų ir ribų problema; tėvo ir sūnaus santykiai; laisvės ir paklusnumo tema|
+|Mitas apie Narcizą|Savimeilės (narcisizmo) problema; tapatybės paieška; vidinės ir išorinės tikrovės tema|
+|V. Mykolaičio-Putino poema „Prometėjas"|Kūrėjo ir visuomenės konfliktas; laisvės kaina; aukos ir pareigos tema|
+|A. Kamiu „Absurdo sienos"|Absurdo ir prasmės problema; žmogaus egzistencijos klausimas; maišto tema|
+|„Prometėjas pragare" ištraukos|Kančios ir ištvermės tema; aukos prasmė; laisvės apribojimo problema|
+|J. Lastauskienės pokalbis su psichologu Olegu Lapinu|Psichologinės sveikatos tema; savęs pažinimo problema; vidinės harmonijos paieška|
+|A. Liudžiūtės straipsnis „Like'ų narcisizmas"|Šiuolaikinio narcisizmo problema; socialinių tinklų įtaka tapatybei; vertybių nuvertėjimas|
+|Homero „Iliada" ir „Odisėja" ištraukos|Didvyriškumo ir pareigos tema; likimo ir valios konfliktas; grįžimo ir tapatybės problema|
+
+---
+
+## 2 užduotis: Argumentų bankas
+
+|Tema|Tekstas|Situacija|Kokia idėja įrodoma?|
+|---|---|---|---|
+|Laisvė|Mitas apie Prometėją|Prometėjas pavagia ugnį, atiduoda ją žmonėms – taip pats yra nubaudžiamas, tačiau išgelbsti kitus, dėl kitų pasiaukoja. Prometėjas tampa mokytojo, globėjo, rūpintojo simboliu.|Laisvė yra viena iš svarbiausių vertybių, tačiau dažniausiai tai, kas yra svarbiausia, reikalauja aukos. Tam, kad žmogus pasiektų moralinių aukštumų, jis turi suprasti, kad reikės aukotis.|
+|Laisvė|V. Mykolaičio-Putino „Prometėjas"|Vasaris daugiau nei penkiasdešimt metų išlieka kūrybinėje viršūnėje, blaškosi tarp kunigystės ir asmeninių troškimų, galiausiai atsisako kunigystės ir pasirenka autentišką gyvenimą.|Laisvė pasiekiama ne iš karto – ji reikalauja ilgo vidinio kelio, savęs pažinimo ir drąsaus pasirinkimo.|
+|Aukojimasis / altruizmas|Mitas apie Prometėją|Prometėjas žino, kad bus nubaustas, tačiau vis tiek pavagia ugnį ir atiduoda žmonėms.|Tikras didvyriškumas – tai sąmoningas pasiaukojimas dėl kitų, net žinant, kad teks kentėti.|
+|Narcisizmas / savimeilė|A. Liudžiūtės „Like'ų narcisizmas"|Šiuolaikinis žmogus kuria savo įvaizdį socialiniuose tinkluose, ieško patvirtinimo iš kitų, praranda ryšį su tikruoju „aš".|Perdėtas dėmesys išoriniam įvaizdžiui atitolina žmogų nuo tikrosios tapatybės ir vidinių vertybių.|
+|Vidinės vertybės|J. Lastauskienės pokalbis su O. Lapinu / „Šatrijos Ragana"|Šatrijos Raganos Mamatė Marija, varžoma patriarchalinės aplinkos, ugdo vaikus, perduoda jiems jautrumo, grožio pajautos, dorovės vertybes.|Žmogus gali išlaikyti vidinį orumą ir kurti prasmę net ir ribojančioje aplinkoje, jei remiasi vidinėmis vertybėmis.|
+|Absurdas / prasmės paieška|A. Kamiu „Absurdo sienos"|Sizifas nuolat rieda akmenį į kalną, žinodamas, kad šis vėl nuriedės – tačiau jis sąmoningai tęsia šią kovą.|Net absurdiškame pasaulyje žmogus gali rasti prasmę per sąmoningą maištą ir ištikimybę sau.|
+
+---
+
+## 3 užduotis: Antikos laikotarpio aprašas, vertybių sąsajos, Homero biografinis kontekstas
+
+**Antikos laikotarpio aprašas:** Antika – tai senovės Graikijos ir Romos civilizacijų laikotarpis (apytiksliai VIII a. pr. Kr. – V a. po Kr.). Tai mąstymo, filosofijos, literatūros ir meno klestėjimo era, kurioje gimė demokratijos idėjos, tragedijos žanras ir epinė poezija. Antikiniai mitai ir epai atspindėjo žmogaus santykį su dievais, likimu ir visuomene.
+
+
+
+---
+
+## 4 užduotis: Pavyzdžiai (istoriniai, kultūriniai, socialiniai), kuriuos galima panaudoti rašinyje
+
+|Tema|Pavyzdys|
+|---|---|
+|Laisvė / aukojimasis|**Nelsonas Mandela** – 27 metus praleido kalėjime dėl kovos prieš apartheidą, aukojo asmeninę laisvę dėl tautos laisvės.|
+|Vidinės vertybės / ištvermė|**Viktoras Franklis** – Holokausto išgyventojas, psichologas, teigęs, kad prasmę galima rasti net ir koncentracijos stovykloje.|
+|Narcisizmas / socialiniai tinklai|**Šiuolaikinių „influencerių" kultūra** – žmonės kuria įvaizdžius socialiniuose tinkluose, siekdami „like'ų", dažnai prarasdami ryšį su tikrove.|
+|Absurdas / prasmė|**Albertas Kamiu** (kaip asmenybė) – Antrojo pasaulinio karo metu rašė apie maištą prieš absurdą, pats aktyviai dalyvavo Prancūzijos pasipriešinime.|
+|Kūrybos galia|**Frida Kahlo** – serganti, kūno apribota dailininkė, kuri per kūrybą išreiškė vidinę laisvę ir tapatybę.|
+|Pareiga vs. asmeninė laisvė|**Sokrato mirtis** – filosofas atsisakė galimybės pabėgti ir pasirinko mirties bausmę, likdamas ištikimas savo principams ir įstatymui.|
+
+---
+
+## 5 užduotis: Rašinio struktūrinių dalių identifikavimas (pavyzdyje „Kaip išgyventi dūžtančiose formose?")
+
+Pagal pateiktą pavyzdinį rašinį struktūrinės dalys yra šios:
+
+**🔵 Įžanga:**
+
+> _„Anot XX a. lietuvių poeto Vytauto Mačernio... Manau, kad išgyventi „dūžtančiose formose" padeda vidinė dvasinė atrama ir ištikimybė sau, tačiau tai tampa sudetinga, kai žmogų varžo aplinka ar vidiniai priešaravimai."_
+
+- Temos aptarimas (Mačernio citata kaip raktinis žodis)
+- Problemos išryškinimas (kaip išlikti tvirtam nestabiliame pasaulyje?)
+- Probleminio klausimo formulavimas
+- Teiginio (atsakymo į klausimą) pateikimas
+
+---
+
+**🟢 Pirmoji dėstymo pastraipa** _(„Viena vertus...")_
+
+> _„Viena vertus, išgyventi „dūžtančiose formose" sunku tada, kai žmogus patiria stiprų vidinį konfliktą..."_
+
+- **Teiginys:** Sunku, kai žmogus patiria vidinį konfliktą ir išorinį spaudimą
+- **Argumentas:** Reikia balanso tarp vidinio „aš" ir aplinkos
+- **Sakinys tiltas:** „Tai atskleidžia XX a. lietuvių rašytojas Vincas Mykolaitis-Putinas..."
+- **Pavyzdys:** Vasario blaškymasis tarp kunigystės ir kūrybos
+- **Literatūros kūrinio aptarimas:** Vasario strategijos – rašymas, refleksija, savęs tyrimas
+- **Samprotavimas:** Sąsaja su Kirkegoru, Kafka
+- **Dalinė išvada:** Žmogus išgyvena per kūrybą, savianalizę ir drąsų pasirinkimą
+
+---
+
+**🟡 Antroji dėstymo pastraipa** _(„Kita vertus...")_
+
+> _„Kita vertus, išgyventi „dūžtančiose formose" įmanoma, jei žmogus remiasi vidinėmis vertybėmis..."_
+
+- **Teiginys:** Vidinės vertybės leidžia kurti prasmę net ribojančioje aplinkoje
+- **Argumentas:** Sąmoninga kasdienybė net ribotomis sąlygomis
+- **Pavyzdys:** Šatrijos Raganos Mamatė Marija
+- **Literatūros kūrinio aptarimas:** Kaip ji priešinasi aplinkai per ugdymą ir estetiką
+- **Samprotavimas:** Sąsaja su Nyče, Kamiu
+- **Dalinė išvada:** Žmogus išgyvena keisdamas santykį su aplinka, ne pačią aplinką
+
+---
+
+**🔴 Apibendrinimas:**
+
+> _„Galima teigti, kad išgyventi „dūžtančiose formose" nėra lengva... Todėl „dūžtančios formos" tampa ne tik išbandymu, bet ir galimybe žmogui susikurti save iš naujo."_
+
+- Temos ir problemos pakartojimas
+- Dalinių išvadų perfrazavimas
+- Baigiamoji mintis (platesnė prasmė)
