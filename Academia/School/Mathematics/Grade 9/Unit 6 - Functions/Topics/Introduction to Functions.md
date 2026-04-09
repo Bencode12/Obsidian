@@ -1,6 +1,6 @@
 ## Functions — Introduction
 
-Related: [[Trig_Sine_Cosine_Tangent]] · [[Sequences]]
+Related: [[1. Sine, Cosine and Tangent of an Acute Angle in a Right Triangle]] · [[Sequences]]
 
 ---
 

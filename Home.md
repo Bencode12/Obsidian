@@ -1,10 +1,20 @@
-
+---
+pixel-banner-flag-color: red
+banner_y: "79.5"
+banner: pixel-banner-images/SR-71.jpg
+content-start: 1
+banner-max-width: 2560
+banner-height: 0
+banner-align: center
+banner-fade: 100
 ---
 
-## banner: "[[banner.jpg]]" banner_y: 0.5 cssclasses: home-page
-
-> [!quote] `=choice(randnum(1,5) = 1, "The secret of getting ahead is getting started. — Mark Twain", choice(randnum(1,4) = 1, "An investment in knowledge pays the best interest. — Benjamin Franklin", choice(randnum(1,3) = 1, "Education is not the filling of a pail, but the lighting of a fire. — W.B. Yeats", choice(randnum(1,2) = 1, "It does not matter how slowly you go, so long as you do not stop. — Confucius", "Hard work beats talent when talent doesn't work hard. — Tim Notke"))))`
-
+---
+```widgets
+type: quote
+quote: Hard work beats talent when talent doesn't work hard.
+author: Tim Notke
+```
 ---
 
 ## 🕐 Today — `=dateformat(date(today), "cccc, MMMM d")`
