@@ -186,15 +186,15 @@ Final section...
 
 ---
 
-## 8. Obsidian Graphs Plugin (2D & 3D)
+## 8. Obsidian Graphs Plugin
 
 For visualizing mathematical functions, surfaces, and relationships, use the Obsidian Graphs plugin:
 https://www.obsidianstats.com/plugins/graphs
 
-### 2D Graphs
+### Basic Syntax
 
 ```markdown
-```graph-2d
+```graph
 y = x^2
 ```
 ```
@@ -202,19 +202,19 @@ y = x^2
 **Examples:**
 
 #### Basic Function
-```graph-2d
+```graph
 y = sin(x)
 ```
 
 #### Multiple Functions
-```graph-2d
+```graph
 y = x^2
 y = 2x + 1
 y = -x + 3
 ```
 
 #### With Parameters
-```graph-2d
+```graph
 y = a*x^2 + b*x + c
 a = 1
 b = 0
@@ -222,13 +222,13 @@ c = 0
 ```
 
 #### Inequalities
-```graph-2d
+```graph
 y > x^2
 y < 2x + 1
 ```
 
 #### Parametric Curves
-```graph-2d
+```graph
 x = cos(t)
 y = sin(t)
 t = [0, 2pi]
@@ -236,8 +236,10 @@ t = [0, 2pi]
 
 ### 3D Graphs
 
+Use the same ` ```graph ` block for 3D visualizations:
+
 ```markdown
-```graph-3d
+```graph
 z = x^2 + y^2
 ```
 ```
@@ -245,18 +247,18 @@ z = x^2 + y^2
 **Examples:**
 
 #### Basic Surface
-```graph-3d
+```graph
 z = x^2 + y^2
 ```
 
 #### Multiple Surfaces
-```graph-3d
+```graph
 z = x^2 + y^2
 z = 2*x*y
 ```
 
 #### Parametric Surfaces
-```graph-3d
+```graph
 x = u*cos(v)
 y = u*sin(v)
 z = u
@@ -265,13 +267,13 @@ v = [0, 2*pi]
 ```
 
 #### Level Surfaces
-```graph-3d
+```graph
 x^2 + y^2 + z^2 = 4
 ```
 
 **When to Use Obsidian Graphs:**
 
-**2D Graphs (`graph-2d`):**
+**2D Graphs:**
 - Visualizing functions in calculus
 - Showing geometric relationships
 - Demonstrating transformations
@@ -279,13 +281,15 @@ x^2 + y^2 + z^2 = 4
 - Displaying level curves (as 2D slices)
 - Phase plane analysis in differential equations
 
-**3D Graphs (`graph-3d`):**
+**3D Graphs:**
 - Multivariable function visualization
 - Surface plots and level surfaces
 - Vector fields
 - Parametric surfaces
 - 3D geometry and solid regions
 - Gradient and contour visualizations
+
+**Note**: The plugin automatically detects whether to render 2D or 3D based on the equation(s) provided. Use `z =` for 3D graphs.
 
 **Best Practices:**
 - Keep graphs simple and focused on key concepts
@@ -330,7 +334,7 @@ Clear definition with math notation.
 
 Explanation.
 
-```graph-2d
+```graph
 y = x^2
 ```
 
@@ -348,7 +352,7 @@ More explanation.
 > [!example] Example Title
 > Worked example with solution.
 
-```graph-3d
+```graph
 z = x^2 + y^2
 ```
 
@@ -394,7 +398,7 @@ All three now follow the exact format from your Calculus III example.
 |Practice Problems|Bullet points or categorized|Single numbered list (1., 2., 3.)|
 |Section Separators|Inconsistent|Consistent `---` between sections|
 |Related Links|At bottom|At top with `·` separator|
-|Graphs|External images or none|Obsidian Graphs plugin (2D & 3D)|
+|Graphs|External images or none|Obsidian Graphs plugin (use ` ```graph ` for both 2D & 3D)|
 |File Count|Fixed at 7|Flexible (can be more than 7)|
 
 ---
