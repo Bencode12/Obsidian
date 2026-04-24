@@ -186,68 +186,114 @@ Final section...
 
 ---
 
-## 8. Desmos Graphs (2D Only)
+## 8. Obsidian Graphs Plugin (2D & 3D)
 
-For visualizing 2D functions and relationships, use the Desmos Graphs plugin:
+For visualizing mathematical functions, surfaces, and relationships, use the Obsidian Graphs plugin:
+https://www.obsidianstats.com/plugins/graphs
+
+### 2D Graphs
 
 ```markdown
-```desmos-graph
+```graph-2d
 y = x^2
 ```
 ```
 
 **Examples:**
 
-### Basic Function
-```desmos-graph
+#### Basic Function
+```graph-2d
 y = sin(x)
 ```
 
-### Multiple Functions
-```desmos-graph
+#### Multiple Functions
+```graph-2d
 y = x^2
 y = 2x + 1
 y = -x + 3
 ```
 
-### With Parameters
-```desmos-graph
+#### With Parameters
+```graph-2d
 y = a*x^2 + b*x + c
 a = 1
 b = 0
 c = 0
 ```
 
-### Inequalities
-```desmos-graph
+#### Inequalities
+```graph-2d
 y > x^2
 y < 2x + 1
 ```
 
-### Parametric Curves
-```desmos-graph
+#### Parametric Curves
+```graph-2d
 x = cos(t)
 y = sin(t)
 t = [0, 2pi]
 ```
 
-**When to Use Desmos Graphs:**
+### 3D Graphs
+
+```markdown
+```graph-3d
+z = x^2 + y^2
+```
+```
+
+**Examples:**
+
+#### Basic Surface
+```graph-3d
+z = x^2 + y^2
+```
+
+#### Multiple Surfaces
+```graph-3d
+z = x^2 + y^2
+z = 2*x*y
+```
+
+#### Parametric Surfaces
+```graph-3d
+x = u*cos(v)
+y = u*sin(v)
+z = u
+u = [0, 2]
+v = [0, 2*pi]
+```
+
+#### Level Surfaces
+```graph-3d
+x^2 + y^2 + z^2 = 4
+```
+
+**When to Use Obsidian Graphs:**
+
+**2D Graphs (`graph-2d`):**
 - Visualizing functions in calculus
 - Showing geometric relationships
 - Demonstrating transformations
 - Illustrating solution sets
 - Displaying level curves (as 2D slices)
+- Phase plane analysis in differential equations
 
-**Limitations:**
-- ❌ No 3D graphs (use external images for 3D surfaces)
-- ❌ No complex numbers visualization
-- ✅ Perfect for: single/multiple functions, inequalities, parametric curves
+**3D Graphs (`graph-3d`):**
+- Multivariable function visualization
+- Surface plots and level surfaces
+- Vector fields
+- Parametric surfaces
+- 3D geometry and solid regions
+- Gradient and contour visualizations
 
 **Best Practices:**
-- Keep graphs simple and focused
+- Keep graphs simple and focused on key concepts
 - Use descriptive titles in surrounding text
 - Reference the graph in your explanation
 - Combine with tables for multiple cases
+- For complex 3D surfaces, consider rotating view angles
+- Use 2D graphs when showing cross-sections or projections
 
 ---
 
@@ -284,7 +330,7 @@ Clear definition with math notation.
 
 Explanation.
 
-```desmos-graph
+```graph-2d
 y = x^2
 ```
 
@@ -302,9 +348,8 @@ More explanation.
 > [!example] Example Title
 > Worked example with solution.
 
-```desmos-graph
-y = 2x + 1
-y = x^2
+```graph-3d
+z = x^2 + y^2
 ```
 
 ---
@@ -349,7 +394,7 @@ All three now follow the exact format from your Calculus III example.
 |Practice Problems|Bullet points or categorized|Single numbered list (1., 2., 3.)|
 |Section Separators|Inconsistent|Consistent `---` between sections|
 |Related Links|At bottom|At top with `·` separator|
-|Graphs|External images or none|Desmos code blocks for 2D|
+|Graphs|External images or none|Obsidian Graphs plugin (2D & 3D)|
 |File Count|Fixed at 7|Flexible (can be more than 7)|
 
 ---
