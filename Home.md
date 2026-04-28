@@ -44,20 +44,32 @@ LIMIT 10
 ---
 
 ## 🗓️ Weekly Timetable
+```calendar
+view: month        # today | week | month | year
+calendars:
+  - school: #6366f1
+  - work: #ef4444
+  - tutor: #10b981
+  - lessons: #f59e0b
+```
 
-||**Mon**|**Tue**|**Wed**|**Thu**|**Fri**|
-|---|---|---|---|---|---|
-|7:40|Maths (r.)|||Maths (r.)|Matematika|
-|8:30|English|Geography|English|Spanish|Lietuvių|
-|9:25|Chemistry|History|English|Arts|Lietuvių|
-|10:20|Integrated|Lietuvių|Lietuvių|Mathematics|English|
-|11:25|Geography||Chemistry|Mathematics||
-|12:10||Physics||Biology|P.E.|
-|12:30|Mathematics||Dorinis|||
-|1:25||Mathematics|History|||
-|2:20|Digital Design|Product Design|Music|||
-|3:10||Class Hour||||
-|3:30|Workout||Workout||Workout|
+Click any day or the + Event button to add events. Switch views with the toolbar. Each calendar category gets its own color (auto-assigned if you don't define one).
+
+Clean build. Added a calendar block backed by the database — events are private per user via RLS.
+
+Usage:
+
+```calendar
+view: month        # today | week | month | year
+calendars:
+  - school: #6366f1
+  - work: #ef4444
+  - tutor: #10b981
+  - lessons: #f59e0b
+```
+
+Click any day or the + Event button to add events. Switch views with the toolbar. Each calendar category gets its own color (auto-assigned if you don't define one).
+
 
 ---
 
