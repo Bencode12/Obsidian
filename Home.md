@@ -8,8 +8,4 @@
 
 ## ⏰ Current Time
 
-```graph2d
-type: scatter
-x: [1, 2, 3]
-y: [4, 5, 6]
-```
+
