@@ -6,7 +6,6 @@ author: Tim Notke
 ```
 ---
 
-## 🕐 Today — 
 ```clock
 timezone: Europe/Paris
 label: Paris
