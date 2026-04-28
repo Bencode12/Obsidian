@@ -6,7 +6,12 @@ author: Tim Notke
 ```
 ---
 
-## 🕐 Today — `=dateformat(date(today), "cccc, MMMM d")`
+## 🕐 Today — 
+```clock
+timezone: Europe/Paris
+label: Paris
+format: 24
+```
 
 ### 🚨 Overdue
 
