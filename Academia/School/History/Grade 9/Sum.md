@@ -1,7 +1,3 @@
-Related: [[Academia/School/History/Grade 9/Unit 1/Lessons/untitled]] · [[Academia/School/History/Grade 9/Unit 2/Lessons/untitled]] · [[Academia/School/History/Grade 9/Unit 3/Lessons/Comparative analysis]]
-
----
-
 ## Overview
 
 This note summarizes key concepts and criteria for Grade 9 History, focusing on topics such as the creation of nation-states, nationalism, unification movements, and imperialism.
