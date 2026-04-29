@@ -1,1 +1,7 @@
-# jbfjhiuff
+Category,Positive Effect: Metropole,Positive Effect: Colony,Negative Effect: Metropole,Negative Effect: Colony
+Political,"Increased national importance, greatness, and global superiority.  ","Development of ""alliances"" and supra-national organizations.  ",Costly wars and funding for occupying forces to keep rivals out.  +1,Undermining of local power structures and traditional leadership.  
+Economical,"Access to raw materials (rubber, diamonds), new markets, and cheap labor.  +1","Potential for ""everybody"" to benefit from expanded commerce and trade.  +1",Economic drain to maintain territories with no financial value.  ,Stripping of wealth and prevention of industrialization or modernization.  +2
+Cultural,"Spreading of literature, philanthropy, and ""noble purposes"".  ","Exposure to European ""civilization"" and blessings.  +2",None explicitly mentioned in text.,Arrogance and racism displayed by imperial powers.  +1
+Social,Outlet for overcrowded populations and land shortages.  +1,"Opportunity for a ""better standard of living"" for emigrants.  ","Potential for world conflict and ""imperial wars"" due to rivalry.  +1",Subjugation of indigenous peoples by technological/military force.  
+Religion,"Fulfillment of ""duty to God"" through missionary work.  ","Conversion and the ""saving of souls"".  ",Conflict/murder of missionaries leading to military intervention.  ,Undermining of traditional beliefs and local societies.  
+Other,"Technological advances like steam ships, refrigeration, and medicine.  ","Infrastructure growth, such as the building of railways.  ","Risk of famine-induced mass emigration (e.g., Ireland).  ","Exploitation of resources and people (e.g., ""Rubber Coils"" in Congo).  +2"
