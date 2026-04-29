@@ -1,4 +1,3 @@
-# ✨ Welcome Home!
 
 ```quote
 text: Hard work beats talent when talent doesn't work hard.
