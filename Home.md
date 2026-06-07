@@ -40,7 +40,7 @@ view: week
 ## 🧑‍🔧 Activity
 
 ```activ
-year: 2026
+y*ear: 2026*
 ```
 
 ---
