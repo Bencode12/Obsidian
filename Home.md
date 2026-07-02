@@ -15,10 +15,6 @@ format: 24
 
 ---
 
-## Grades
-
----
-
 ## 🗓️ Weekly Timetable
 
 ```calendar
