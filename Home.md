@@ -17,16 +17,6 @@ format: 24
 
 ## Grades
 
-| Subject | Points | Grade (LT) | Grade (IB) |
-| --- | --- | --- | --- |
-| Lietuviu | Cell 2 | Cell 2. | Cell 2. |
-| English | 9 | 4 | 2 |
-| Maths | 9 | 4 | 2 |
-| Geography | 4 | 2 | 1 |
-| Digital Design | 7 | 3 | 2 |
-| Biology | 15 |  | Cell 2. |
-| English | Cell 2 | Cell 2. | Cell 2. |
-
 ---
 
 ## 🗓️ Weekly Timetable
