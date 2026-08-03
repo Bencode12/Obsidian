@@ -9,4 +9,4 @@
 - Naming folders doesn't have a custom screen
 - Never saw that Quant had a Hub, so add note sharing there
 - Dragging folders doesn't work (like dragging one folder to another)
-- automatically make it so the user has to write the folder name instead of generating one like untitled
+- automatically make it so the user has to write the folder name instead of generating one like untitled-17034098018
