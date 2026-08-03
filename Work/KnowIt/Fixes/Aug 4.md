@@ -9,3 +9,4 @@
 - Browser can only show Wikipedia because of Browser restrictions. (have only checked with Zen browser for this issue which is built on firefox I believe)
 - IDE looks boring
 - DAW needs to be our own
+- In enviroments if there are other people, show their cursor and on which menu they are on,
