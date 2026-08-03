@@ -20,3 +20,4 @@
 - Push notifications (for lessons and shit)
 - Never saw that Quant had a Hub, so add saving presentations, documents, music files, designs and anything else possible sharing there
 - CoWorker does not work
+- Add more 
