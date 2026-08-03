@@ -13,3 +13,5 @@
 - Art needs to be our own
 - Design too, just make the Art but vectors. Look at figma or sum
 - Progress needs to have more data. Look at Unifi 10.5, it has such granular data
+- If the user has premium, everything in the store is half price
+- 
