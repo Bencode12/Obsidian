@@ -11,4 +11,4 @@
 - DAW needs to be our own
 - In enviroments if there are other people, show their cursor and on which menu they are on,
 - Art needs to be our own
-- Design too, just make the Art but vectors. Look at 
+- Design too, just make the Art but vectors. Look at figma or sum
