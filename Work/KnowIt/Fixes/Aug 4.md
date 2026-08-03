@@ -18,3 +18,4 @@
 - And now delete the nodes, they were temporary
 - Sheets need to use Quant
 - Push notifications (for lessons and shit)
+- Never saw that Quant had a Hub, so add graph sharing there
