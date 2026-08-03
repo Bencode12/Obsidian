@@ -18,4 +18,4 @@
 - And now delete the nodes, they were temporary
 - Sheets need to use Quant
 - Push notifications (for lessons and shit)
-- Never saw that Quant had a Hub, so add saving presentations,  sharing there
+- Never saw that Quant had a Hub, so add saving presentations, documents, music files, designs,  sharing there
