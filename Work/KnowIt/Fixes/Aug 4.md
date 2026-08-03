@@ -10,3 +10,4 @@
 - IDE looks boring
 - DAW needs to be our own
 - In enviroments if there are other people, show their cursor and on which menu they are on,
+- Art needs to be our own
