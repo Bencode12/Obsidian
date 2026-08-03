@@ -8,4 +8,5 @@
 - Group notes? Like you can connect a person to collab on notes at once
 - Def missing more custom screens, but we do have like rename and delete and create new folder, but something is missing
 - Never saw that Quant had a Hub, so add note sharing there
-- Dragging folders doesn't work (like dragging one folder to another
+- Dragging folders doesn't work (like dragging one folder to another)
+- 
