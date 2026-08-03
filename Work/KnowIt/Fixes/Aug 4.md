@@ -17,4 +17,4 @@
 - The community store sellers get paid by IDK how
 - And now delete the nodes, they were temporary
 - Sheets need to use Quant
-- Push notifications (for lessons and note transfer)
+- Push notifications (for lessons and shit)
