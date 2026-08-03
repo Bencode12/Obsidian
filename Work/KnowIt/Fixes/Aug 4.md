@@ -12,4 +12,4 @@
 - In enviroments if there are other people, show their cursor and on which menu they are on,
 - Art needs to be our own
 - Design too, just make the Art but vectors. Look at figma or sum
-- Progress needs to have more data. Look at Unifi 
+- Progress needs to have more data. Look at Unifi 10.5, it has such granular data
