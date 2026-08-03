@@ -15,3 +15,4 @@
 - Progress needs to have more data. Look at Unifi 10.5, it has such granular data
 - If the user has premium, everything in the store is half price
 - The community store sellers get paid by IDK how
+- And now delete the nodes, they were temporary
