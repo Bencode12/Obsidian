@@ -16,4 +16,4 @@
 - If the user has premium, everything in the store is half price
 - The community store sellers get paid by IDK how
 - And now delete the nodes, they were temporary
-- 
+- Sheets need to use Quant
