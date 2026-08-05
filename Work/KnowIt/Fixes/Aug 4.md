@@ -21,5 +21,5 @@
 - Never saw that Quant had a Hub, so add saving presentations, documents, music files, designs and anything else possible sharing there
 - CoWorker does not work
 - Add more Challenges and add LaTeX symbols as clickalbe menu like Desmos so people can use it easier
-- Teachers should be able to see more granular data. for example if the student has done a lesson on their learning plan or on the school curriculum learning 
+- Teachers should be able to see more granular data. for example if the student has done a lesson on their learning plan or on the school curriculum learning thingy, if you made a mistake, the teacher can also see it (
 - Students can send their presentations made in the virtual enviroments to teachers. also communications with teachers.
