@@ -8,6 +8,6 @@
 - Group notes? Like you can connect a person to collab on notes at once
 - Naming folders doesn't have a custom screen
 - Never saw that Quant had a Hub, so add note and book sharing there
-- make sure nirala is usable on phone 
+- make sure nirala is usable on phone (currently, some things don
 - Dragging folders doesn't work (like dragging one folder to another)
 - automatically make it so the user has to write the folder name instead of generating one like untitled-17034098018.md
