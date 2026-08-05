@@ -22,4 +22,4 @@
 - CoWorker does not work
 - Add more Challenges and add LaTeX symbols as clickalbe menu like Desmos so people can use it easier
 - Teachers should be able to see more granular data. for example if the student has done a lesson on their learning plan or on
-- 
+- Students can send their presentations made in the virtual enviroments to teachers. also communications with teachers 
