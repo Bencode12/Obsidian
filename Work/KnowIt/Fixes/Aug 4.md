@@ -26,4 +26,4 @@
 - the teachers for this website have been neglected, it needs functionality.
 - last question on every quiz on the website doesn't render
 - sometimes the latex rendering doesn't work
-- 
+- visualisation too in quizzes doesn't work
