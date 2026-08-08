@@ -24,3 +24,4 @@
 - Teachers should be able to see more granular data. for example if the student has done a lesson on their learning plan or on the school curriculum learning thingy, if you made a mistake, the teacher can also see it (groups of tabs you were using (for example knowit:35% of active viewing; other educational websites:20%; Other websites: 45%) and an ai shows insights what to teach next lesson for the teacher (what to emphasise and so on, more granular data for teachers)
 - Students can send their presentations made in the virtual enviroments to teachers. also communications with teachers.
 - the teachers for this website have been neglected, it needs functionality.
+- 
