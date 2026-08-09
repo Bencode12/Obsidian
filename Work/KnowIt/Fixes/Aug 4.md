@@ -9,7 +9,7 @@
 - More granular data tracking in Progress (like Unifi 10.5)
 - Premium store discount logic (half price)
 - Community store sellers payout logic
-Push notifications
+- Push notifications
 Quant Hub saving (presentations, documents, music files, etc.)
 Teachers' granular data / AI insights
 Students sending presentations to teachers / communications
