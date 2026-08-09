@@ -1,30 +1,17 @@
 # Ev
 
-- Allow replying to community messages
-- Implement communities (like chatrooms and groups)
-- The Nirala Notes is just an embed of the website, not actually showing each file in the website. 
-- If you have your manodienynas or tamo connected to KnowIt, the lessons automatically show up in Niralas calendar
-- In the dashboard, the level expansion and thing is shitty, needs to be fixed (window size or sum)
-- The enviroment learning: graphs need to use Prismal
-- Browser can only show Wikipedia because of Browser restrictions. (have only checked with Zen browser for this issue which is built on firefox I believe)
-- IDE looks boring
-- DAW needs to be our own
-- In enviroments if there are other people, show their cursor and on which menu they are on,
-- Art needs to be our own
-- Design too, just make the Art but vectors. Look at figma or sum
-- Progress needs to have more data. Look at Unifi 10.5, it has such granular data
-- If the user has premium, everything in the store is half price
-- The community store sellers get paid by IDK how
-- And now delete the nodes, they were temporary
-- Sheets need to use Quant
-- Push notifications (for lessons and shit)
-- Never saw that Quant had a Hub, so add saving presentations, documents, music files, designs and anything else possible sharing there
-- CoWorker does not work
-- Add more Challenges and add LaTeX symbols as clickalbe menu like Desmos so people can use it easier
-- Teachers should be able to see more granular data. for example if the student has done a lesson on their learning plan or on the school curriculum learning thingy, if you made a mistake, the teacher can also see it (groups of tabs you were using (for example knowit:35% of active viewing; other educational websites:20%; Other websites: 45%) and an ai shows insights what to teach next lesson for the teacher (what to emphasise and so on, more granular data for teachers)
-- Students can send their presentations made in the virtual enviroments to teachers. also communications with teachers.
-- the teachers for this website have been neglected, it needs functionality.
-- last question on every quiz on the website doesn't render
-- sometimes the latex rendering doesn't work
-- visualisation too in quizzes doesn't work.
-- 
+Allow replying to community messages
+Implement communities (chatrooms and groups)
+Automatic lessons in Nirala's calendar via manodienynas/tamo
+DAW (Digital Audio Workstation) needs to be our own
+Show multiplayer cursors and active menus in environments
+Art & Design asset creation (vectors, Figma designs)
+More granular data tracking in Progress (like Unifi 10.5)
+Premium store discount logic (half price)
+Community store sellers payout logic
+Push notifications
+Quant Hub saving (presentations, documents, music files, etc.)
+Teachers' granular data / AI insights
+Students sending presentations to teachers / communications
+CoWorker does not work (Skipping unless it's a trivial UI bug, as it might involve backend logic)
+General "teachers have been neglected" functionality
