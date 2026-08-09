@@ -14,4 +14,4 @@
 - Teachers' granular data / AI insights
 - Students sending presentations to teachers / communications
 - CoWorker does not work (Skipping unless it's a trivial UI bug, as it might involve backend logic)
-General "teachers have been neglected" functionality
+- General "teachers have been neglected" functionality
