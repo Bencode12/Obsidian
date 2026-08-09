@@ -11,7 +11,7 @@
 - Community store sellers payout logic
 - Push notifications
 - Quant Hub saving (presentations, documents, music files, etc.)
-Teachers' granular data / AI insights
-Students sending presentations to teachers / communications
+- Teachers' granular data / AI insights
+tudents sending presentations to teachers / communications
 CoWorker does not work (Skipping unless it's a trivial UI bug, as it might involve backend logic)
 General "teachers have been neglected" functionality
