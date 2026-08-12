@@ -13,4 +13,4 @@
 - automatically make it so the user has to write the folder name instead of generating one like untitled-17034098018.md
 - When I load up a new tab and go to nirala and try to open up a note, it automatically reroutes me back to the Home.md file, that means I have to click on the note again
 - When I download books from the open sources, I can only open them in the left side menu and if I try to open it in the folder, it just throws note not found
-- Some open source 
+- Some open source finders for the library don't work
