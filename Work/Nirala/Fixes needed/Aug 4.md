@@ -12,4 +12,4 @@
 - Dragging folders doesn't work (like dragging one folder to another)
 - automatically make it so the user has to write the folder name instead of generating one like untitled-17034098018.md
 - When I load up a new tab and go to nirala and try to open up a note, it automatically reroutes me back to the Home.md file, that means I have to click on the note again
-- 
+- When I download books from the open sources, I can only open them in 
