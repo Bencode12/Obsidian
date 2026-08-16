@@ -15,4 +15,4 @@
 - When I download books from the open sources, I can only open them in the left side menu and if I try to open it in the folder, it just throws note not found
 - Some open source finders for the library don't work. Add more in
 - todo list with draggable tasks
-- 
+- More custom screens like failed to download 
