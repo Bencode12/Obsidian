@@ -16,4 +16,4 @@
 - Some open source finders for the library don't work. Add more in
 - todo list with draggable tasks
 - More custom screens like failed to download books
-- Book downloading (
+- Book downloading (like from public libraries)
