@@ -12,4 +12,4 @@
 - todo list with draggable tasks
 - More custom screens like failed to download books
 - Book downloading (like from public libraries) should work like this: You search a book title or the subject it focuses and it just outputs all the books from ALL open libraries (currently we only have 3, there needs to be more) and the user can filter what libraries he wants the books from. Smarter solution
-- Needs more modulation like 
+- Needs more modulation like widgets
