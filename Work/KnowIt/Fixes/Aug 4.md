@@ -15,4 +15,5 @@
 - Students sending presentations to teachers / communications / class and tutor meetings
 - CoWorker does not work (Skipping unless it's a trivial UI bug, as it might involve backend logic)
 - General "teachers have been neglected" functionality
-- In self learning, any progress made on LaTeX, Documents, Presentations or anywhere else doesn't save (not when exiting or even going to another tool in the same enviroment (think going from Documents to Presentations and back to 
+- In self learning, any progress made on LaTeX, Documents, Presentations or anywhere else doesn't save (not when exiting or even going to another tool in the same enviroment (think going from Documents to Presentations and back to Documents)
+- Users should be able to see other peoples activities in the same enviroment. Think canva, it 
