@@ -15,4 +15,4 @@
 - Needs more modulation like widgets
 - Custom yaml functions by the user
 - In the settings, add a community store to share configs (Themes and the YAML functions and stuff like that)
-- Plugins (
+- Plugins (maybe spotify integration and stuff)
