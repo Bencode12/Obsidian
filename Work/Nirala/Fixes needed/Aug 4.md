@@ -16,4 +16,4 @@
 - Custom yaml functions by the user
 - In the settings, add a community store to share configs (Themes and the YAML functions and stuff like that)
 - Plugins (maybe spotify integration and stuff)
-- For making sure 
+- For making sure the repos are the users and to have vaults, 
