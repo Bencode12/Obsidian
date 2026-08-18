@@ -18,4 +18,4 @@
 - In self learning, any progress made on LaTeX, Documents, Presentations or anywhere else doesn't save (not when exiting or even going to another tool in the same enviroment (think going from Documents to Presentations and back to Documents)
 - Users should be able to see other peoples activities in the same enviroment. Think canva, it puts the persons icon and name on which slide the user is on, do the same, but both on the tool (Documents, Spreadsheets, etc.) and inside the tool
 - Delete Presentation skills
-- Job preparation shouldn't be like a Interview preparation tool, it should be like learning plans. Inside it, you see a dashboard 
+- Job preparation shouldn't be like a Interview preparation tool, it should be like learning plans. Inside it, you select a 
