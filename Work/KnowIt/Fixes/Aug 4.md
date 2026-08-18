@@ -15,4 +15,4 @@
 - Students sending presentations to teachers / communications / class and tutor meetings
 - CoWorker does not work (Skipping unless it's a trivial UI bug, as it might involve backend logic)
 - General "teachers have been neglected" functionality
-- In self learning, 
+- In self learning, any progress made on LaTeX, Documents, 
