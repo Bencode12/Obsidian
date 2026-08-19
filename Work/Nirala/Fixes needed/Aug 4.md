@@ -19,4 +19,5 @@
 - For making sure the repos are the users and to have vaults, what we can do is make the user connect github to nirala and for every repo of notes that they have, they have to add a seed phrase to the readme in the repo so the user can have multiple repos and have them private for photos and shit.
 - I can't modify YAML blocks, like I can't type out new functions and shit.
 - Don't show gitkeep files in folders. 
-- For the shared folders, (like the 
+- For the shared folders, (like two or more people working together on notes), we can do either commits (easiest), or force users to make a new repo (like a vault) where they do shit together. Idk
+- 
