@@ -10,3 +10,4 @@
 - Backend custom YAML functions
 - Full draggable individual task management
 - Render lists with dots instead of dashes
+1. 
