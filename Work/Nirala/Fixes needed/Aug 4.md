@@ -10,4 +10,4 @@
 - Backend custom YAML functions
 - Full draggable individual task management
 - Render bulleted lists with dots instead of dashes
-- 
+- Allow import of jupyter notebooks
