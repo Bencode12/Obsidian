@@ -9,4 +9,4 @@
 - Cloud-backed notebook indexing improvements
 - Backend custom YAML functions
 - Full draggable individual task management
-- Render lists with 
+- Render lists with dots instead of dashes
