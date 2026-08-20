@@ -1,6 +1,5 @@
 # Everything
 
-- 
 - Push notifications
 - Prismal and cross-app integrations
 - GitHub vault/seed phrase/shared repository workflows
@@ -10,3 +9,4 @@
 - Cloud-backed notebook indexing improvements
 - Backend custom YAML functions
 - Full draggable individual task management
+- Render lists with 
