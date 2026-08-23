@@ -21,3 +21,18 @@
 - Job preparation shouldn't be like a Interview preparation tool, it should be like learning plans. Inside it, you select a job opportunity and if later you want to change it, you write it and AI mixes an matches between all your changes and reccomends a path that is in the middle of what you like (based on hobbies and grades and whatnot). If what you wanna do now is drastically different, it keeps the new job as the new base. This works with the learning plan and creates and configures it for you so you approach your job easier (what subjects you need to do and such)
 - In Personalization, add in a new thing: Styles. Think modern, TUI and so on. This stacks on top of themes. 
 - Not everything translates
+Notebooks aren’t all folders but they are folders
+You select which folder you want to be a notebook
+Vaults
+Keybind and button to enhance your notes, left and right showing on left old note and on the right ai enhanced and you drag on the text you want to keep from the old and at the bottom a textbox to tell the ai what you want
+More file icons which automatically set
+Importing of junyper notebooks. Leads to more functionality in our app
+We have whiteboards as a yaml function but users should also be able to make entire notes whiteboards
+Diagrams of compounds, medical proceses, schemas of matices and other shit
+Learning plans but like duolingo, progression
+We need a huge readme. Of everything: how it works, what it is, what it changes, its meaning and so on. Schemas and shit so any developer coming into gamma studios can read through it.
+A huge update: rewriting most of the codebase in all out apps so nothing reuses old code. Should speed it up for users if we have useless processes.
+We need shit to defend against xxs, sql and any other type of attack. Unless the provider (lovable) already does this automatically which is fine
+We need our own protocols and services
+New protocol: pdxfxp - you figure it out
+Also mittens as a protocol - tags each lesson if it’s your own or not. Since we have multiplayer and leaderboards, we want people to use our apps without abuse. Mittens tracks how someone types and such and if the user has somebody else doing shit for the user, that user and the other user who is assisting that user in cheating both get banned.
