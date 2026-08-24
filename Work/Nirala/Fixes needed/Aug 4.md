@@ -15,4 +15,9 @@ Notebooks aren’t all folders but they are folders
 You select which folder you want to be a notebook
 Vaults
 Keybind and button to enhance your notes, left and right showing on left old note and on the right ai enhanced and you drag on the text you want to keep from the old and at the bottom a textbox to tell the ai what you want
+More file icons which automatically set
+Importing of junyper notebooks. Leads to more functionality in our app
+We have whiteboards as a yaml function but users should also be able to make entire notes whiteboards
+Diagrams of compounds, medical proceses, schemas of matices and other shit
+
 
