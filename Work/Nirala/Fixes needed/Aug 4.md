@@ -11,3 +11,7 @@
 - Full draggable individual task management
 - Render bulleted lists with dots instead of dashes
 - Allow import of jupyter notebooks
+Notebooks aren’t all folders but they are folders
+You select which folder you want to be a notebook
+Vaults
+
