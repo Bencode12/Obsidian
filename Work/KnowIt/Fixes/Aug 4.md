@@ -21,7 +21,6 @@
 - Job preparation shouldn't be like a Interview preparation tool, it should be like learning plans. Inside it, you select a job opportunity and if later you want to change it, you write it and AI mixes an matches between all your changes and reccomends a path that is in the middle of what you like (based on hobbies and grades and whatnot). If what you wanna do now is drastically different, it keeps the new job as the new base. This works with the learning plan and creates and configures it for you so you approach your job easier (what subjects you need to do and such)
 - In Personalization, add in a new thing: Styles. Think modern, TUI and so on. This stacks on top of themes. 
 - Not everything translates
-
 More file icons which automatically set
 Importing of junyper notebooks. Leads to more functionality in our app
 We have whiteboards as a yaml function but users should also be able to make entire notes whiteboards
