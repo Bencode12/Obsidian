@@ -21,10 +21,6 @@
 - Job preparation shouldn't be like a Interview preparation tool, it should be like learning plans. Inside it, you select a job opportunity and if later you want to change it, you write it and AI mixes an matches between all your changes and reccomends a path that is in the middle of what you like (based on hobbies and grades and whatnot). If what you wanna do now is drastically different, it keeps the new job as the new base. This works with the learning plan and creates and configures it for you so you approach your job easier (what subjects you need to do and such)
 - In Personalization, add in a new thing: Styles. Think modern, TUI and so on. This stacks on top of themes. 
 - Not everything translates
-More file icons which automatically set
-Importing of junyper notebooks. Leads to more functionality in our app
-We have whiteboards as a yaml function but users should also be able to make entire notes whiteboards
-Diagrams of compounds, medical proceses, schemas of matices and other shit
 Learning plans but like duolingo, progression
 We need a huge readme. Of everything: how it works, what it is, what it changes, its meaning and so on. Schemas and shit so any developer coming into gamma studios can read through it.
 A huge update: rewriting most of the codebase in all out apps so nothing reuses old code. Should speed it up for users if we have useless processes.
