@@ -22,7 +22,7 @@ Diagrams of compounds, medical proceses, schemas of matices and other shit
 - Calendar needs to be better (draggable events, calendars like google calendar, multi deleting (with shift), and so on)
 -in the right click menu, some of the custom yaml blocks aren't in it
 - whiteboards don't work
-
+-excalidraw doesn't work
 
 
 
