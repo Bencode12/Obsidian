@@ -29,4 +29,4 @@ We need our own protocols and services
 New protocol: pdxfxp - you figure it out
 Also mittens as a protocol - tags each lesson if it’s your own or not. Since we have multiplayer and leaderboards, we want people to use our apps without abuse. Mittens tracks how someone types and such and if the user has somebody else doing shit for the user, that user and the other user who is assisting that user in cheating both get banned.
 - Change to the old version of the front page
-- 
+- Classes page loads differently from others
