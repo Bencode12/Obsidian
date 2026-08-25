@@ -20,7 +20,7 @@ Importing of junyper notebooks. Leads to more functionality in our app
 We have whiteboards as a yaml function but users should also be able to make entire notes whiteboards
 Diagrams of compounds, medical proceses, schemas of matices and other shit
 - Calendar needs to be better (draggable events, calendars like google calendar, multi deleting (with shift), and so on)
--in the right click menu
+-in the right click menu, some of the 
 
 
 
