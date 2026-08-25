@@ -4,37 +4,28 @@ Related: [[16. Specialized Topics]]
 
 ## Overview
 
-Spectral Theory - Advanced specialized topic.
-
-> [!info] Note
-> Detailed content to be added as you study this topic.
-
----
+Spectral theory generalizes eigenvalue methods from matrices to operators on infinite-dimensional spaces.
 
 ## Key Concepts
 
-Core concepts and definitions will be added here.
-
----
+The spectrum of $T$ is $\sigma(T)=\{\lambda:T-\lambda I\text{ is not invertible}\}$. The resolvent is the inverse where it exists. Point, continuous, and residual spectrum distinguish different failures of invertibility. Compact operators often have matrix-like discrete spectra.
 
 ## Major Results
 
-Important theorems and results.
+The spectral theorem gives a functional calculus for normal operators. The spectral radius satisfies $r(T)=\lim_n\|T^n\|^{1/n}$. Compact self-adjoint operators have orthonormal eigenbases on the relevant subspace, with eigenvalues tending to zero.
 
----
+## Practice Problems
 
-## Learning Objectives
-
-What you should understand after studying this topic.
-
----
+1. Compute the spectrum of a triangular matrix.
+2. Explain why eigenvalues belong to the spectrum.
+3. Compare the spectrum of a finite-dimensional operator with that of a shift.
+4. State the spectral theorem for a self-adjoint matrix.
 
 ## Related Topics
 
-Connections to other areas of mathematics.
-
----
+[[9. Linear Algebra]] · [[12. Analysis]] · [[16. Specialized Topics/Operator Algebras]]
 
 ## Resources
 
-Recommended textbooks and references.
+- John B. Conway, *A Course in Functional Analysis*
+- Michael Reed and Barry Simon, *Methods of Modern Mathematical Physics I*

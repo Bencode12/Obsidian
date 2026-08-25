@@ -4,37 +4,28 @@ Related: [[16. Specialized Topics]]
 
 ## Overview
 
-Operator Algebras - Advanced specialized topic.
-
-> [!info] Note
-> Detailed content to be added as you study this topic.
-
----
+Operator algebras study algebras of bounded linear operators using both algebraic operations and topology.
 
 ## Key Concepts
 
-Core concepts and definitions will be added here.
-
----
+A $C^*$-algebra is a Banach *-algebra satisfying $\|a^*a\|=\|a\|^2$. A von Neumann algebra is a *-subalgebra of $B(H)$ closed in the weak operator topology. States are positive norm-one linear functionals and projections satisfy $p^2=p=p^*$.
 
 ## Major Results
 
-Important theorems and results.
+The Gelfand representation identifies commutative unital $C^*$-algebras with continuous functions on compact Hausdorff spaces. The spectral theorem describes normal operators through projection-valued measures. Positivity and states connect operator algebras to quantum probability.
 
----
+## Practice Problems
 
-## Learning Objectives
-
-What you should understand after studying this topic.
-
----
+1. Verify the $C^*$ identity for a matrix with the operator norm.
+2. Find the spectrum of a diagonal matrix.
+3. Explain why projections represent yes/no measurements.
+4. Compare norm, strong-operator, and weak-operator convergence.
 
 ## Related Topics
 
-Connections to other areas of mathematics.
-
----
+[[9. Linear Algebra]] · [[12. Analysis]] · [[16. Specialized Topics/Spectral Theory]]
 
 ## Resources
 
-Recommended textbooks and references.
+- Gert K. Pedersen, *Analysis Now*
+- Gerald J. Murphy, *C*-Algebras and Operator Theory*

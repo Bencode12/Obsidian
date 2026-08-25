@@ -4,37 +4,28 @@ Related: [[16. Specialized Topics]]
 
 ## Overview
 
-Homological Algebra - Advanced specialized topic.
-
-> [!info] Note
-> Detailed content to be added as you study this topic.
-
----
+Homological algebra studies algebraic invariants built from complexes, exact sequences, and derived functors.
 
 ## Key Concepts
 
-Core concepts and definitions will be added here.
-
----
+A chain complex has maps $d_n$ with $d_{n-1}d_n=0$; its homology is $H_n=\ker d_n/\operatorname{im}d_{n+1}$. Exactness means each kernel equals the preceding image. Derived functors measure the failure of an additive functor to preserve exactness.
 
 ## Major Results
 
-Important theorems and results.
+The snake lemma and five lemma organize diagram chases. Projective and injective resolutions define derived functors such as $\operatorname{Tor}$ and $\operatorname{Ext}$. Spectral sequences filter complicated computations through successive pages.
 
----
+## Practice Problems
 
-## Learning Objectives
-
-What you should understand after studying this topic.
-
----
+1. Compute the homology of a short complex of vector spaces.
+2. Explain why every short exact sequence of vector spaces splits.
+3. Compare projective and injective resolutions.
+4. Describe what a spectral-sequence page records.
 
 ## Related Topics
 
-Connections to other areas of mathematics.
-
----
+[[14. Algebraic Topology]] · [[15. Abstract Algebra]] · [[16.CT.3 Limits & colimits]]
 
 ## Resources
 
-Recommended textbooks and references.
+- Charles Weibel, *An Introduction to Homological Algebra*
+- Joseph Rotman, *An Introduction to Homological Algebra*

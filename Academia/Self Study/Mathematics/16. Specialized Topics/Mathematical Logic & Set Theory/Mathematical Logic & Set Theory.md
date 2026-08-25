@@ -4,37 +4,28 @@ Related: [[16. Specialized Topics]]
 
 ## Overview
 
-Mathematical Logic & Set Theory - Advanced specialized topic.
-
-> [!info] Note
-> Detailed content to be added as you study this topic.
-
----
+Logic formalizes valid reasoning, while set theory supplies a foundational language for mathematical objects.
 
 ## Key Concepts
 
-Core concepts and definitions will be added here.
-
----
+First-order logic uses variables, predicates, quantifiers, and interpretations. A formal theory is sound when its theorems are true in every model and complete when every valid sentence is provable. Set theory studies membership, functions, relations, ordinals, and cardinals.
 
 ## Major Results
 
-Important theorems and results.
+The compactness theorem says that a first-order theory is satisfiable when every finite subset is satisfiable. The completeness theorem connects semantic truth and formal proof. Cantor's theorem shows $|X|<|\mathcal{P}(X)|$, and incompleteness limits what sufficiently expressive consistent theories can prove.
 
----
+## Practice Problems
 
-## Learning Objectives
-
-What you should understand after studying this topic.
-
----
+1. Translate a quantified English statement into first-order notation.
+2. Distinguish validity, satisfiability, and provability.
+3. Use Cantor's diagonal argument to show $\mathbb{N}$ is not equinumerous with $\mathcal{P}(\mathbb{N})$.
+4. State the compactness theorem in your own words.
 
 ## Related Topics
 
-Connections to other areas of mathematics.
-
----
+[[3. Algebra]] · [[17. Number Theory]] · [[20. Combinatorics]]
 
 ## Resources
 
-Recommended textbooks and references.
+- Herbert Enderton, *A Mathematical Introduction to Logic*
+- Thomas Jech, *Set Theory*
