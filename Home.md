@@ -33,8 +33,3 @@ year: 2026
 ---
 
 ## 📰 Some News
-
-```feed
-url: https://hnrss.org/frontpage
-limit: 10
-```
