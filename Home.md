@@ -29,7 +29,3 @@ view: week
 year: 2026
 
 ```
-
----
-
-## 📰 Some News
