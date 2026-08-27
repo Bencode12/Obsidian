@@ -33,5 +33,3 @@ Diagrams of compounds, medical proceses, schemas of matices and other shit
 
 
 
-
-
