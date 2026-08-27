@@ -18,4 +18,4 @@ DAW (Digital Audio Workstation) as custom build — Massive undertaking (audio e
 - Old version of front page — No reference to "old version" exists in the codebase
 - Classes page loads differently — Unclear what the difference should be
 - More than 3 lessons in each topic in learning plans
-- 
+- More descriptive lesson titles
