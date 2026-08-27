@@ -15,6 +15,6 @@ DAW (Digital Audio Workstation) as custom build — Massive undertaking (audio e
 - "Not everything translates" — Needs i18n/l10n framework integration and translation audit
 - Huge README with schemas — Needs human input on vision/meaning; the existing docs are partial
 - Full codebase rewrite removing old code — Far too large for a single session; needs incremental approach
-Delete Presentation skills — Unclear what "presentation skills" refers to specifically
-Old version of front page — No reference to "old version" exists in the codebase
+- Delete Presentation skills — Unclear what "presentation skills" refers to specifically
+- Old version of front page — No reference to "old version" exists in the codebase
 Classes page loads differently — Unclear what the difference should be
