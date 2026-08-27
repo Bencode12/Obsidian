@@ -17,3 +17,5 @@ DAW (Digital Audio Workstation) as custom build — Massive undertaking (audio e
 - Full codebase rewrite removing old code — Far too large for a single session; needs incremental approach
 - Old version of front page — No reference to "old version" exists in the codebase
 - Classes page loads differently — Unclear what the difference should be
+- More than 3 lessons in each topic in learning plans
+- 
