@@ -38,4 +38,5 @@ Topic 2
  2. jdjfj
  3. djjdjdj
 
-You click on 
+You click on 1 ksdajidjd, complete the lesson and that lesson turns green to signify completion
+yellow if it's incomplete, just click on it to finish, 
