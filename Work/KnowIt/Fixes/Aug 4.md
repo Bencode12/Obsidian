@@ -25,4 +25,5 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 "old version" exists in the codebase.
 - Classes page loads differently - Unclear what the difference should be.
 
-Allow deletion of 
+Allow deletion of community posts
+You have to click on the post to reply to it, like twitter.
