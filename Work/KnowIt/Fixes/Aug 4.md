@@ -19,4 +19,4 @@ DAW (Digital Audio Workstation) as custom build — Massive undertaking (audio e
 - Classes page loads differently — Unclear what the difference should be
 - More than 3 lessons in each topic in learning plans
 - More descriptive lesson titles in lesson plans
-- Remove the start learning buttons in 
+- Remove the start learning button in learning plans
