@@ -21,4 +21,4 @@ DAW (Digital Audio Workstation) as custom build — Massive undertaking (audio e
 - More descriptive lesson titles in lesson plans
 - Remove the start learning button in learning plans
 - Teachers see notes
-- Teachers can upload the tex
+- Teachers / schools can upload the tex
