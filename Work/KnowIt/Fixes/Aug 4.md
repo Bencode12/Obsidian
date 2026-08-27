@@ -7,8 +7,8 @@ DAW (Digital Audio Workstation) as custom build — Massive undertaking (audio e
 - Community store sellers payout logic — Same as above — no store or payment system
 - Push notifications — Needs FCM/APNs setup, service worker, and server-side notification triggers
 - Quant Hub file saving (presentations, docs, music) — No file storage system; needs Supabase Storage or S3 buckets + upload UI
-Teachers' granular data / AI insights — Needs analytics pipeline + AI inference setup
-Students sending presentations to teachers / comms / meetings — Needs a full messaging/notification system + teacher dashboard
+- Teachers' granular data / AI insights — Needs analytics pipeline + AI inference setup
+-Students sending presentations to teachers / comms / meetings — Needs a full messaging/notification system + teacher dashboard
 CoWorker doesn't work — Skipped as noted; likely involves backend logic
 "Teachers have been neglected" functionality — Ambiguous; needs product spec
 Learning plans like Duolingo progression — The job-prep learning plans are a start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced repetition) across the entire self-learning module is a massive feature
