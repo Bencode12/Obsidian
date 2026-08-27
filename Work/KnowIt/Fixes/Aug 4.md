@@ -29,3 +29,7 @@ Allow deletion of community posts
 You have to click on the post to reply to it, like twitter.
 
 The learning plans need to look like duolingo but different:
+Topic
+  1. djdjd
+  2. djkjdjd
+  3. dfsfdsdf
