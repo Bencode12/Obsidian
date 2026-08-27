@@ -18,3 +18,4 @@ Full codebase rewrite removing old code — Far too large for a single session; 
 Delete Presentation skills — Unclear what "presentation skills" refers to specifically
 Old version of front page — No reference to "old version" exists in the codebase
 Classes page loads differently — Unclear what the difference should be
+
