@@ -1,4 +1,4 @@
-Automatic lessons in Nirala's calendar via manodienynas/tamo — No integration code or API docs exist for "manodienynas/tamo" in the codebase
+- Automatic lessons in Nirala's calendar via manodienynas/tamo — No integration code or API docs exist for "manodienynas/tamo" in the codebase
 DAW (Digital Audio Workstation) as custom build — Massive undertaking (audio engine, MIDI, mixing); would be a full project
 Show multiplayer cursors & active menus in environments — Requires real-time WebSocket infrastructure beyond what's currently set up
 Art & Design asset creation (vectors, Figma) — Would need a full vector editor integration (like Fabric.js) or Figma plugin API access
