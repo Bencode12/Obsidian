@@ -39,4 +39,4 @@ Topic 2
  3. djjdjdj
 
 You click on 1 ksdajidjd, complete the lesson and that lesson turns green to signify completion
-yellow if it's incomplete, just click on it to finish, normal black to signify not even started. Once completed the whole topic, that topic gets either a yellow, green or gold checkmark. Yellow if it's around 70-80% success average, green of it's pretty good (like 80-95%) and gold to show 100
+yellow if it's incomplete, just click on it to finish, normal black to signify not even started. Once completed the whole topic, that topic gets either a yellow, green or gold checkmark. Yellow if it's around 70-80% success average, green of it's pretty good (like 80-95%) and gold to show 100% on all the lessons
