@@ -5,8 +5,8 @@ DAW (Digital Audio Workstation) as custom build — Massive undertaking (audio e
 - Granular data tracking in Progress (Unifi 10.5 style) — Needs a new analytics/tracking schema and event pipeline
 - Premium store discount logic (half price) — No store/payment system exists yet; needs Stripe/payment provider integration
 - Community store sellers payout logic — Same as above — no store or payment system
-Push notifications — Needs FCM/APNs setup, service worker, and server-side notification triggers
-Quant Hub file saving (presentations, docs, music) — No file storage system; needs Supabase Storage or S3 buckets + upload UI
+- Push notifications — Needs FCM/APNs setup, service worker, and server-side notification triggers
+- Quant Hub file saving (presentations, docs, music) — No file storage system; needs Supabase Storage or S3 buckets + upload UI
 Teachers' granular data / AI insights — Needs analytics pipeline + AI inference setup
 Students sending presentations to teachers / comms / meetings — Needs a full messaging/notification system + teacher dashboard
 CoWorker doesn't work — Skipped as noted; likely involves backend logic
