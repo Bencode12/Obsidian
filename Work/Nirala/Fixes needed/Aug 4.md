@@ -1,7 +1,6 @@
 # Everything
 
-- Pus$$
-h notifications
+- Push notifications
 - Prismal and cross-app integrations
 - GitHub vault/seed phrase/shared repository workflows
 - Real-time group collaboration
