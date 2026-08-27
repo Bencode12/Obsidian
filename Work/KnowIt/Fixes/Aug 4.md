@@ -27,3 +27,5 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 
 Allow deletion of community posts
 You have to click on the post to reply to it, like twitter.
+
+The
