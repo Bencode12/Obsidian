@@ -24,5 +24,4 @@ is a massive feature.
 - Delete Presentation skills - Unclear what "presentation skills" refers to specifically.
 - Old version of front page - No reference to
 "old version" exists in the codebase.
-- Classes page loads differently - Unclear what the difference
-should
+- Classes page loads differently - Unclear what the difference should
