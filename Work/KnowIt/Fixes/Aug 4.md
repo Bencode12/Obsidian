@@ -19,3 +19,5 @@ Delete Presentation skills — Unclear what "presentation skills" refers to spec
 Old version of front page — No reference to "old version" exists in the codebase
 Classes page loads differently — Unclear what the difference should be
 
+
+- 
