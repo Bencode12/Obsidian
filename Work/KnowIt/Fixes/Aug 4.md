@@ -24,4 +24,4 @@ DAW (Digital Audio Workstation) as custom build — Massive undertaking (audio e
 - Teachers / schools can upload the textbooks into the library (meaning custom servers for ent)
 - Onboarding
 - Dashboard widgets need redesigning
-- It reloads 
+- It reloads most shit when going to a new page which uses up a lot of resources (like the user card and stuff, it reloads it when going to a new page)
