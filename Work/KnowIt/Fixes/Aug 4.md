@@ -23,4 +23,5 @@ DAW (Digital Audio Workstation) as custom build — Massive undertaking (audio e
 - Teachers see notes
 - Teachers / schools can upload the textbooks into the library (meaning custom servers for ent)
 - Onboarding
-- Dashboard widgets 
+- Dashboard widgets need redesigning
+
