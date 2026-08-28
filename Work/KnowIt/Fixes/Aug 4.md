@@ -22,3 +22,4 @@ DAW (Digital Audio Workstation) as custom build — Massive undertaking (audio e
 - Remove the start learning button in learning plans
 - Teachers see notes
 - Teachers / schools can upload the textbooks into the library (meaning custom servers for ent)
+- Onboarding
