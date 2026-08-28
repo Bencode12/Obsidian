@@ -25,3 +25,4 @@ DAW (Digital Audio Workstation) as custom build — Massive undertaking (audio e
 - Onboarding
 - Dashboard widgets need redesigning
 - It reloads most shit when going to a new page which uses up a lot of resources (like the user card and stuff, it reloads it when going to a new page)
+- Add friends to the app and private chats and groupchats
