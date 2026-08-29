@@ -23,7 +23,9 @@ Diagrams of compounds, medical proceses, schemas of matices and other shit
 -in the right click menu, some of the custom yaml blocks aren't in it
 - whiteboards don't work
 -excalidraw doesn't work
--Add UI styles to style shit to like Jupyter and stuff
+
+
+
 
 
 
