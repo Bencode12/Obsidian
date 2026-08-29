@@ -2,7 +2,7 @@
 
 - Rename the MathPad agent to Prismal Agent
 - Never saw that Quant had a Hub, so add graph sharing there
-- Some UI options in the settings do not work
+- Some UI options in the settings do not work (don't render properly, don't 
 - Custom Lua and Vim keybinds do not work
 - Prismal is not only for Graphing, it's also for Manim videos and LaTeX documents
 
