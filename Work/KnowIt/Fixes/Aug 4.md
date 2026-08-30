@@ -38,8 +38,8 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /exams: verify that users can't get off the page.
 /forgot-password
 /friends: Idk what this is
-/game-modes: two pages with same functionality
-/gamemodes
+/game-modes: two pages with same functionality, please fix
+/gamemodes:two pages with same functionality, please fix
 /help
 /hobby-learning
 /iq-test
