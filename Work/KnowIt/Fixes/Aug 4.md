@@ -49,3 +49,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /login
 /multiplayer
 /presentation-prep
+/pricing
+/privacy
+/profile
+/
