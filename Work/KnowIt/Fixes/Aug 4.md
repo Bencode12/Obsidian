@@ -56,7 +56,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /program-study: More descriptive lessons, more descriptive topics,  and more lessons per topic (currently 3, needs to be 10 at least)
 /progress: study activity heatmap gets squished in smaller screens and the bottom scroll bar appears. Make it so in smaller screens, only recent dates are rendered, remove the Join class button; In analytics, the Subject comparison only shows Study plan, not really descriptive (like I could have QED and Linear algebra in one singular study plan but it would only show Study plan, needs to be descriptive)
 /quick-learn: Some of the questions and their multiple choices or input boxes don't render
-/reset-password
+/reset-password: fine
 /schools
 /self-learning
 /settings
