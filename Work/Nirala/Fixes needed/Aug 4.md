@@ -1,6 +1,5 @@
 # Everything
 
-- Prismal and cross-app integrations
 - GitHub vault/seed phrase/shared repository workflows
 - Real-time group collaboration
 - Community store and plugins
