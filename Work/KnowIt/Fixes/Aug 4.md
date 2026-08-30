@@ -43,7 +43,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /help
 /hobby-learning: Add more hobbies, try to refrain from using AI to describe anything outside the front page
 /iq-test: I doubt it functions properly. Also, allow users to display it in their profile.
-/job-prep
+/job-prep: It is supposed to be like a 
 /leaderboard
 /library
 /login
