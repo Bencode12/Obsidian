@@ -42,7 +42,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /gamemodes: two pages with same functionality, please fix
 /help
 /hobby-learning: Add more hobbies, try to refrain from using AI to describe anything outside the front page
-/iq-test
+/iq-test: I doubt it functions properly. Also, allow users to display it 
 /job-prep
 /leaderboard
 /library
