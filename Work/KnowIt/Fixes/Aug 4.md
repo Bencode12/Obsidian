@@ -41,7 +41,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /game-modes: two pages with same functionality, please fix
 /gamemodes: two pages with same functionality, please fix
 /help
-/hobby-learning: Add more hobbies, try to refrain from using AI to describe anything.
+/hobby-learning: Add more hobbies, try to refrain from using AI to describe anything outside the front page
 /iq-test
 /job-prep
 /leaderboard
