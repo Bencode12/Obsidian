@@ -69,3 +69,4 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /teacher-dashboard
 /terms
 /u/:username
+/verify-email
