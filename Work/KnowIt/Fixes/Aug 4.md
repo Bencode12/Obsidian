@@ -48,7 +48,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /library: Nirala notes currently don't show up. Figure that one out.
 /login: fine
 /multiplayer: doesn't work
-/presentation-prep
+/presentation-prep: It needs to be in an actual layout and needs to listen to your mic
 /pricing
 /privacy
 /profile
