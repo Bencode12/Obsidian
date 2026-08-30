@@ -41,4 +41,5 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /game-modes
 /gamemodes
 /help
-/
+/hobby-learning
+/iq-test
