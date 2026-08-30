@@ -30,7 +30,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /Home: wrong version of front page. Needs to be the Think differently version with the rainbow highlight
 /Dashboard: Quick Actions has Start learning and View Progress buttons squished together, no spacing. That's an issue. Calendar works with the nirala calendar
 /ai-assistant - Delete this page
-/coworker
+/coworker:
 /challenges
 /community
 /contact
