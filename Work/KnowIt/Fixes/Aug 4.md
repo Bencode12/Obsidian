@@ -67,3 +67,5 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /subject
 /teacher
 /teacher-dashboard
+/terms
+/u:username
