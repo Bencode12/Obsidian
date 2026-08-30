@@ -61,3 +61,4 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /self-learning
 /settings
 /signup
+/staff-hub
