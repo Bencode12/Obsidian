@@ -39,7 +39,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /forgot-password
 /friends: Idk what this is
 /game-modes: two pages with same functionality, please fix
-/gamemodes:two pages with same functionality, please fix
+/gamemodes: two pages with same functionality, please fix
 /help
 /hobby-learning
 /iq-test
