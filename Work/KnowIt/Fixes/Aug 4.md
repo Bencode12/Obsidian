@@ -35,7 +35,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /community: add a third page - Friends (private DMs, Voice messages and gifs) and fourth - Communities (think like discord but simpler)
 /contact
 /curriculum: It uses the scraper poorly - for example, right now it shows Muzika, Class: Įvertinimas and generate lesson. It does not take Klases darbas as the lesson and uses the Grade type to describe the class. It needs to scrape more data.
-/exams
+/exams: verify that users can't get off the page.
 /forgot-password
 /friends
 /game-modes
