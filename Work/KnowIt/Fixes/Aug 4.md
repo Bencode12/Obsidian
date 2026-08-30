@@ -40,7 +40,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /friends: Idk what this is
 /game-modes: two pages with same functionality, please fix
 /gamemodes: two pages with same functionality, please fix
-/help
+/help: fine
 /hobby-learning: Add more hobbies, try to refrain from using AI to describe anything outside the front page
 /iq-test: I doubt it functions properly. Also, allow users to display it in their profile.
 /job-prep: It is supposed to be like the learning plans but for jobs but currently it just gives little tips. It is an alternative to colleges and universities and their courses.
