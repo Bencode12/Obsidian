@@ -64,7 +64,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /staff-hub: keep it but it's losing it's use
 /store: it just doesn't exist
 /student-dashboard: haven't tested it
-/subject
+/subject: just remove it dawg
 /teacher
 /teacher-dashboard
 /terms
