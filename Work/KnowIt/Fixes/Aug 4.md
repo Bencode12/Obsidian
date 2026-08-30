@@ -69,4 +69,4 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /teacher-dashboard: same page as teacher, figure that out
 /terms: fine I guess
 /u/:username: what the hell is this?
-/verify-email
+/verify-email: think it's fine
