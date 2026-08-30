@@ -52,7 +52,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /pricing: remove it. We will move pricing to our official page.
 /privacy: fine.
 /profile: I think it's fine. Look at all my notes and see if it needs changes (discretionary)
-/program-learning
+/program-learning:
 /program-study
 /progress
 /quick-learn
