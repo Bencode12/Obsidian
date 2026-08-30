@@ -28,7 +28,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 
 
 /Home: wrong version of front page. Needs to be the Think differently version with the rainbow highlight
-/Dashboard
+/Dashboard: Quick Actions 
 /ai-assistant - Delete this page
 /coworker
 /challenges
