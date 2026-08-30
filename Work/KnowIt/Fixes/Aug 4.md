@@ -53,7 +53,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /privacy: fine.
 /profile: I think it's fine. Look at all my notes and see if it needs changes (discretionary)
 /program-learning: two pages with similar names, so resolve that
-/program-study: 
+/program-study: I th
 /progress
 /quick-learn
 /reset-password
