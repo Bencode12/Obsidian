@@ -46,7 +46,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /job-prep: It is supposed to be like the learning plans but for jobs but currently it just gives little tips. It is an alternative to colleges and universities and their courses.
 /leaderboard: SR has no functionality (outside the page but still fix it), outside of that, it is complete
 /library: Nirala notes currently don't show up. Figure that one out.
-/login
+/login: fine
 /multiplayer
 /presentation-prep
 /pricing
