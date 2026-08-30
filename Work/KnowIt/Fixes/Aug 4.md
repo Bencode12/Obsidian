@@ -62,7 +62,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /settings: relatively fine, but the widget layout of the dashboard needs to be better (currently it's just buttons, make it way better), No connections work, UI styles don't work and we need more
 /signup: fine
 /staff-hub: keep it but it's losing it's use
-/store: 
+/store: it just doesn't exist
 /student-dashboard
 /subject
 /teacher
