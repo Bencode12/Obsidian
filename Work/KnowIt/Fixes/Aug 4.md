@@ -58,7 +58,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /quick-learn: Some of the questions and their multiple choices or input boxes don't render
 /reset-password: fine
 /schools: You can remove that
-/self-learning: in smaller screen
+/self-learning: in smaller screen, the top bar of the tools don't render properly and it wraps without proper rendering 
 /settings
 /signup
 /staff-hub
