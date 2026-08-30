@@ -58,7 +58,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /quick-learn: Some of the questions and their multiple choices or input boxes don't render
 /reset-password: fine
 /schools: You can remove that
-/self-learning
+/self-learning: in smaller screen
 /settings
 /signup
 /staff-hub
