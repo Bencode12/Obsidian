@@ -47,7 +47,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /leaderboard: SR has no functionality (outside the page but still fix it), outside of that, it is complete
 /library: Nirala notes currently don't show up. Figure that one out.
 /login: fine
-/multiplayer
+/multiplayer: doesn't work
 /presentation-prep
 /pricing
 /privacy
