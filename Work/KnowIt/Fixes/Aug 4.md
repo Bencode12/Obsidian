@@ -31,7 +31,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /Dashboard: Quick Actions has Start learning and View Progress buttons squished together, no spacing. That's an issue. Calendar works with the nirala calendar
 /ai-assistant - Delete this page
 /coworker: Preload claude skills (.md files) (find the best ones, like stop-slop and skill finder (don't know the actual name) which automatically finds the best ones and it currently doesn't work.
-/challenges: render LaTeX automatically
+/challenges: render LaTeX automatically and add more
 /community
 /contact
 /curriculum
