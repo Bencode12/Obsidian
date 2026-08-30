@@ -49,7 +49,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /login: fine
 /multiplayer: doesn't work
 /presentation-prep: It needs to be in an actual layout and needs to listen to your mic and lets remove the camera part for now, too difficult with our current infra.
-/pricing
+/pricing: remove it. We will move pricing to our official page.
 /privacy
 /profile
 /program-learning
