@@ -44,7 +44,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /hobby-learning: Add more hobbies, try to refrain from using AI to describe anything outside the front page
 /iq-test: I doubt it functions properly. Also, allow users to display it in their profile.
 /job-prep: It is supposed to be like the learning plans but for jobs but currently it just gives little tips. It is an alternative to colleges and universities and their courses.
-/leaderboard: SR has no functionality (outside the page but still fix it), 
+/leaderboard: SR has no functionality (outside the page but still fix it), outside of that, it is complete
 /library
 /login
 /multiplayer
