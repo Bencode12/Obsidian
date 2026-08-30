@@ -34,7 +34,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /challenges: render LaTeX automatically and add more. Also, make sure the amount you have solved also shows up in your profile like Leetcode has.
 /community: add a third page - Friends (private DMs, Voice messages and gifs) and fourth - Communities (think like discord but simpler)
 /contact
-/curriculum: It uses the scraper poorly - for example, right now it shows Muzika, Class: Įvertinimas and generate lesson. It does not take Klases darbas as the lesson
+/curriculum: It uses the scraper poorly - for example, right now it shows Muzika, Class: Įvertinimas and generate lesson. It does not take Klases darbas as the lesson.
 /exams
 /forgot-password
 /friends
