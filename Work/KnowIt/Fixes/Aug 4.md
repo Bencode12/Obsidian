@@ -37,7 +37,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /curriculum: It uses the scraper poorly - for example, right now it shows Muzika, Class: Įvertinimas and generate lesson. It does not take Klases darbas as the lesson and uses the Grade type to describe the class. It needs to scrape more data.
 /exams: verify that users can't get off the page.
 /forgot-password
-/friends
+/friends: Idk what this is
 /game-modes
 /gamemodes
 /help
