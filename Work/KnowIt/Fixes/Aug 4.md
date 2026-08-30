@@ -67,6 +67,6 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /subject: just remove it dawg
 /teacher: fine but the Activity heatmap is with faked data rn
 /teacher-dashboard: same page as teacher, figure that out
-/terms: fine IG
+/terms: fine I guess
 /u/:username
 /verify-email
