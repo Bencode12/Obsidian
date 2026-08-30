@@ -44,3 +44,4 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /hobby-learning
 /iq-test
 /job-prep
+/leaderboard
