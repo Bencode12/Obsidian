@@ -33,3 +33,5 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /coworker
 /challenges
 /community
+/contact
+/
