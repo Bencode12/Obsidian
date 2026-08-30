@@ -58,3 +58,4 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /quick-learn
 /reset-password
 /schools
+/self-learning
