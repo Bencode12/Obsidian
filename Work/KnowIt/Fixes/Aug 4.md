@@ -32,7 +32,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /ai-assistant - Delete this page
 /coworker: Preload claude skills (.md files) (find the best ones, like stop-slop and skill finder (don't know the actual name) which automatically finds the best ones and it currently doesn't work.
 /challenges: render LaTeX automatically and add more. Also, make sure the amount you have solved also shows up in your profile like Leetcode has.
-/community: add a third page - Friends (private DMs, Voice messages and gifs) and fourth - Communities (think like 
+/community: add a third page - Friends (private DMs, Voice messages and gifs) and fourth - Communities (think like discord but simpler)
 /contact
 /curriculum
 /exams
