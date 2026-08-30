@@ -39,3 +39,4 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /forgot-password
 /friends
 /game-modes
+/gamemodes
