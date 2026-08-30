@@ -4,6 +4,7 @@
 - Spacing is weird in lists. Like when one line of a dotted list wraps and goes down to a second line but stays in a single line thingy, it just adds a ton of space
 - The UI looks weird in the notebook
 - when you search up an author, it should pull up a card with the authors picture and description of him/her from wikipedia.
+- 
 
 
 
