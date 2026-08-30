@@ -32,3 +32,4 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /ai-assistant - Delete this page
 /coworker
 /challenges
+/community
