@@ -68,5 +68,5 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /teacher: fine but the Activity heatmap is with faked data rn
 /teacher-dashboard: same page as teacher, figure that out
 /terms: fine I guess
-/u/:username
+/u/:username: what the hell is this?
 /verify-email
