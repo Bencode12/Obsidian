@@ -68,4 +68,4 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /teacher
 /teacher-dashboard
 /terms
-/u:username
+/u/:username
