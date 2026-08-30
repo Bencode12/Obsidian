@@ -38,7 +38,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /exams: verify that users can't get off the page.
 /forgot-password
 /friends: Idk what this is
-/game-modes
+/game-modes: two pages with same functionality
 /gamemodes
 /help
 /hobby-learning
