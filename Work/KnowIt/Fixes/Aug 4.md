@@ -56,3 +56,5 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /program-study
 /progress
 /quick-learn
+/reset-password
+/schools
