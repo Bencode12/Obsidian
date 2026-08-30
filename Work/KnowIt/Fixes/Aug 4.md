@@ -27,4 +27,5 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 
 
 
-/
+/Home
+/Dashboard
