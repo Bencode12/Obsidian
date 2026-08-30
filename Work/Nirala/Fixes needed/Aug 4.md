@@ -5,7 +5,7 @@
 - GitHub vault/seed phrase/shared repository workflows
 - Real-time group collaboration
 - Community store and plugins
-- Expanded public-library search/filtering (The search is just an imput box and it uses all open libraries (meaning we need to connect more),
+- Expanded public-library search/filtering (The search is just an imput box and it uses all open libraries (meaning we need to connect more)
 - Cloud-backed notebook indexing improvements
 - Backend custom YAML functions
 - Full draggable individual task management
