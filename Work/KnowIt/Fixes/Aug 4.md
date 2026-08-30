@@ -63,4 +63,4 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /signup
 /staff-hub
 /store
-/student
+/student-dashboard
