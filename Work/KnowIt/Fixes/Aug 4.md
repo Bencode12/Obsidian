@@ -40,3 +40,5 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /friends
 /game-modes
 /gamemodes
+/help
+/
