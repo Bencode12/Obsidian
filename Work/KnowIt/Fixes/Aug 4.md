@@ -65,7 +65,7 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /store: it just doesn't exist
 /student-dashboard: haven't tested it
 /subject: just remove it dawg
-/teacher
+/teacher: fine but the Activity heatmap is with 
 /teacher-dashboard
 /terms
 /u/:username
