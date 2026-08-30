@@ -45,3 +45,5 @@ start, but the full Duolingo-style gamification (XP, streaks, hearts, spaced rep
 /iq-test
 /job-prep
 /leaderboard
+/library
+/login
