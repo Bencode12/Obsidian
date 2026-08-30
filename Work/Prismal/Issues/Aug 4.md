@@ -16,5 +16,4 @@ h8e@https://prismal.gammastudios.xyz/assets/index-Uf2QFFNL.js:38:17571
 y8t@https://prismal.gammastudios.xyz/assets/index-Uf2QFFNL.js:38:17346
 Also, styles don't work (they work like the Spyder app, reworks the UI/UX to fit those. Remove some styles like the wolfram alpha and others that don't fit this idea)
 
-I believe that this app is done. There's not much we can add on it
 
