@@ -20,4 +20,4 @@
 - Fix layout of community posts (like the hearts, comments and trash can)
 - Show what users are in the community, add community settings for what users can create new channels and stuff.
 - In the subject comparison, if I hover over the bar, it shows Value: n (I used n to not skew your fix), it should not be value: n, it should be Lesson Count: n
-- 
+- In settings - Billing, add a way for users to link their paypal so 
