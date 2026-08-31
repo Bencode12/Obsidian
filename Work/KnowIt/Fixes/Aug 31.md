@@ -18,4 +18,5 @@
 - Verify that users can get into classes
 - Failed to generate exam: Edge Function returned a non-2xx status code
 - Fix layout of community posts (like the hearts, comments and trash can)
-- Show what users are in the community, add community settings 
+- Show what users are in the community, add community settings for what users can create new channels and stuff.
+
