@@ -9,4 +9,4 @@
 - Progress doesn't actually save in the enviroments (check if it works for both free and premium users)
 - Still shows Learning plans as subjects in the Subject Comparison widget in the progress page, fix that
 - Add achievements
-- If an open room in multiplayer is full or has been up for an hour or more, just remove it
+- If an open room in multiplayer is full or has been up for an hour or more, just remove it. And make sure multiplayer works. Also, if a user goes into a room and exits, it still counts as the user is in the room and 
