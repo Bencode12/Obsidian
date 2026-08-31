@@ -12,4 +12,4 @@
 - If an open room in multiplayer is full or has been up for an hour or more, just remove it. And make sure multiplayer works. Also, if a user goes into a room and exits, it still counts as the user is in the room and makes the count go up
 - How do I invite someone to a community?
 - In some lessons in the personalized learning, the graphs and stuff doesn't render. Fix that
-- We need to figure out a way to also include 
+- We need to figure out a way to also include curriculums like the IB (MYP and DP), 
