@@ -19,7 +19,7 @@ Environments (multi-user / real-time)
 	•	Add per-user colors (Google Docs-style) showing where each user is, including a colored wrapper/outline around the tool/element they’re currently using
     - teachers should be able to create enviroments
     - we need to develop shit for tutors
-    
+    - exporting data of what user did what in an enviroment
 
 Multiplayer / Competitions
 
