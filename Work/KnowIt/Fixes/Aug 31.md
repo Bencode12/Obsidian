@@ -5,5 +5,5 @@
 - Expand the nirala notes embed box in the library because there's too much empty space
 - Missing connections like spotify, gmail, google calendar and google drive
 - The tab logo and the website logo don't match, put in the website logo onto the tab logo (favicon)
-- Create actual lessons
+- Create actual lessons in /lessons
 - Progress doesn't actually save in the enviroments (check if it works for both free and premium users)
