@@ -6,3 +6,4 @@
 - Missing connections like spotify, gmail, google calendar and google drive
 - The tab logo and the website logo don't match, put in the website logo onto the tab logo (favicon)
 - Create actual lessons
+- Progress doesn't actually save oin the enviroments (check if it works for both free and premium users)
