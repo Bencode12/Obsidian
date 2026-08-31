@@ -23,3 +23,4 @@
 - In settings - Billing, add a way for users to link their paypal so people can sell their notes and stuff on the marketplace
 - Notifications work with email, the app just sends you an email
 - Why is payment history hidden behind premium?
+- allow to private 
