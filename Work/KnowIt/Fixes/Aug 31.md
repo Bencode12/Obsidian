@@ -1,2 +1,2 @@
 # Aug 31
-- Add auto 
+- Add fuzzy search and automatic closest finder of freinds in the add friends of the profile page
