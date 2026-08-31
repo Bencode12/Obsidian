@@ -17,5 +17,5 @@
 - Also, in quick learn, add a teach baby jojo type thingy. You just teach an AI.
 - Verify that users can get into classes
 - Failed to generate exam: Edge Function returned a non-2xx status code
-
+- Fix layout of community posts (like the hearts, comments and trash can)
 
