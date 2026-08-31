@@ -8,4 +8,4 @@
 - Create actual lessons in /lessons
 - Progress doesn't actually save in the enviroments (check if it works for both free and premium users)
 - Still shows Learning plans as subjects in the Subject Comparison widget in the progress page, fix that
-- 
+- Add achievements
