@@ -15,3 +15,4 @@
 - We need to figure out a way to also include curriculums like the IB (MYP and DP), APs, GCSEs, A-levels, Le Bac and any others. For IB resources (mostly DP), https://git.pirateib.sh/pirateIB is the repo. It's free and has a lot of resources. Only use it for past papers and whatnot
 - Verify that the enviroment invites work and that other people that are in the enviroment do stuff shows up for all users and saves that data too. Also, add colors for each user like google docs and in google docs it also shows where that user is (like where the users cursor is), do the same, but also add a wrapper (like a green line surrounding that tool for a user with the green color) for where the user is.
 - Also, in quick learn, add a teach baby jojo type thingy. You just teach an AI.
+- Verify that users can 
