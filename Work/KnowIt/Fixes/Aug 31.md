@@ -7,3 +7,4 @@
 - The tab logo and the website logo don't match, put in the website logo onto the tab logo (favicon)
 - Create actual lessons in /lessons
 - Progress doesn't actually save in the enviroments (check if it works for both free and premium users)
+- Still shows 
