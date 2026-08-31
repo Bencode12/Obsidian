@@ -11,7 +11,7 @@ Bugs / Broken Functionality
 	•	Exam generation fails: Edge Function returns a non-2xx status code
 	•	Tab favicon doesn’t match the actual site logo — replace it
 	•	Community posts layout is broken (hearts, comments, trash icon)
-    
+    - 
 Environments (multi-user / real-time)
 
 	•	Verify environment invites actually work
