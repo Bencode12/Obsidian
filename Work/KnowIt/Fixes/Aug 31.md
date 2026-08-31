@@ -4,3 +4,4 @@
 - My classes page loads differently from the others
 - Expand the nirala notes embed box in the library because there's too much empty space
 - Missing connections like spotify, gmail, google calendar and google drive
+- The 
