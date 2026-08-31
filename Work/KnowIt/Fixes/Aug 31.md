@@ -1,2 +1,3 @@
 # Aug 31
 - Add fuzzy search and automatic closest finder of freinds in the add friends of the profile page
+- Add competitions
