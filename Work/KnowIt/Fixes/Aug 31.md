@@ -16,3 +16,6 @@
 - Verify that the enviroment invites work and that other people that are in the enviroment do stuff shows up for all users and saves that data too. Also, add colors for each user like google docs and in google docs it also shows where that user is (like where the users cursor is), do the same, but also add a wrapper (like a green line surrounding that tool for a user with the green color) for where the user is.
 - Also, in quick learn, add a teach baby jojo type thingy. You just teach an AI.
 - Verify that users can get into classes
+- Failed to generate exam: Edge Function returned a non-2xx status code
+
+
