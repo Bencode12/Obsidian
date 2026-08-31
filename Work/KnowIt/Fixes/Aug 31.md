@@ -24,4 +24,4 @@
 - Notifications work with email, the app just sends you an email
 - Why is payment history hidden behind premium?
 - allow to private textbooks if you posted them yourself, add favoriting which would add a folder like tiktok of favorited books. also do likes which would make a seperate thingy but also show the count of the likes
-- allow to private 
+- allow to private community posts so only your friends can see them. 
