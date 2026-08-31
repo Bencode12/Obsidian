@@ -13,3 +13,4 @@
 - How do I invite someone to a community?
 - In some lessons in the personalized learning, the graphs and stuff doesn't render. Fix that
 - We need to figure out a way to also include curriculums like the IB (MYP and DP), APs, GCSEs, A-levels, Le Bac and any others. For IB resources (mostly DP), https://git.pirateib.sh/pirateIB is the repo. It's free and has a lot of resources. Only use it for past papers and whatnot
+- 
