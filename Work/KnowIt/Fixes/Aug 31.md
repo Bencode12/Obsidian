@@ -19,4 +19,4 @@
 - Failed to generate exam: Edge Function returned a non-2xx status code
 - Fix layout of community posts (like the hearts, comments and trash can)
 - Show what users are in the community, add community settings for what users can create new channels and stuff.
-- In the subject comparison, if I hover over the bar, it shows Value: n (I used n to not skew 
+- In the subject comparison, if I hover over the bar, it shows Value: n (I used n to not skew your fix), 
