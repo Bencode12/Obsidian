@@ -11,12 +11,13 @@ Bugs / Broken Functionality
 	•	Exam generation fails: Edge Function returns a non-2xx status code
 	•	Tab favicon doesn’t match the actual site logo — replace it
 	•	Community posts layout is broken (hearts, comments, trash icon)
-    - The front page variates between white and black, choose white as the single background color. You have to scroll down too far with the world map and you can't see the Knowit box overlay clearly. Also, some of the points on the map are not correctly placed.
+
 Environments (multi-user / real-time)
 
 	•	Verify environment invites actually work
 	•	Verify other users’ actions in a shared environment show up live for everyone, and persist
 	•	Add per-user colors (Google Docs-style) showing where each user is, including a colored wrapper/outline around the tool/element they’re currently using
+    
 
 Multiplayer / Competitions
 
@@ -24,5 +25,43 @@ Multiplayer / Competitions
 	•	Verify multiplayer works end-to-end
 	•	Verify users can actually get into classes
 
+Community
 
+	•	Add a way to invite someone to a community (currently unclear/missing)
+	•	Show which users are currently in a community
+	•	Add community settings controlling who can create new channels, etc.
+	•	Allow making community posts private (visible only to friends), sorted most-recent-first
+
+Profile / Social
+
+	•	Add fuzzy search + auto-suggested closest friends in “Add Friends”
+	•	Add achievements
+
+Curriculum / Lessons
+
+	•	Build out actual lesson content in /lessons
+	•	Support additional curricula: IB (MYP and DP), AP, GCSE, A-Levels, Le Bac, others
+	•	For IB (mostly DP) resources, use the PirateIB repo (git.pirateib.sh/pirateIB) — free, past papers only
+
+Nirala
+
+	•	Expand the notes embed box in the library — too much empty space currently
+
+Quick Learn
+
+	•	Add a “teach baby Jojo” mode — user teaches the AI instead of being taught
+
+Integrations
+
+	•	Add missing connections: Spotify, Gmail, Google Calendar, Google Drive
+
+Billing / Marketplace
+
+	•	Settings → Billing: add PayPal linking so users can sell notes on the marketplace
+	•	Payment history is currently locked behind premium — why? Fix/unlock
+	•	Add textbook privacy (only visible if self-posted), favoriting (TikTok-style folder), and likes (separate count + list)
+
+Notifications
+
+	•	Confirm current behavior: notifications work by sending an email, no in-app notification exists yet
 
