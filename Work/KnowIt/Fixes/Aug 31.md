@@ -11,7 +11,7 @@ Bugs / Broken Functionality
 	•	Exam generation fails: Edge Function returns a non-2xx status code
 	•	Tab favicon doesn’t match the actual site logo — replace it
 	•	Community posts layout is broken (hearts, comments, trash icon)
-    - The front page variates between white and black, choose white as the single background color. You have to scroll down too far with the world map and you can't see the Knowit box overlay clearly. Also, some of the points on the 
+    - The front page variates between white and black, choose white as the single background color. You have to scroll down too far with the world map and you can't see the Knowit box overlay clearly. Also, some of the points on the map 
 Environments (multi-user / real-time)
 
 	•	Verify environment invites actually work
