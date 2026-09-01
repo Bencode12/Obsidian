@@ -9,11 +9,6 @@
 - calendar, add a input box to delete only this event, this one and all the others and so on. also, do it like google calendar and save which types of calendars already have been used for easier note writing
 - add voice memos so you can play what you spoke into the app later
 - 
-```graph-2d
-type: scatter
-x: [1, 2, 3]
-y: [4, 5, 6]
-```
 
 
 
