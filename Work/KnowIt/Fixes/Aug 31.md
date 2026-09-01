@@ -70,4 +70,5 @@ Notifications
   CoWorker
 
    - 
+- add web search to the AI so it can search up relevant data. Also add anything else an agent might need
 
