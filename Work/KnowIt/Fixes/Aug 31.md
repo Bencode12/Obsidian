@@ -74,6 +74,6 @@ Notifications
 
 
 - teachers don't care about levels and XP
-- Clean up repo. Like the Implementation status.md, roadmap, phases and so on and put everything into one .md file
+- Clean up repo. Like the Implementation status.md, roadmap, phases and so on and put everything into one .md file for a single source of truth
 - 
 
