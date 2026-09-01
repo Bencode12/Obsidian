@@ -78,4 +78,4 @@ CoWorker
 
     Also add a way for students to specify shit when making a learning plan and also add grades. So like if a 9th grader wants to make a learning plan based on his grade,
 
-- add a way for users to extend the timeline more than 6 months. Also, when the user reads the theory, link book pages and stuff like those AI chatbot tictacs so you hover over them and the page appears and the relevant text gets highlighted in the book. Also, make sure all the animations and 
+- add a way for users to extend the timeline more than 6 months. Also, when the user reads the theory, link book pages and stuff like those AI chatbot tictacs so you hover over them and the page appears and the relevant text gets highlighted in the book. Also, make sure all the animations and graphs render in lessons.
