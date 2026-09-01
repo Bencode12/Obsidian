@@ -10,7 +10,7 @@
 - add voice memos so you can play what you spoke into the app later
 - add web search to the AI so it can search up relevant data. Also add anything else an agent might need. And if the agent uses web search, it would show a tic tac styled thingy like in claude or chatgpt or any sort of AI
 - the ask nirala AI textbox at the bottom only stays in notes, nowhere else
-- Don't show 
+- Don't show .gitkeep files in 
 
 
 
