@@ -8,7 +8,7 @@
 - allow for multiple types of formatting guides and add rules when which one is used and make it so the user doesn't paste them, he links the files.
 - calendar, add a input box to delete only this event, this one and all the others and so on. also, do it like google calendar and save which types of calendars already have been used for easier note writing
 - add voice memos so you can play what you spoke into the app later
-- add web search to the AI so it can search up relevant data
+- add web search to the AI so it can search up relevant data. Also add anything else an agent might need
 
 
 
