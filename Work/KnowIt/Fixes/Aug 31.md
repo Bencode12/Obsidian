@@ -71,5 +71,8 @@ Notifications
 
    - add web search to the AI so it can search up relevant data. Also add anything else an agent might need. Also check if it can look into the users data. Just add protection to make sure users don't use it for anything bad and only use it to study and ask about stuff and help ONLY SPECIFIC to what we offer (our connections, tools and so on). 
 
-  
+
+
+- teachers don't care about levels and XP
+- Add a way for teachers to create enviroments for students and assign students to them
 
