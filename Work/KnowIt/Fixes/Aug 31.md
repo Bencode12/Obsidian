@@ -76,7 +76,7 @@ Notifications
 - teachers don't care about levels and XP
 - Clean up repo. Like the Implementation status.md, roadmap, phases and so on and put everything into one .md file for a single source of truth
 
-- Also add a way for students to specify shit when making a learning plan and also add grades. So like if a 9th grader wants to make a learning plan based on his grade, so add a filter to see for each grade 
+- Also add a way for students to specify shit when making a learning plan and also add grades. So like if a 9th grader wants to make a learning plan based on his grade, so add a filter to see for each grade what each student should learn.
 
 
 
