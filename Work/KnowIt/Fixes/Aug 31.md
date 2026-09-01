@@ -78,4 +78,4 @@ CoWorker
 
     Also add a way for students to specify shit when making a learning plan and also add grades. So like if a 9th grader wants to make a learning plan based on his grade,
 
-- add a way for users to extend the timeline more than 6 months.
+- add a way for users to extend the timeline more than 6 months. Also, when the 
