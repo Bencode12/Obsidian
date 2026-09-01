@@ -5,7 +5,7 @@
 - The UI looks weird in the notebook
 - when you search up an author, it should pull up a card with the authors picture and description of him/her from wikipedia.
 - add image pasting
-- allow for multiple types of formatting g
+- allow for multiple types of formatting guides. and make it so the user doesn't paste them, he links the files. 
 
 
 
