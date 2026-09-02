@@ -17,7 +17,7 @@
 - Users should be able to just link their github profiles instead of linking the repo so even private repos can be shown in the app
 - Does not render pasted images
 - Make it so pasted  images don't show up in the folder
-- MANY issues with how lines are handled with YAML blocks and any basic thing like tables and graphs and such and even sometimes normal text lines (like if I go into a line with a YAML block or table
+- MANY issues with how lines are handled with YAML blocks and any basic thing like tables and graphs and such and even sometimes normal text lines (like if I go into a line with a YAML block or table or
 - Some YAML blocks don't work 
 
 
