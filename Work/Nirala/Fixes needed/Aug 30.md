@@ -14,7 +14,7 @@
 - Remove the File formatting box in the settings so only the Fromatting guides is the option
 - Add a dropdown to the * box so users choose when which one is chosen.
 - Allow for users to attach images to the chatbot in the AI integrated mode
-- 
+- Users should be able to just link their github profiles instead of linking the repo
 
 
 
