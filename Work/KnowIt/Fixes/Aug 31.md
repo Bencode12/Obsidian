@@ -84,3 +84,5 @@ CoWorker
 - In each section, add a button to ask AI if the user doesn't understand.
 - add boxes like common mistakes, warning, tip and so on.
 - For the quizzes, also include flash cards and stuff so it would be more interactive (also look into revisiondojo and brilliant on how they make their on hands lessons. We will still use theory, just at the end where the quiz is to test the users knowledge on the learned lesson, we would add more interactive ways than typing in or multiple choice)
+- We need to design our own cheatsheets
+- 
