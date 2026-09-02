@@ -18,7 +18,7 @@
 - Does not render pasted images
 - Make it so pasted  images don't show up in the folder
 - MANY issues with how lines are handled with YAML blocks and any basic thing like tables and graphs and such and even sometimes normal text lines
-- Some YAM
+- Some YAML blocks don't work 
 
 
 
