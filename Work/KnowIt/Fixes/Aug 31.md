@@ -83,4 +83,4 @@ CoWorker
 - theory shouldn't be pasted all at once, add a read on button in the lessons so users can read little by little and once they are ready, they can press the button and get the next part.
 - In each section, add a button to ask AI if the user doesn't understand.
 - add boxes like common mistakes, warning, tip and so on.
-- 
+- For the quizzes, also include flash cards 
