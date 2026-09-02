@@ -82,4 +82,4 @@ CoWorker
 - Instead of a countdown, replace it with a counter which counts up the time and with your solved time, it adapts next lessons
 - theory shouldn't be pasted all at once, add a read on button in the lessons so users can read little by little and once they are ready, they can press the button and get the next part.
 - In each section, add a button to ask AI if the user doesn't understand.
-- add boxes like 
+- add boxes like common mistakes, warning, tip and so on. 
