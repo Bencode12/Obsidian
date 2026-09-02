@@ -16,7 +16,6 @@
 - Allow for users to attach images to the chatbot in the AI integrated mode
 - Users should be able to just link their github profiles instead of linking the repo so even private repos can be shown in the app
 - Does not render pasted images
-![pasted-1788359707074.png](pasted-1788359707074.png)
 
 
 
