@@ -42,7 +42,7 @@ Curriculum / Lessons
 
 •	Build out actual lesson content in /lessons
 •	Support additional curricula: IB (MYP and DP), AP, GCSE, A-Levels, Le Bac, others
-•	For IB (mostly DP) resources, use the PirateIB repo (git.pirateib.sh/pirateIB) — free, past papers only
+•	For IB (mostly DP) resources, use the PirateIB repo (git.pirateib.sh/pirateIB) — free, past papers only. Also include 
 
 Nirala
 
