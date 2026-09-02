@@ -80,4 +80,5 @@ CoWorker
 
 - add a way for users to extend the timeline more than 6 months. Also, when the user reads the theory, link book pages and stuff like those AI chatbot tictacs so you hover over them and the page appears and the relevant text gets highlighted in the book. Also, make sure all the animations and graphs render in lessons.
 - Instead of a countdown, replace it with a counter which counts up the time and with your solved time, it adapts next lessons
-- 
+- theory shouldn't be pasted all at once, add a read on button in the lessons so users can read little by little and once they are ready, they can press the button and get the next part.
+- In 
