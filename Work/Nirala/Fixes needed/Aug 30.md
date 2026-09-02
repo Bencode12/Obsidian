@@ -17,7 +17,7 @@
 - Users should be able to just link their github profiles instead of linking the repo so even private repos can be shown in the app
 - Does not render pasted images
 - Make it so pasted  images don't show up in the folder
-
+- 
 
 
 
