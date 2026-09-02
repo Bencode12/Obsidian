@@ -2,7 +2,7 @@
 
 ## File Count Flexibility
 
-**Note**: While many sections have 7 files, this is NOT a strict requirement. Sections can have:
+**Note**: While many sections have 7 files, this is a strict requirement. Sections can have:
 - **Fewer than 7 files**: If the topic is narrow (e.g., 4-5 files)
 - **Exactly 7 files**: Common for comprehensive topics
 - **More than 7 files**: For broad subjects that need expansion (8, 9, 10+ files)
