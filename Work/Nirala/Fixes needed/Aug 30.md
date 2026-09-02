@@ -11,6 +11,8 @@
 - add web search to the AI so it can search up relevant data. Also add anything else an agent might need. And if the agent uses web search, it would show a tic tac styled thingy like in claude or chatgpt or any sort of AI
 - the ask nirala AI textbox at the bottom only stays in notes, nowhere else
 - Don't show .gitkeep files in folders and libraries in the app.
+- Remove the File formatting box in the settings so only the Fromatting guides is the option
+Add a dropdown to the * box so users choose when which one is chosen.
 
 
 
