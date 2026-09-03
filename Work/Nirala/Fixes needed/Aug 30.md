@@ -9,6 +9,7 @@
 - renaming a file duplicates it with the new name instead of replacing the old name with the new one.
 - Remove the excalidraw drawing yaml function from the right click menu.
 - In some files, you can't draw in the whiteboard yaml function
+- 
 
 
 
