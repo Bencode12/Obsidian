@@ -20,6 +20,7 @@
 - don't show gitkeep files anywhere.
 - formatting guides replaces file formatting setting
 - Some settings are not alligned correctly and escape the bounds and make it look bad
+- 
 
 
 
