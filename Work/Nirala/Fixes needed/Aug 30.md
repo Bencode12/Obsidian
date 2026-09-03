@@ -14,7 +14,7 @@
 - allow for users to add tic tacs like any ai chatbot that shows the source.
 - add a changelog page to see all our updates.
 - update the docs because it's outdated
-- the star input box should be replaced with a dropdown to select when which one is used. Options currently: summaries, 
+- the star input box should be replaced with a dropdown to select when which one is used. Options currently: summaries, basic not
 
 
 
