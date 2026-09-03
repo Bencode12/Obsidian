@@ -17,7 +17,8 @@
 - the star input box should be replaced with a dropdown to select when which one is used. Options currently: summaries, basic notes, folders. Just think of how they should work, as I have a guide that both controls how many files should be in a vault and also the contents of the files.
 
 - pasted images don't render, they just show a string
-- don't show git
+- don't show gitkeep files anywhere.
+
 
 
 
