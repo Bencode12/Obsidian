@@ -14,7 +14,7 @@
 - allow for users to add tic tacs like any ai chatbot that shows the source.
 - add a changelog page to see all our updates.
 - update the docs because it's outdated
-- the 
+- the formatting guides 
 
 
 
