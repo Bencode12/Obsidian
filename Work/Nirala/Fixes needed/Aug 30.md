@@ -14,7 +14,7 @@
 - allow for users to add tic tacs like any ai chatbot that shows the source.
 - add a changelog page to see all our updates.
 - update the docs because it's outdated
-- the star input box should be replaced with a dropdown to select when which one is used. Options currently: summaries, basic notes, folders. Just think of how they should work, as I have a guide that both controls how many files should be in a vault and also the contents of the files.
+- the star input box should be replaced with a dropdown to select when which one is used. Options currently: summaries, basic notes, folders. Just think of how they should work, as I have a guide that both controls how many files should be in a vault and also the contents of the files. For example, if you set vault, it adds a second drop down to select which folders that format works in. 
 
 - pasted images don't render, they just show a string
 - don't show gitkeep files anywhere.
