@@ -11,7 +11,7 @@
 - In some files, you can't draw in the whiteboard yaml function
 - Needs custom notifications for the renaming, deletion and stuff like that
 - double clicking on the whiteboard yaml function in the note lets you see it fully, like books
-- 
+- allow for users to add tic tacs like 
 
 
 
