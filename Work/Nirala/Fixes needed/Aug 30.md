@@ -5,7 +5,7 @@
 - The UI looks weird in the notebook
 - when you search up an author, it should pull up a card with the authors picture and description of him/her from wikipedia.
 
-- calendar, add a input box to delete only this event, this one and all the others and so on. also, do it like google calendar and save which types of calendars already have been used for easier note writing
+- calendar, add
 - add voice memos so you can play what you spoke into the app later
 - add web search to the AI so it can search up relevant data. Also add anything else an agent might need. And if the agent uses web search, it would show a tic tac styled thingy like in claude or chatgpt or any sort of AI
 - the ask nirala AI textbox at the bottom only stays in notes, nowhere else
