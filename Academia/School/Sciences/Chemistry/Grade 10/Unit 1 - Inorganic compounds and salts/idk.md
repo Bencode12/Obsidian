@@ -3,5 +3,5 @@
 
 | Unit title | Key concept | Related concept(s) | Global context | 
 |----------|----------|
-| Unit 1   | Cell 2   |
+| Unit 1 - Inorganic compounds and salts  | Cell 2   |
 
