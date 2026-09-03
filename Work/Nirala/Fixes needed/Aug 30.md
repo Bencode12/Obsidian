@@ -19,7 +19,7 @@
 - pasted images don't render, they just show a string
 - don't show gitkeep files anywhere.
 - formatting guides replaces file formatting setting
-- Some settings are not 
+- Some settings are not alligned correctly and escape the bounds and make it look bad
 
 
 
