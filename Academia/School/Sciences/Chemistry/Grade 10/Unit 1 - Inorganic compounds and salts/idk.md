@@ -6,4 +6,4 @@
 | Unit 1 - Inorganic compounds and salts  | Relationships   |
 
 
-# 
+## Classes of inorganic compounds
