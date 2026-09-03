@@ -18,6 +18,7 @@
 
 - pasted images don't render, they just show a string
 - don't show gitkeep files anywhere.
+- 
 
 
 
