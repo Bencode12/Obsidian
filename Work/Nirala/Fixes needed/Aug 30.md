@@ -7,6 +7,7 @@
 - these textbox changes are only for the AI integrated mode. The AI Assisted gets a basic chatbot that can read, modify and delete the notes you link or the user asks about. It can however read the whole vault to see what's relevant.
 - Dragging still doesn't work
 - renaming a file duplicates it with the new name instead of replacing the old name with the new one.
+- Remove the excalidraw 
 
 
 
