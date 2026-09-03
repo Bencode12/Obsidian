@@ -22,6 +22,7 @@
 - Some settings are not alligned correctly and escape the bounds and make it look bad
 - MANY ISSUES with how the app handles some lines, tables, graphs and most YAML functions. (Skips over them, and skips over some basic text lines)
 - Voice playing doesn't work, intervals are by two seconds and should be by each second. After stopping, the timer still rolls by a second interval (updates each second)
+- Dragging into folders external files (for example from your desktop) doesn't work
 
 
 
