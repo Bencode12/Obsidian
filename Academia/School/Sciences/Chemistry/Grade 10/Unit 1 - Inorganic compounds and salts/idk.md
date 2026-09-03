@@ -8,4 +8,7 @@
 
 ## Classes of inorganic compounds
 
-
+Acids
+Bases
+Salt
+Oxides
