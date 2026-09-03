@@ -10,16 +10,8 @@
 - add voice memos so you can play what you spoke into the app later
 - add web search to the AI so it can search up relevant data. Also add anything else an agent might need. And if the agent uses web search, it would show a tic tac styled thingy like in claude or chatgpt or any sort of AI
 - the ask nirala AI textbox at the bottom only stays in notes, nowhere else
-- Don't show .gitkeep files in folders and libraries in the app.
-- Remove the File formatting box in the settings so only the Fromatting guides is the option
-- Add a dropdown to the * box so users choose when which one is chosen.
-- Allow for users to attach images to the chatbot in the AI integrated mode
-- Users should be able to just link their github profiles instead of linking the repo so even private repos can be shown in the app
-- Does not render pasted images
-- Make it so pasted  images don't show up in the folder
-- MANY issues with how lines are handled with YAML blocks and any basic thing like tables and graphs and such and even sometimes normal text lines (like if I go into a line with a YAML block or table or graph, it just skips that line)
-- Some YAML blocks don't work 
-
+- these textbox changes are only for the AI integrated mode. The AI Assisted gets a basic chatbot that can read, modify and delete the notes you link or the user asks about. It can however read the whole vault to see what's relevant.
+- 
 
 
 
