@@ -9,7 +9,7 @@
 - renaming a file duplicates it with the new name instead of replacing the old name with the new one.
 - Remove the excalidraw drawing yaml function from the right click menu.
 - In some files, you can't draw in the whiteboard yaml function
-- Needs custom notifications for the renaming, deletion and stuff like that (not the 
+- Needs custom notifications for the renaming, deletion and stuff like that (not the a
 - double clicking on the whiteboard yaml function in the note lets you see it fully, like books
 - allow for users to add tic tacs like any ai chatbot that shows the source.
 - add a changelog page to see all our updates.
