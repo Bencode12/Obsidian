@@ -21,13 +21,7 @@
 - formatting guides replaces file formatting setting
 - Some settings are not alligned correctly and escape the bounds and make it look bad
 - MANY ISSUES with how the app handles some lines, tables, graphs and most YAML functions. (Skips over them, and skips over some basic text lines)
-
-
-```voice
-src: voice-1788455222493.webm
-title: Voice memo (00:00)
-recorded: 9/3/2026, 8:07:05 PM
-```
+- Voice playing doesn't work
 
 
 
