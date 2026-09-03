@@ -21,7 +21,8 @@
 - formatting guides replaces file formatting setting
 - Some settings are not alligned correctly and escape the bounds and make it look bad
 - MANY ISSUES with how the app handles some lines, tables, graphs and most YAML functions. (Skips over them, and skips over some basic text lines)
-- 
+
+
 
 
 
