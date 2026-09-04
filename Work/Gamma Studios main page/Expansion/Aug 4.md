@@ -4,4 +4,4 @@
 
 -  Our slogan is innovative and creative
 
--  Add Terms of Service, Privacy Policy, Data Processing Agreement, Research/Data Policy, Page for subscriptions: Muon (free) - Proton (15$) - 
+-  Add Terms of Service, Privacy Policy, Data Processing Agreement, Research/Data Policy, Page for subscriptions: Muon (free) - Proton (15$) - Photon (
