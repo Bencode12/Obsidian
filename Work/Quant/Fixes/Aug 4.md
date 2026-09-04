@@ -5,3 +5,5 @@
 -  Just the visualisation: the window should not be floating, it should be on the right side as a menu. And the selection of which type of visualisaiton should be at the top row, not in both
 - Missing login (use the hub and the website spreadsheet saving)
 - allow export as both csv and xslx
+- hook up the AI
+- 
