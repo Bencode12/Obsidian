@@ -4,4 +4,4 @@
 
 -  Our slogan is innovative and creative
 
--  Add Terms of Service, Privacy Policy, Data Processing Agreement, 
+-  Add Terms of Service, Privacy Policy, Data Processing Agreement, Research/Data Policy, 
