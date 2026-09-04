@@ -6,5 +6,4 @@
 - Missing login (use the hub and the website spreadsheet saving)
 - allow export as both csv and xslx
 - hook up the AI
-- clicking on a point in the visualisation should route to the cell on the spreadsheet
-- add web search and other tools to the prismal AI
+
