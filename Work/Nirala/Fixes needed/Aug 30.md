@@ -10,7 +10,7 @@
 - these textbox changes are only for the AI integrated mode. The AI Assisted gets a basic chatbot that can read, modify and delete the notes you link or the user asks about. It can however read the whole vault to see what's relevant.
 - if you have an SOC file, it doesn't show up in the left side thingy but shows up in the folder view (when clicking on a folder)
 - more calendar stuff: if you want to change the calendar type for an event that is repeated, it should allow it but prompt with change all or change just this one.
-- limits to how this app should function, as it could be misused as an agentic IDE (say cursor). We need to limit it to just be .md and any similar file and stop the AI from generating code inside .md files. We also need to pre detect and constantly detect files that aren't notes or pdfs or EPUBs or any other thing that our YAML blocks or something uses and instead of blocking the whole repo, we just overlay a 
+- limits to how this app should function, as it could be misused as an agentic IDE (say cursor). We need to limit it to just be .md and any similar file and stop the AI from generating code inside .md files. We also need to pre detect and constantly detect files that aren't notes or pdfs or EPUBs or any other thing that our YAML blocks or something uses and instead of blocking the whole repo, we just overlay a circle with a hand inside it with text underneath it that says something like "This file is 
 
 
 
