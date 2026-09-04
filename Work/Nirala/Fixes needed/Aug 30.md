@@ -10,11 +10,6 @@
 - these textbox changes are only for the AI integrated mode. The AI Assisted gets a basic chatbot that can read, modify and delete the notes you link or the user asks about. It can however read the whole vault to see what's relevant.
 
 
-```whiteboard
-height: 480
-caption: Board
-```
-
 
 
 
