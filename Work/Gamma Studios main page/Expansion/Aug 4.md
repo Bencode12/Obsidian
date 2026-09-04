@@ -4,4 +4,4 @@
 
 -  Our slogan is innovative and creative
 
--  Add 
+-  Add Terms of Service,
