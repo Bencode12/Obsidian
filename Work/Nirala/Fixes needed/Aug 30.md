@@ -20,7 +20,7 @@
 - instead of connecting to a specific repo, just allow the user to link the github account to access any repo (both public and private)
 - build some features that would replace jupyter lab and notebooks
 - add a little pet in the ai tictac (Ask) chatbot and the full ai integrated mode
-- the 
+- the AI integrated mode chatbox at the bottom should be floating
 
 
 
