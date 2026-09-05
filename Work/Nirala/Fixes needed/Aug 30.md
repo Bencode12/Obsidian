@@ -25,9 +25,3 @@
 - center the left side bar with the home, notes, docs, settings and the other icons
 
 
-
-```whiteboard
-height: 480
-caption: Board
-`
-
