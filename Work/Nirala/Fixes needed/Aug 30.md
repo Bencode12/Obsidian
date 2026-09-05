@@ -23,6 +23,12 @@
 - the AI integrated mode chatbox at the bottom should be floating like in @Quant
 
 
+```voice
+src: voice-1788608461876.webm
+title: Voice memo (00:00)
+recorded: 05/09/2026, 14:41:04
+```
+
 
 
 
