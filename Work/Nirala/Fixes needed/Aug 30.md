@@ -17,14 +17,6 @@
 - I think the issue is with the Whiteboard YAML function
 
 
-  
-
-```whiteboard
-height: 480
-caption: Board
-```
-
-
 
 
 
