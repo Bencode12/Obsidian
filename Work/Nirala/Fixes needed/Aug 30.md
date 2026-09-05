@@ -13,8 +13,8 @@
 - limits to how this app should function, as it could be misused as an agentic IDE (say cursor). We need to limit it to just be .md and any similar file and stop the AI from generating code inside .md files. We also need to pre detect and constantly detect files that aren't notes or pdfs or EPUBs or any other thing that our YAML blocks or something uses and instead of blocking the whole repo, we just overlay a circle with a hand inside it with text underneath it that says something like "This file may lead to misuse of our tools. Please read the Terms of Service"
 - We need our custom 404 page (styled into the front page)
 - the changelog page just throws a 404 error
-- - dragging files into another place just puts an orange wrapper around it and that's it
-  - 
+-  dragging files into another place just puts an orange wrapper around it and that's it
+- 
 
 
 
