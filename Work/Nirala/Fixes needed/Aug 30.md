@@ -22,5 +22,4 @@
 - looked into sentry, it's way too slow, go through the codebase and find our slowest things and speed them up
 - build some features that would replace jupyter lab and notebooks
 
-  
 
