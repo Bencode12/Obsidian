@@ -16,6 +16,7 @@
 - dragging files into another place just puts an orange wrapper around it and that's it
 - I think the issue is with the Whiteboard YAML function, when I try drawing, it just thinks I'm trying to edit the underlying text of the YAML
 - connect to firebase for push notifications
+- 
 
 
 
