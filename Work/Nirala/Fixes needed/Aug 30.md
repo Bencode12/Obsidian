@@ -18,7 +18,7 @@
 - connect to firebase for push notifications
 - fill out the readme to have all relevant information: tech stack, codebase schema, date, LOC, connected stuff (supabase DB logins, firebase and anything else)
 - instead of connecting to a specific repo, just allow the user to link the github account to access any repo (both public and private)
-- 
+- build some features that would replace 
 
 
 
