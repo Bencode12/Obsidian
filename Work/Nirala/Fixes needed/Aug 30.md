@@ -22,6 +22,5 @@
 - add a little pet in the ai tictac (Ask) chatbot and the full ai integrated mode
 - the AI integrated mode chatbox at the bottom should be floating like in @Quant
 - looked into sentry, it's way too slow, go through the codebase and find our slowest things and speed them up
-- center the left side bar with the home, notes, docs, settings and the other icons
 
 
