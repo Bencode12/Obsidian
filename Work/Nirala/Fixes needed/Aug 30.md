@@ -14,7 +14,7 @@
 - We need our custom 404 page (styled into the front page)
 - the changelog page just throws a 404 error
 -  dragging files into another place just puts an orange wrapper around it and that's it
-- I think the issue is with the Whiteboard YAML function, when I try drawing, it just 
+- I think the issue is with the Whiteboard YAML function, when I try drawing, it just thinks I'm trying to edit the underlying text of the YAML
 
 
 
