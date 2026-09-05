@@ -21,15 +21,7 @@
 - build some features that would replace jupyter lab and notebooks
 - add a little pet in the ai tictac (Ask) chatbot and the full ai integrated mode
 - the AI integrated mode chatbox at the bottom should be floating like in @Quant
-- the voice memo feature still doesn't work
-
-
-
-
-
-
-
-
+- looked into sentry, it's way too slow
 
 
 
