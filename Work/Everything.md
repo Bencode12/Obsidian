@@ -1,2 +1,2 @@
 # Everything
-- Update the work
+- Update the workspace knowledge and skills
