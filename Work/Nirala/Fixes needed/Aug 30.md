@@ -23,6 +23,6 @@
 - build some features that would replace jupyter lab and notebooks
 - if you have some lines written with bulleted list or another type of list, you can drag right click to select those lines and replace say from bulleted to to-do
 - center the left side bar with the home, notes, docs, settings and the other icons
-add a little pet in the ai tictac (Ask) chatbot and the full ai integrated mode (like claude code claude buddy)
+- add a little pet in the ai tictac (Ask) chatbot and the full ai integrated mode (like claude code claude buddy)
 
 
