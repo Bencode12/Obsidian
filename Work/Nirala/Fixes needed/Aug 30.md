@@ -30,4 +30,4 @@
 - onboarding needed
 - redesign of the settings page
 - expanding docs
-- 
+- more agentic bs like claude
