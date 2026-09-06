@@ -26,3 +26,4 @@
 - add a little pet in the ai tictac (Ask) chatbot and the full ai integrated mode (like claude code claude buddy)
 - it cuts off a bit of the side of the initial line (only affects the title with the single # )
 - if the book provider doesn't allow for downloading pdfs or any other format (clearly seen by Balzac and the little chinese seamstress) explicitally state that the user won't be able to download it. If the platform allows for borrowing, say so. Just do status under each book like Downloadable: X - Borrowable: V
+
