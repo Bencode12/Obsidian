@@ -29,4 +29,5 @@
 - to speed up the book search, the books are already loaded like a normal library (you don't just click search and all the books are sifted through, all of them are already preloaded)
 - onboarding needed
 - redesign of the settings page
+- expanding docs
 - 
