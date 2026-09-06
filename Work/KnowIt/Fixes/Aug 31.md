@@ -88,4 +88,4 @@ CoWorker
 - Add general purpose tools like humanizer, plagiarism and AI detector,
 - after a user completes his career learning plan, at the end it would show like interview questions taken all over the place
 - Take freecodecamp and how they make their roadmaps: they add workshops and stuff. So add that into our learning plans (both the normal and career). For normal learning plans, for example in a maths learning plan, it would add writing a proof and stuff.
-- 
+- onboarding needed
