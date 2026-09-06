@@ -25,4 +25,4 @@
 - center the left side bar with the home, notes, docs, settings and the other icons
 - add a little pet in the ai tictac (Ask) chatbot and the full ai integrated mode (like claude code claude buddy)
 - it cuts off a bit of the side of the initial line (only affects the title with the single # )
-- if the book provider doesn't allow for downloading pdfs, 
+- if the book provider doesn't allow for downloading pdfs or any other format (clearly seen by Balzac and the little chinese seamstress) 
