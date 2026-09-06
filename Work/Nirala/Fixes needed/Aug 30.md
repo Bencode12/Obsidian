@@ -28,7 +28,7 @@
 - if the book provider doesn't allow for downloading pdfs or any other format (clearly seen by Balzac and the little chinese seamstress) explicitally state that the user won't be able to download it. If the platform allows for borrowing, say so. Just do status under each book like Downloadable: X - Borrowable: V. we could also introduce a way to render books from like internet archive and stuff (users just log into their accounts and they can see their borrowed or favorited or any other book.
 - to speed up the book search, the books are already loaded like a normal library (you don't just click search and all the books are sifted through, all of them are already preloaded)
 - onboarding needed
-- redesign of the settings page
+- redesign of the settings page (reorder settings, some settings should be in other places and so on)
 - expanding docs
 - more agentic bs like claude
 - redesign of how tables and shit looks like
