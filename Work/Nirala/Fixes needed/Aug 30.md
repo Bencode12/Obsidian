@@ -31,3 +31,6 @@
 - redesign of the settings page
 - expanding docs
 - more agentic bs like claude
+- redesign of how tables and shit looks like
+- adding plugins
+- 
