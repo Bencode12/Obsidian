@@ -39,4 +39,4 @@
 -   the moc file shows up as this : ![[pasted-1788805167128.png]] so like you open the folder ![[pasted-1788805276706.png]] and the contents of the MOC or the SOC show up just above the files section and below the title card
 -   remove the cornell yaml block
 -   fix the fucking voice thingy, still doesn't work
--   
+-   add other yaml blocks like weather and stuff
