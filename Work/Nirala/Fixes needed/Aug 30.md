@@ -20,4 +20,4 @@
 - Removing the Cornell block
 - Voice memos still broken
 - Extra YAML blocks (weather etc.)
-- If I highlight a block 
+- If I highlight a block that contains 
