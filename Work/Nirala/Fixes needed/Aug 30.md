@@ -1,4 +1,4 @@
-#
+# Ev
 Assisted mode as a plain chatbot that reads the whole vault and edits linked notes
 Notebook (AI) UI refinement
 Firebase push notifications
