@@ -38,5 +38,5 @@
 -   plugins ig
 -   what the AI assisted mode proposed, I commited and it still doesn't show up
 -   you can still control what you do with the blocked files in our apps (like deletion, renaming and anything else) and you can still open them, it just throws the screen.
--   the moc file shows up as this : ![[pasted-1788805167128.png]] so like you open the folder ![uploading…]()
+-   the moc file shows up as this : ![[pasted-1788805167128.png]] so like you open the folder 
 -   
