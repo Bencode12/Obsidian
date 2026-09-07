@@ -9,14 +9,14 @@
 - Preloading the whole library instead of searching
 - Photo library
 - Custom 401/403 pages and bottom-right notifications
-Release cards like Claude's (image + text + "read changelog")
-Removing the old "file formatting" option now that guides exist
-Feed source button alignment
-Vim keybinds (and pasting a full mapping)
-About section outdated; settings page redesign; plugins
-Assisted-mode edits committed but not showing
-Acting on blocked files (delete/rename/open) while keeping the overlay
-MOC/SOC contents rendered above the files section in folder view
+- Release cards like Claude's (image + text + "read changelog")
+- Removing the old "file formatting" option now that guides exist
+- Feed source button alignment
+- Vim keybinds (and pasting a full mapping)
+- About section outdated; settings page redesign; plugins
+- Assisted-mode edits committed but not showing
+- Acting on blocked files (delete/rename/open) while keeping the overlay
+- MOC/SOC contents rendered above the files section in folder view
 Removing the Cornell block
 Voice memos still broken
 Extra YAML blocks (weather etc.)
