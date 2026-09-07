@@ -37,4 +37,4 @@
 -   whole settings page needs to be redesigned (there is a lot of settings that should be in other sections and stuff)
 -   plugins ig
 -   what the AI assisted mode proposed, I commited and it still doesn't show up
--   
+
