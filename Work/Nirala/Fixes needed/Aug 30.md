@@ -35,7 +35,7 @@
 -   vim keybinds do not work and I was unable to paste my entire mapping
 -   about section in the settings is outdated
 -   whole settings page needs to be redesigned (there is a lot of settings that should be in other sections and stuff)
--   plugins ig (like what claude does
+-   plugins ig (like what claude does)
 -   what the AI assisted mode proposed, I commited and it still doesn't show up
 -   you can still control what you do with the blocked files in our apps (like deletion, renaming and anything else) and you can still open them, it just throws the screen.
 -   the moc file shows up as this : ![[pasted-1788805167128.png]] so like you open the folder ![[pasted-1788805276706.png]] and the contents of the MOC or the SOC show up just above the files section and below the title card
