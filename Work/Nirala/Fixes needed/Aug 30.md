@@ -30,4 +30,4 @@
 - library of photos
 - custom 401, 403 and other pages, also custom notifications that appear at the bottom right corner
 -   major updates will have a card like claude with their model releases. So like a window that shows an image on the left and on the right it shows text and you click read changelog and it puts you in the changelog
--   Remove file formatting
+-   Remove file formatting, formatting guides
