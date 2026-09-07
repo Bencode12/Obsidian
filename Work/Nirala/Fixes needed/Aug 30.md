@@ -2,13 +2,13 @@
 - Assisted mode as a plain chatbot that reads the whole vault and edits linked notes
 - Notebook (AI) UI refinement
 - Firebase push notifications
-Link a GitHub account instead of one repo (public + private)
-Performance pass / Sentry slowness
-Full Jupyter replacement (interactive cells)
-AI pet in the chat
-Preloading the whole library instead of searching
-Photo library
-Custom 401/403 pages and bottom-right notifications
+- Link a GitHub account instead of one repo (public + private)
+- Performance pass / Sentry slowness
+- Full Jupyter replacement (interactive cells)
+- AI pet in the chat
+- Preloading the whole library instead of searching
+- Photo library
+-Custom 401/403 pages and bottom-right notifications
 Release cards like Claude's (image + text + "read changelog")
 Removing the old "file formatting" option now that guides exist
 Feed source button alignment
