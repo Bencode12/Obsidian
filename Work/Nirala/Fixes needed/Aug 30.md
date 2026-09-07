@@ -1,38 +1,21 @@
-# Aug 30
-
-- Spacing is weird in lists. Like when one line of a dotted list wraps and goes down to a second line but stays in a single line thingy, it just adds a ton of space
-- Refine the UI in notebooks (AI)
-- these textbox changes are only for the AI integrated mode. The AI Assisted gets a basic chatbot that can read, modify and delete the notes you link or the user asks about. It can however read the whole vault to see what's relevant.
-- if you have an SOC file, it doesn't show up in the left side thingy but shows up in the folder view (when clicking on a folder)
-- more calendar stuff: if you want to change the calendar type for an event that is repeated, it should allow it but prompt with change all or change just this one.
-- limits to how this app should function, as it could be misused as an agentic IDE (say cursor). We need to limit it to just be .md and any similar file and stop the AI from generating code inside .md files. We also need to pre detect and constantly detect files that aren't notes or pdfs or EPUBs or any other thing that our YAML blocks or something uses and instead of blocking the whole repo, we just overlay a circle with a hand inside it with text underneath it that says something like "This file may lead to misuse of our tools. Please read the Terms of Service"
-- We need our custom 404 page (styled into the front page). Also for the other errors
-- the changelog page just throws a 404 error
-- dragging files into another place just puts an orange wrapper around it and that's it
-- I think the issue is with the Whiteboard YAML function, when I try drawing, it just thinks I'm trying to edit the underlying text of the YAML
-- connect to firebase for push notifications
-- fill out the readme to have all relevant information: tech stack, codebase schema, date, LOC, connected stuff (supabase DB logins, firebase and anything else)
-- instead of connecting to a specific repo, just allow the user to link the github account to access any repo (both public and private)
-- the AI integrated mode chatbox at the bottom should be floating like in @Quant
-- looked into sentry, it's way too slow, go through the codebase and find our slowest things and speed them up
-- build some features that would replace jupyter lab and notebooks
-- if you have some lines written with bulleted list or another type of list, you can drag right click to select those lines and replace say from bulleted to to-do
-- center the left side bar with the home, notes, docs, settings and the other icons
-- add a little pet in the ai tictac (Ask) chatbot and the full ai integrated mode (like claude code claude buddy)
-- if the book provider doesn't allow for downloading pdfs or any other format (clearly seen by Balzac and the little chinese seamstress) explicitally state that the user won't be able to download it. If the platform allows for borrowing, say so. Just do status under each book like Downloadable: X - Borrowable: V. we could also introduce a way to render books from like internet archive and stuff (users just log into their accounts and they can see their borrowed or favorited or any other book.
-- to speed up the book search, the books are already loaded like a normal library (you don't just click search and all the books are sifted through, all of them are already preloaded)
-- library of photos
-- custom 401, 403 and other pages, also custom notifications that appear at the bottom right corner
--   major updates will have a card like claude with their model releases. So like a window that shows an image on the left and on the right it shows text and you click read changelog and it puts you in the changelog
--   Remove file formatting, formatting guides are our new option
--   buttons in feed source are not alligned correctly
--   vim keybinds do not work and I was unable to paste my entire mapping
--   about section in the settings is outdated
--   whole settings page needs to be redesigned (there is a lot of settings that should be in other sections and stuff)
--   plugins ig (like what claude does)
--   what the AI assisted mode proposed, I commited and it still doesn't show up
--   you can still control what you do with the blocked files in our apps (like deletion, renaming and anything else) and you can still open them, it just throws the screen.
--   the moc file shows up as this : ![[pasted-1788805167128.png]] so like you open the folder ![[pasted-1788805276706.png]] and the contents of the MOC or the SOC show up just above the files section and below the title card
--   remove the cornell yaml block
--   fix the fucking voice thingy, still doesn't work
--   add other yaml blocks like weather and stuff
+Assisted mode as a plain chatbot that reads the whole vault and edits linked notes
+Notebook (AI) UI refinement
+Firebase push notifications
+Link a GitHub account instead of one repo (public + private)
+Performance pass / Sentry slowness
+Full Jupyter replacement (interactive cells)
+AI pet in the chat
+Preloading the whole library instead of searching
+Photo library
+Custom 401/403 pages and bottom-right notifications
+Release cards like Claude's (image + text + "read changelog")
+Removing the old "file formatting" option now that guides exist
+Feed source button alignment
+Vim keybinds (and pasting a full mapping)
+About section outdated; settings page redesign; plugins
+Assisted-mode edits committed but not showing
+Acting on blocked files (delete/rename/open) while keeping the overlay
+MOC/SOC contents rendered above the files section in folder view
+Removing the Cornell block
+Voice memos still broken
+Extra YAML blocks (weather etc.)
