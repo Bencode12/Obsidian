@@ -24,8 +24,8 @@
 - if you have some lines written with bulleted list or another type of list, you can drag right click to select those lines and replace say from bulleted to to-do
 - center the left side bar with the home, notes, docs, settings and the other icons
 - add a little pet in the ai tictac (Ask) chatbot and the full ai integrated mode (like claude code claude buddy)
-- it cuts off a bit of the side of the initial line (only affects the title with the single # )
-- if the book provider doesn't allow for downloading pdfs or any other format (clearly seen by Balzac and the little chinese seamstress) explicitally state that the user won't be able to download it. If the platform allows for borrowing, say so. Just do status under each book like Downloadable: X - Borrowable: V. we could also introduce a way to render books from like internet archive and stuff (users just log into their accounts and they can see their borrowed or favorited or any other book.
+- it cuts off a bit of the side of the initial line (only affects the title with the sing)
+- if the book provider doesn't allow for downloading pdfs or any other format (clearlyle #  seen by Balzac and the little chinese seamstress) explicitally state that the user won't be able to download it. If the platform allows for borrowing, say so. Just do status under each book like Downloadable: X - Borrowable: V. we could also introduce a way to render books from like internet archive and stuff (users just log into their accounts and they can see their borrowed or favorited or any other book.
 - to speed up the book search, the books are already loaded like a normal library (you don't just click search and all the books are sifted through, all of them are already preloaded)
 - library of photos
 - custom 401, 403 and other pages, also custom notifications that appear at the bottom right corner
