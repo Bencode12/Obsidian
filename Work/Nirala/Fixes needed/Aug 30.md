@@ -17,6 +17,6 @@
 - Assisted-mode edits committed but not showing
 - Acting on blocked files (delete/rename/open) while keeping the overlay
 - MOC/SOC contents rendered above the files section in folder view
-Removing the Cornell block
-Voice memos still broken
-Extra YAML blocks (weather etc.)
+- Removing the Cornell block
+- Voice memos still broken
+- Extra YAML blocks (weather etc.)
