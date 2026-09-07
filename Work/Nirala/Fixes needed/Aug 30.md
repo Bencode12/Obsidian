@@ -34,4 +34,4 @@
 -   buttons in feed source are not alligned correctly
 -   vim keybinds do not work and I was unable to paste my entire mapping
 -   about section in the settings is outdated
--   
+-   whole settings page needs to be redesigned (
