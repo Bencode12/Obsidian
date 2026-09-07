@@ -40,4 +40,4 @@
 -   you can still control what you do with the blocked files in our apps (like deletion, renaming and anything else) and you can still open them, it just throws the screen.
 -   the moc file shows up as this : ![[pasted-1788805167128.png]] so like you open the folder ![[pasted-1788805276706.png]] and the contents of the MOC or the SOC show up just above the files section and below the title card
 -   remove the cornell yaml block
--   fix the fucking 
+-   fix the fucking voice 
