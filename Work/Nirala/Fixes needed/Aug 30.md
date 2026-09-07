@@ -35,4 +35,4 @@
 -   vim keybinds do not work and I was unable to paste my entire mapping
 -   about section in the settings is outdated
 -   whole settings page needs to be redesigned (there is a lot of settings that should be in other sections and stuff)
--   
+-   plugins ig
