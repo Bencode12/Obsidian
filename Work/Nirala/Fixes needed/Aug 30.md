@@ -8,7 +8,7 @@
 - AI pet in the chat
 - Preloading the whole library instead of searching
 - Photo library
--Custom 401/403 pages and bottom-right notifications
+- Custom 401/403 pages and bottom-right notifications
 Release cards like Claude's (image + text + "read changelog")
 Removing the old "file formatting" option now that guides exist
 Feed source button alignment
