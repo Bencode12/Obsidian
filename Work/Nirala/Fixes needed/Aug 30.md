@@ -38,3 +38,9 @@
 -   plugins ig
 -   what the AI assisted mode proposed, I commited and it still doesn't show up
 
+
+```voice
+src: voice-1788804979397.webm
+title: Voice memo (00:00)
+recorded: 9/7/2026, 9:16:21 PM
+```
