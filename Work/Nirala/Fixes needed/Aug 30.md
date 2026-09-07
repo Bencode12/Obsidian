@@ -2,7 +2,6 @@
 
 - Spacing is weird in lists. Like when one line of a dotted list wraps and goes down to a second line but stays in a single line thingy, it just adds a ton of space
 - Refine the UI in notebooks (AI)
-
 - the ask nirala AI textbox at the bottom only stays in notes, nowhere else
 - these textbox changes are only for the AI integrated mode. The AI Assisted gets a basic chatbot that can read, modify and delete the notes you link or the user asks about. It can however read the whole vault to see what's relevant.
 - if you have an SOC file, it doesn't show up in the left side thingy but shows up in the folder view (when clicking on a folder)
